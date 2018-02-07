@@ -1,0 +1,9984 @@
+
+NODE	NB	Current Time
+0 	 4 	 2.225792
+
+NODE	NB	Current Time
+0 	 4 	 3.437016
+
+NODE	NB	Current Time
+0 	 2 	 3.437016
+
+NODE	NB	Current Time
+0 	 2 	 3.735672
+
+NODE	NB	Current Time
+0 	 5 	 3.735672
+
+NODE	NB	Current Time
+0 	 2 	 3.927726
+
+NODE	NB	Current Time
+0 	 5 	 3.927726
+
+NODE	NB	Current Time
+0 	 4 	 4.180463
+
+NODE	NB	Current Time
+0 	 4 	 5.394843
+
+NODE	NB	Current Time
+0 	 4 	 5.547292
+
+NODE	NB	Current Time
+0 	 4 	 5.559134
+
+NODE	NB	Current Time
+0 	 4 	 5.983379
+
+NODE	NB	Current Time
+0 	 5 	 5.992077
+
+NODE	NB	Current Time
+0 	 5 	 6.905621
+
+NODE	NB	Current Time
+0 	 5 	 7.036214
+
+NODE	NB	Current Time
+0 	 5 	 7.146643
+
+NODE	NB	Current Time
+0 	 5 	 7.796312
+
+NODE	NB	Current Time
+0 	 5 	 7.877927
+
+NODE	NB	Current Time
+0 	 5 	 8.635474
+
+NODE	NB	Current Time
+0 	 5 	 8.887383
+
+NODE	NB	Current Time
+0 	 5 	 9.000172
+
+NODE	NB	Current Time
+0 	 5 	 9.396809
+
+NODE	NB	Current Time
+0 	 5 	 9.573859
+
+NODE	NB	Current Time
+0 	 5 	 10.187819
+
+NODE	NB	Current Time
+0 	 5 	 10.636174
+
+NODE	NB	Current Time
+0 	 5 	 10.701006
+
+NODE	NB	Current Time
+0 	 5 	 10.979991
+
+NODE	NB	Current Time
+0 	 5 	 11.137507
+
+NODE	NB	Current Time
+0 	 5 	 11.892151
+
+NODE	NB	Current Time
+0 	 5 	 12.686631
+
+NODE	NB	Current Time
+0 	 5 	 12.708327
+
+NODE	NB	Current Time
+0 	 5 	 12.997987
+
+NODE	NB	Current Time
+0 	 5 	 13.192457
+
+NODE	NB	Current Time
+0 	 5 	 13.477276
+
+NODE	NB	Current Time
+0 	 5 	 14.507890
+
+NODE	NB	Current Time
+0 	 5 	 14.549782
+
+NODE	NB	Current Time
+0 	 5 	 14.583698
+
+NODE	NB	Current Time
+0 	 5 	 14.605240
+
+NODE	NB	Current Time
+0 	 5 	 15.516346
+
+NODE	NB	Current Time
+0 	 5 	 16.160235
+
+NODE	NB	Current Time
+0 	 5 	 16.165516
+
+NODE	NB	Current Time
+0 	 5 	 16.344602
+
+NODE	NB	Current Time
+0 	 5 	 16.460515
+
+NODE	NB	Current Time
+0 	 5 	 17.112110
+
+NODE	NB	Current Time
+0 	 5 	 17.618034
+
+NODE	NB	Current Time
+0 	 5 	 17.913658
+
+NODE	NB	Current Time
+0 	 5 	 17.919145
+
+NODE	NB	Current Time
+0 	 5 	 18.061649
+
+NODE	NB	Current Time
+0 	 5 	 19.070276
+
+NODE	NB	Current Time
+0 	 5 	 19.397902
+
+NODE	NB	Current Time
+0 	 5 	 19.467516
+
+NODE	NB	Current Time
+0 	 5 	 19.952908
+
+NODE	NB	Current Time
+0 	 5 	 19.959143
+
+NODE	NB	Current Time
+0 	 5 	 20.980843
+
+NODE	NB	Current Time
+0 	 5 	 21.121116
+
+NODE	NB	Current Time
+0 	 5 	 21.328536
+
+NODE	NB	Current Time
+0 	 5 	 21.516274
+
+NODE	NB	Current Time
+0 	 5 	 21.615753
+
+NODE	NB	Current Time
+0 	 5 	 22.661058
+
+NODE	NB	Current Time
+0 	 5 	 22.741614
+
+NODE	NB	Current Time
+0 	 5 	 22.964064
+
+NODE	NB	Current Time
+0 	 5 	 23.428233
+
+NODE	NB	Current Time
+0 	 5 	 23.564569
+
+NODE	NB	Current Time
+0 	 5 	 24.259621
+
+NODE	NB	Current Time
+0 	 5 	 24.467830
+
+NODE	NB	Current Time
+0 	 5 	 24.780964
+
+NODE	NB	Current Time
+0 	 5 	 25.300842
+
+NODE	NB	Current Time
+0 	 5 	 25.387964
+
+NODE	NB	Current Time
+0 	 5 	 26.057864
+
+NODE	NB	Current Time
+0 	 5 	 26.229620
+
+NODE	NB	Current Time
+0 	 5 	 26.477721
+
+NODE	NB	Current Time
+0 	 5 	 26.749911
+
+NODE	NB	Current Time
+0 	 5 	 26.901028
+
+NODE	NB	Current Time
+0 	 5 	 27.753554
+
+NODE	NB	Current Time
+0 	 5 	 28.111914
+
+NODE	NB	Current Time
+0 	 5 	 28.181835
+
+NODE	NB	Current Time
+0 	 5 	 28.487455
+
+NODE	NB	Current Time
+0 	 5 	 28.607683
+
+NODE	NB	Current Time
+0 	 5 	 29.870054
+
+NODE	NB	Current Time
+0 	 5 	 29.934163
+
+NODE	NB	Current Time
+0 	 5 	 30.015154
+
+NODE	NB	Current Time
+0 	 5 	 30.030359
+
+NODE	NB	Current Time
+0 	 5 	 30.501449
+
+NODE	NB	Current Time
+0 	 5 	 31.794895
+
+NODE	NB	Current Time
+0 	 5 	 31.941429
+
+NODE	NB	Current Time
+0 	 5 	 31.976668
+
+NODE	NB	Current Time
+0 	 5 	 32.035897
+
+NODE	NB	Current Time
+0 	 5 	 32.393396
+
+NODE	NB	Current Time
+0 	 5 	 33.551129
+
+NODE	NB	Current Time
+0 	 5 	 33.568768
+
+NODE	NB	Current Time
+0 	 5 	 33.634330
+
+NODE	NB	Current Time
+0 	 5 	 33.801281
+
+NODE	NB	Current Time
+0 	 5 	 34.661409
+
+NODE	NB	Current Time
+0 	 5 	 35.239530
+
+NODE	NB	Current Time
+0 	 5 	 35.291259
+
+NODE	NB	Current Time
+0 	 5 	 35.472234
+
+NODE	NB	Current Time
+0 	 5 	 35.653612
+
+NODE	NB	Current Time
+0 	 5 	 36.145603
+
+NODE	NB	Current Time
+0 	 5 	 37.111608
+
+NODE	NB	Current Time
+0 	 5 	 37.273811
+
+NODE	NB	Current Time
+0 	 5 	 37.305716
+
+NODE	NB	Current Time
+0 	 5 	 37.381549
+
+NODE	NB	Current Time
+0 	 5 	 37.971549
+
+NODE	NB	Current Time
+0 	 5 	 38.447212
+
+NODE	NB	Current Time
+0 	 5 	 38.692701
+
+NODE	NB	Current Time
+0 	 5 	 38.981429
+
+NODE	NB	Current Time
+0 	 5 	 39.428383
+
+NODE	NB	Current Time
+0 	 5 	 39.491581
+
+NODE	NB	Current Time
+0 	 5 	 39.943817
+
+NODE	NB	Current Time
+0 	 5 	 40.749442
+
+NODE	NB	Current Time
+0 	 5 	 40.765926
+
+NODE	NB	Current Time
+0 	 5 	 40.860541
+
+NODE	NB	Current Time
+0 	 5 	 41.301049
+
+NODE	NB	Current Time
+0 	 5 	 41.611319
+
+NODE	NB	Current Time
+0 	 5 	 42.188789
+
+NODE	NB	Current Time
+0 	 5 	 42.661509
+
+NODE	NB	Current Time
+0 	 5 	 42.940626
+
+NODE	NB	Current Time
+0 	 5 	 43.318830
+
+NODE	NB	Current Time
+0 	 5 	 43.541829
+
+NODE	NB	Current Time
+0 	 5 	 44.011482
+
+NODE	NB	Current Time
+0 	 5 	 44.191126
+
+NODE	NB	Current Time
+0 	 5 	 44.581349
+
+NODE	NB	Current Time
+0 	 5 	 44.796687
+
+NODE	NB	Current Time
+0 	 5 	 44.870774
+
+NODE	NB	Current Time
+0 	 5 	 45.734472
+
+NODE	NB	Current Time
+0 	 5 	 46.142748
+
+NODE	NB	Current Time
+0 	 5 	 46.203541
+
+NODE	NB	Current Time
+0 	 5 	 46.811459
+
+NODE	NB	Current Time
+0 	 5 	 47.154906
+
+NODE	NB	Current Time
+0 	 5 	 47.271833
+
+NODE	NB	Current Time
+0 	 5 	 47.879350
+
+NODE	NB	Current Time
+0 	 5 	 47.978498
+
+NODE	NB	Current Time
+0 	 5 	 48.694044
+
+NODE	NB	Current Time
+0 	 5 	 48.982269
+
+NODE	NB	Current Time
+0 	 5 	 49.141209
+
+NODE	NB	Current Time
+0 	 5 	 49.742166
+
+NODE	NB	Current Time
+0 	 5 	 49.753431
+
+NODE	NB	Current Time
+0 	 5 	 50.460857
+
+NODE	NB	Current Time
+0 	 5 	 50.477133
+
+NODE	NB	Current Time
+0 	 5 	 51.230014
+
+NODE	NB	Current Time
+0 	 5 	 51.584858
+
+NODE	NB	Current Time
+0 	 5 	 51.665041
+
+NODE	NB	Current Time
+0 	 5 	 52.152155
+
+NODE	NB	Current Time
+0 	 5 	 52.261989
+
+NODE	NB	Current Time
+0 	 5 	 53.211622
+
+NODE	NB	Current Time
+0 	 5 	 53.228000
+
+NODE	NB	Current Time
+0 	 5 	 53.356838
+
+NODE	NB	Current Time
+0 	 5 	 53.785246
+
+NODE	NB	Current Time
+0 	 5 	 54.387726
+
+NODE	NB	Current Time
+0 	 5 	 54.821149
+
+NODE	NB	Current Time
+0 	 5 	 55.451222
+
+NODE	NB	Current Time
+0 	 5 	 55.473072
+
+NODE	NB	Current Time
+0 	 5 	 55.704057
+
+NODE	NB	Current Time
+0 	 5 	 55.828240
+
+NODE	NB	Current Time
+0 	 5 	 56.731102
+
+NODE	NB	Current Time
+0 	 5 	 56.855181
+
+NODE	NB	Current Time
+0 	 5 	 57.221269
+
+NODE	NB	Current Time
+0 	 5 	 57.562470
+
+NODE	NB	Current Time
+0 	 5 	 57.633456
+
+NODE	NB	Current Time
+0 	 5 	 58.451806
+
+NODE	NB	Current Time
+0 	 5 	 58.602301
+
+NODE	NB	Current Time
+0 	 5 	 58.971788
+
+NODE	NB	Current Time
+0 	 5 	 59.462069
+
+NODE	NB	Current Time
+0 	 5 	 59.622873
+
+NODE	NB	Current Time
+0 	 5 	 60.129247
+
+NODE	NB	Current Time
+0 	 5 	 60.260989
+
+NODE	NB	Current Time
+0 	 5 	 60.370359
+
+NODE	NB	Current Time
+0 	 5 	 61.159495
+
+NODE	NB	Current Time
+0 	 5 	 61.469682
+
+NODE	NB	Current Time
+0 	 5 	 62.137623
+
+NODE	NB	Current Time
+0 	 5 	 62.445316
+
+NODE	NB	Current Time
+0 	 5 	 63.157999
+
+NODE	NB	Current Time
+0 	 5 	 63.356819
+
+NODE	NB	Current Time
+0 	 5 	 63.679415
+
+NODE	NB	Current Time
+0 	 5 	 63.886418
+
+NODE	NB	Current Time
+0 	 5 	 63.911657
+
+NODE	NB	Current Time
+0 	 5 	 64.918908
+
+NODE	NB	Current Time
+0 	 5 	 65.178851
+
+NODE	NB	Current Time
+0 	 5 	 65.477711
+
+NODE	NB	Current Time
+0 	 5 	 65.646191
+
+NODE	NB	Current Time
+0 	 5 	 65.749792
+
+NODE	NB	Current Time
+0 	 5 	 66.667927
+
+NODE	NB	Current Time
+0 	 5 	 66.787250
+
+NODE	NB	Current Time
+0 	 5 	 67.338781
+
+NODE	NB	Current Time
+0 	 5 	 67.549042
+
+NODE	NB	Current Time
+0 	 5 	 67.910271
+
+NODE	NB	Current Time
+0 	 5 	 68.764975
+
+NODE	NB	Current Time
+0 	 5 	 68.811542
+
+NODE	NB	Current Time
+0 	 5 	 69.381269
+
+NODE	NB	Current Time
+0 	 5 	 69.880580
+
+NODE	NB	Current Time
+0 	 5 	 70.033301
+
+NODE	NB	Current Time
+0 	 5 	 70.532925
+
+NODE	NB	Current Time
+0 	 5 	 70.664984
+
+NODE	NB	Current Time
+0 	 5 	 71.041730
+
+NODE	NB	Current Time
+0 	 5 	 71.461289
+
+NODE	NB	Current Time
+0 	 5 	 71.941749
+
+NODE	NB	Current Time
+0 	 5 	 71.974836
+
+NODE	NB	Current Time
+0 	 5 	 72.101069
+
+NODE	NB	Current Time
+0 	 5 	 72.821729
+
+NODE	NB	Current Time
+0 	 5 	 73.235558
+
+NODE	NB	Current Time
+0 	 5 	 73.531278
+
+NODE	NB	Current Time
+0 	 5 	 74.101849
+
+NODE	NB	Current Time
+0 	 5 	 74.511016
+
+NODE	NB	Current Time
+0 	 5 	 74.614145
+
+NODE	NB	Current Time
+0 	 5 	 74.712554
+
+NODE	NB	Current Time
+0 	 5 	 75.781949
+
+NODE	NB	Current Time
+0 	 5 	 75.917886
+
+NODE	NB	Current Time
+0 	 5 	 76.091002
+
+NODE	NB	Current Time
+0 	 5 	 76.312397
+
+NODE	NB	Current Time
+0 	 5 	 76.389757
+
+NODE	NB	Current Time
+0 	 5 	 77.081078
+
+NODE	NB	Current Time
+0 	 5 	 77.596462
+
+NODE	NB	Current Time
+0 	 5 	 77.814763
+
+NODE	NB	Current Time
+0 	 5 	 78.331443
+
+NODE	NB	Current Time
+0 	 5 	 78.379384
+
+NODE	NB	Current Time
+0 	 5 	 78.776520
+
+NODE	NB	Current Time
+0 	 5 	 79.161830
+
+NODE	NB	Current Time
+0 	 5 	 79.430192
+
+NODE	NB	Current Time
+0 	 5 	 79.781249
+
+NODE	NB	Current Time
+0 	 5 	 80.068708
+
+NODE	NB	Current Time
+0 	 5 	 80.743837
+
+NODE	NB	Current Time
+0 	 5 	 81.103824
+
+NODE	NB	Current Time
+0 	 5 	 81.468766
+
+NODE	NB	Current Time
+0 	 5 	 81.757550
+
+NODE	NB	Current Time
+0 	 5 	 81.985962
+
+NODE	NB	Current Time
+0 	 5 	 82.021189
+
+NODE	NB	Current Time
+0 	 5 	 83.000250
+
+NODE	NB	Current Time
+0 	 5 	 83.462591
+
+NODE	NB	Current Time
+0 	 5 	 83.611043
+
+NODE	NB	Current Time
+0 	 5 	 84.050005
+
+NODE	NB	Current Time
+0 	 5 	 84.268572
+
+NODE	NB	Current Time
+0 	 5 	 84.532533
+
+NODE	NB	Current Time
+0 	 5 	 85.074336
+
+NODE	NB	Current Time
+0 	 5 	 85.236789
+
+NODE	NB	Current Time
+0 	 5 	 85.470453
+
+NODE	NB	Current Time
+0 	 5 	 85.675228
+
+NODE	NB	Current Time
+0 	 5 	 85.812294
+
+NODE	NB	Current Time
+0 	 5 	 86.672312
+
+NODE	NB	Current Time
+0 	 5 	 87.508463
+
+NODE	NB	Current Time
+0 	 5 	 87.755766
+
+NODE	NB	Current Time
+0 	 5 	 87.771479
+
+NODE	NB	Current Time
+0 	 5 	 87.806506
+
+NODE	NB	Current Time
+0 	 5 	 88.047806
+
+NODE	NB	Current Time
+0 	 5 	 89.353110
+
+NODE	NB	Current Time
+0 	 5 	 89.359025
+
+NODE	NB	Current Time
+0 	 5 	 89.584506
+
+NODE	NB	Current Time
+0 	 5 	 89.727560
+
+NODE	NB	Current Time
+0 	 5 	 90.365837
+
+NODE	NB	Current Time
+0 	 5 	 90.912540
+
+NODE	NB	Current Time
+0 	 5 	 91.265476
+
+NODE	NB	Current Time
+0 	 5 	 91.487632
+
+NODE	NB	Current Time
+0 	 5 	 91.492537
+
+NODE	NB	Current Time
+0 	 5 	 91.646490
+
+NODE	NB	Current Time
+0 	 5 	 92.902049
+
+NODE	NB	Current Time
+0 	 5 	 92.971043
+
+NODE	NB	Current Time
+0 	 5 	 93.003173
+
+NODE	NB	Current Time
+0 	 5 	 93.541969
+
+NODE	NB	Current Time
+0 	 5 	 93.611162
+
+NODE	NB	Current Time
+0 	 5 	 94.598898
+
+NODE	NB	Current Time
+0 	 5 	 94.731343
+
+NODE	NB	Current Time
+0 	 5 	 95.095684
+
+NODE	NB	Current Time
+0 	 5 	 95.181880
+
+NODE	NB	Current Time
+0 	 5 	 95.941249
+
+NODE	NB	Current Time
+0 	 5 	 96.341649
+
+NODE	NB	Current Time
+0 	 5 	 96.352357
+
+NODE	NB	Current Time
+0 	 5 	 96.686567
+
+NODE	NB	Current Time
+0 	 5 	 96.953533
+
+NODE	NB	Current Time
+0 	 5 	 97.141529
+
+NODE	NB	Current Time
+0 	 5 	 97.571861
+
+NODE	NB	Current Time
+0 	 5 	 98.058834
+
+NODE	NB	Current Time
+0 	 5 	 98.347820
+
+NODE	NB	Current Time
+0 	 5 	 98.651199
+
+NODE	NB	Current Time
+0 	 5 	 99.348688
+
+NODE	NB	Current Time
+0 	 5 	 99.431245
+
+NODE	NB	Current Time
+0 	 5 	 100.025209
+
+NODE	NB	Current Time
+0 	 5 	 100.200858
+
+NODE	NB	Current Time
+0 	 5 	 100.399099
+
+NODE	NB	Current Time
+0 	 5 	 101.008832
+
+NODE	NB	Current Time
+0 	 5 	 101.465626
+
+NODE	NB	Current Time
+0 	 5 	 101.703162
+
+NODE	NB	Current Time
+0 	 5 	 101.714270
+
+NODE	NB	Current Time
+0 	 5 	 102.537877
+
+NODE	NB	Current Time
+0 	 5 	 102.741309
+
+NODE	NB	Current Time
+0 	 5 	 103.141009
+
+NODE	NB	Current Time
+0 	 5 	 103.267065
+
+NODE	NB	Current Time
+0 	 5 	 103.560014
+
+NODE	NB	Current Time
+0 	 5 	 104.300283
+
+NODE	NB	Current Time
+0 	 5 	 104.610314
+
+NODE	NB	Current Time
+0 	 5 	 105.087859
+
+NODE	NB	Current Time
+0 	 5 	 105.246180
+
+NODE	NB	Current Time
+0 	 5 	 105.461649
+
+NODE	NB	Current Time
+0 	 5 	 106.473290
+
+NODE	NB	Current Time
+0 	 5 	 106.521485
+
+NODE	NB	Current Time
+0 	 5 	 106.664703
+
+NODE	NB	Current Time
+0 	 5 	 106.799493
+
+NODE	NB	Current Time
+0 	 5 	 107.260463
+
+NODE	NB	Current Time
+0 	 5 	 107.941829
+
+NODE	NB	Current Time
+0 	 5 	 108.261309
+
+NODE	NB	Current Time
+0 	 5 	 108.364906
+
+NODE	NB	Current Time
+0 	 5 	 108.587071
+
+NODE	NB	Current Time
+0 	 5 	 108.651642
+
+NODE	NB	Current Time
+0 	 5 	 109.913231
+
+NODE	NB	Current Time
+0 	 5 	 109.979689
+
+NODE	NB	Current Time
+0 	 5 	 110.192511
+
+NODE	NB	Current Time
+0 	 5 	 110.237675
+
+NODE	NB	Current Time
+0 	 5 	 110.790874
+
+NODE	NB	Current Time
+0 	 5 	 111.531422
+
+NODE	NB	Current Time
+0 	 5 	 111.715152
+
+NODE	NB	Current Time
+0 	 5 	 112.171583
+
+NODE	NB	Current Time
+0 	 5 	 112.459253
+
+NODE	NB	Current Time
+0 	 5 	 112.633083
+
+NODE	NB	Current Time
+0 	 5 	 113.302189
+
+NODE	NB	Current Time
+0 	 5 	 113.352726
+
+NODE	NB	Current Time
+0 	 5 	 113.755428
+
+NODE	NB	Current Time
+0 	 5 	 113.820506
+
+NODE	NB	Current Time
+0 	 5 	 114.421269
+
+NODE	NB	Current Time
+0 	 5 	 114.545718
+
+NODE	NB	Current Time
+0 	 5 	 115.195630
+
+NODE	NB	Current Time
+0 	 5 	 115.415258
+
+NODE	NB	Current Time
+0 	 5 	 115.792867
+
+NODE	NB	Current Time
+0 	 5 	 115.891826
+
+NODE	NB	Current Time
+0 	 5 	 116.678812
+
+NODE	NB	Current Time
+0 	 5 	 117.222962
+
+NODE	NB	Current Time
+0 	 5 	 117.224289
+
+NODE	NB	Current Time
+0 	 5 	 117.624727
+
+NODE	NB	Current Time
+0 	 5 	 117.910873
+
+NODE	NB	Current Time
+0 	 5 	 118.265235
+
+NODE	NB	Current Time
+0 	 5 	 118.602063
+
+NODE	NB	Current Time
+0 	 5 	 118.855416
+
+NODE	NB	Current Time
+0 	 5 	 119.500222
+
+NODE	NB	Current Time
+0 	 5 	 119.629101
+
+NODE	NB	Current Time
+0 	 5 	 119.963177
+
+NODE	NB	Current Time
+0 	 5 	 120.454025
+
+NODE	NB	Current Time
+0 	 5 	 120.825163
+
+NODE	NB	Current Time
+0 	 5 	 121.108473
+
+NODE	NB	Current Time
+0 	 5 	 121.489324
+
+NODE	NB	Current Time
+0 	 5 	 121.973108
+
+NODE	NB	Current Time
+0 	 5 	 122.310299
+
+NODE	NB	Current Time
+0 	 5 	 122.473384
+
+NODE	NB	Current Time
+0 	 5 	 122.892681
+
+NODE	NB	Current Time
+0 	 5 	 122.997187
+
+NODE	NB	Current Time
+0 	 5 	 123.611379
+
+NODE	NB	Current Time
+0 	 5 	 124.069321
+
+NODE	NB	Current Time
+0 	 5 	 124.122579
+
+NODE	NB	Current Time
+0 	 5 	 124.717741
+
+NODE	NB	Current Time
+0 	 5 	 125.233206
+
+NODE	NB	Current Time
+0 	 5 	 125.584590
+
+NODE	NB	Current Time
+0 	 5 	 125.861009
+
+NODE	NB	Current Time
+0 	 5 	 125.973804
+
+NODE	NB	Current Time
+0 	 5 	 126.554620
+
+NODE	NB	Current Time
+0 	 5 	 126.901729
+
+NODE	NB	Current Time
+0 	 5 	 127.141309
+
+NODE	NB	Current Time
+0 	 5 	 127.450923
+
+NODE	NB	Current Time
+0 	 5 	 127.611662
+
+NODE	NB	Current Time
+0 	 5 	 128.268369
+
+NODE	NB	Current Time
+0 	 5 	 129.084838
+
+NODE	NB	Current Time
+0 	 5 	 129.101726
+
+NODE	NB	Current Time
+0 	 5 	 129.104609
+
+NODE	NB	Current Time
+0 	 5 	 129.141729
+
+NODE	NB	Current Time
+0 	 5 	 129.874925
+
+NODE	NB	Current Time
+0 	 5 	 130.365123
+
+NODE	NB	Current Time
+0 	 5 	 130.602366
+
+NODE	NB	Current Time
+0 	 5 	 130.925001
+
+NODE	NB	Current Time
+0 	 5 	 131.279069
+
+NODE	NB	Current Time
+0 	 5 	 132.101509
+
+NODE	NB	Current Time
+0 	 5 	 132.411219
+
+NODE	NB	Current Time
+0 	 5 	 132.594116
+
+NODE	NB	Current Time
+0 	 5 	 133.024502
+
+NODE	NB	Current Time
+0 	 5 	 133.148097
+
+NODE	NB	Current Time
+0 	 5 	 133.702069
+
+NODE	NB	Current Time
+0 	 5 	 134.021949
+
+NODE	NB	Current Time
+0 	 5 	 134.058342
+
+NODE	NB	Current Time
+0 	 5 	 134.453472
+
+NODE	NB	Current Time
+0 	 5 	 134.912893
+
+NODE	NB	Current Time
+0 	 5 	 135.193195
+
+NODE	NB	Current Time
+0 	 5 	 135.590311
+
+NODE	NB	Current Time
+0 	 5 	 135.742257
+
+NODE	NB	Current Time
+0 	 5 	 136.317834
+
+NODE	NB	Current Time
+0 	 5 	 136.360865
+
+NODE	NB	Current Time
+0 	 5 	 137.141729
+
+NODE	NB	Current Time
+0 	 5 	 137.492966
+
+NODE	NB	Current Time
+0 	 5 	 137.715571
+
+NODE	NB	Current Time
+0 	 5 	 137.919223
+
+NODE	NB	Current Time
+0 	 5 	 138.136524
+
+NODE	NB	Current Time
+0 	 5 	 138.821809
+
+NODE	NB	Current Time
+0 	 5 	 139.600508
+
+NODE	NB	Current Time
+0 	 5 	 139.611693
+
+NODE	NB	Current Time
+0 	 5 	 139.639657
+
+NODE	NB	Current Time
+0 	 5 	 139.967448
+
+NODE	NB	Current Time
+0 	 5 	 140.359747
+
+NODE	NB	Current Time
+0 	 5 	 141.085175
+
+NODE	NB	Current Time
+0 	 5 	 141.227123
+
+NODE	NB	Current Time
+0 	 5 	 141.387100
+
+NODE	NB	Current Time
+0 	 5 	 141.567056
+
+NODE	NB	Current Time
+0 	 5 	 142.272581
+
+NODE	NB	Current Time
+0 	 5 	 142.581749
+
+NODE	NB	Current Time
+0 	 5 	 143.328902
+
+NODE	NB	Current Time
+0 	 5 	 143.466635
+
+NODE	NB	Current Time
+0 	 5 	 143.508017
+
+NODE	NB	Current Time
+0 	 5 	 143.985237
+
+NODE	NB	Current Time
+0 	 5 	 144.193626
+
+NODE	NB	Current Time
+0 	 5 	 144.901289
+
+NODE	NB	Current Time
+0 	 5 	 145.177126
+
+NODE	NB	Current Time
+0 	 5 	 145.576883
+
+NODE	NB	Current Time
+0 	 5 	 145.989760
+
+NODE	NB	Current Time
+0 	 5 	 146.207466
+
+NODE	NB	Current Time
+0 	 5 	 146.527396
+
+NODE	NB	Current Time
+0 	 5 	 146.768655
+
+NODE	NB	Current Time
+0 	 5 	 146.778994
+
+NODE	NB	Current Time
+0 	 5 	 147.995079
+
+NODE	NB	Current Time
+0 	 5 	 148.038901
+
+NODE	NB	Current Time
+0 	 5 	 148.454124
+
+NODE	NB	Current Time
+0 	 5 	 148.581589
+
+NODE	NB	Current Time
+0 	 5 	 149.051102
+
+NODE	NB	Current Time
+0 	 5 	 149.559651
+
+NODE	NB	Current Time
+0 	 5 	 149.723892
+
+NODE	NB	Current Time
+0 	 4 	 2.225792
+
+NODE	NB	Current Time
+0 	 4 	 3.437016
+
+NODE	NB	Current Time
+0 	 2 	 3.437016
+
+NODE	NB	Current Time
+0 	 2 	 3.735672
+
+NODE	NB	Current Time
+0 	 5 	 3.735672
+
+NODE	NB	Current Time
+0 	 2 	 3.927726
+
+NODE	NB	Current Time
+0 	 5 	 3.927726
+
+NODE	NB	Current Time
+0 	 4 	 4.180463
+
+NODE	NB	Current Time
+0 	 4 	 5.394843
+
+NODE	NB	Current Time
+0 	 4 	 5.547292
+
+NODE	NB	Current Time
+0 	 4 	 5.559134
+
+NODE	NB	Current Time
+0 	 4 	 5.983379
+
+NODE	NB	Current Time
+0 	 5 	 5.992077
+
+NODE	NB	Current Time
+0 	 5 	 6.905621
+
+NODE	NB	Current Time
+0 	 5 	 7.036214
+
+NODE	NB	Current Time
+0 	 5 	 7.146643
+
+NODE	NB	Current Time
+0 	 5 	 7.796312
+
+NODE	NB	Current Time
+0 	 5 	 7.877927
+
+NODE	NB	Current Time
+0 	 5 	 8.635474
+
+NODE	NB	Current Time
+0 	 5 	 8.887383
+
+NODE	NB	Current Time
+0 	 5 	 9.000172
+
+NODE	NB	Current Time
+0 	 5 	 9.396809
+
+NODE	NB	Current Time
+0 	 5 	 9.573859
+
+NODE	NB	Current Time
+0 	 5 	 10.187819
+
+NODE	NB	Current Time
+0 	 5 	 10.636174
+
+NODE	NB	Current Time
+0 	 5 	 10.701006
+
+NODE	NB	Current Time
+0 	 5 	 10.979991
+
+NODE	NB	Current Time
+0 	 5 	 11.137507
+
+NODE	NB	Current Time
+0 	 5 	 11.892151
+
+NODE	NB	Current Time
+0 	 5 	 12.686631
+
+NODE	NB	Current Time
+0 	 5 	 12.708327
+
+NODE	NB	Current Time
+0 	 5 	 12.997987
+
+NODE	NB	Current Time
+0 	 5 	 13.192457
+
+NODE	NB	Current Time
+0 	 5 	 13.477276
+
+NODE	NB	Current Time
+0 	 5 	 14.507890
+
+NODE	NB	Current Time
+0 	 5 	 14.549782
+
+NODE	NB	Current Time
+0 	 5 	 14.583698
+
+NODE	NB	Current Time
+0 	 5 	 14.605240
+
+NODE	NB	Current Time
+0 	 5 	 15.516346
+
+NODE	NB	Current Time
+0 	 5 	 16.160235
+
+NODE	NB	Current Time
+0 	 5 	 16.165516
+
+NODE	NB	Current Time
+0 	 5 	 16.344602
+
+NODE	NB	Current Time
+0 	 5 	 16.460515
+
+NODE	NB	Current Time
+0 	 5 	 17.112110
+
+NODE	NB	Current Time
+0 	 5 	 17.618034
+
+NODE	NB	Current Time
+0 	 5 	 17.913658
+
+NODE	NB	Current Time
+0 	 5 	 17.919145
+
+NODE	NB	Current Time
+0 	 5 	 18.061649
+
+NODE	NB	Current Time
+0 	 5 	 19.070276
+
+NODE	NB	Current Time
+0 	 5 	 19.397902
+
+NODE	NB	Current Time
+0 	 5 	 19.467516
+
+NODE	NB	Current Time
+0 	 5 	 19.952908
+
+NODE	NB	Current Time
+0 	 5 	 19.959143
+
+NODE	NB	Current Time
+0 	 5 	 20.980843
+
+NODE	NB	Current Time
+0 	 5 	 21.121116
+
+NODE	NB	Current Time
+0 	 5 	 21.328536
+
+NODE	NB	Current Time
+0 	 5 	 21.516274
+
+NODE	NB	Current Time
+0 	 5 	 21.615753
+
+NODE	NB	Current Time
+0 	 5 	 22.661058
+
+NODE	NB	Current Time
+0 	 5 	 22.741614
+
+NODE	NB	Current Time
+0 	 5 	 22.964064
+
+NODE	NB	Current Time
+0 	 5 	 23.428233
+
+NODE	NB	Current Time
+0 	 5 	 23.564569
+
+NODE	NB	Current Time
+0 	 5 	 24.259621
+
+NODE	NB	Current Time
+0 	 5 	 24.467830
+
+NODE	NB	Current Time
+0 	 5 	 24.780964
+
+NODE	NB	Current Time
+0 	 5 	 25.300842
+
+NODE	NB	Current Time
+0 	 5 	 25.387964
+
+NODE	NB	Current Time
+0 	 5 	 26.057864
+
+NODE	NB	Current Time
+0 	 5 	 26.229620
+
+NODE	NB	Current Time
+0 	 5 	 26.477721
+
+NODE	NB	Current Time
+0 	 5 	 26.749911
+
+NODE	NB	Current Time
+0 	 5 	 26.901028
+
+NODE	NB	Current Time
+0 	 5 	 27.753554
+
+NODE	NB	Current Time
+0 	 5 	 28.111914
+
+NODE	NB	Current Time
+0 	 5 	 28.181835
+
+NODE	NB	Current Time
+0 	 5 	 28.487455
+
+NODE	NB	Current Time
+0 	 5 	 28.607683
+
+NODE	NB	Current Time
+0 	 5 	 29.870054
+
+NODE	NB	Current Time
+0 	 5 	 29.934163
+
+NODE	NB	Current Time
+0 	 5 	 30.015154
+
+NODE	NB	Current Time
+0 	 5 	 30.030359
+
+NODE	NB	Current Time
+0 	 5 	 30.501449
+
+NODE	NB	Current Time
+0 	 5 	 31.794895
+
+NODE	NB	Current Time
+0 	 5 	 31.941429
+
+NODE	NB	Current Time
+0 	 5 	 31.976668
+
+NODE	NB	Current Time
+0 	 5 	 32.035897
+
+NODE	NB	Current Time
+0 	 5 	 32.393396
+
+NODE	NB	Current Time
+0 	 5 	 33.551129
+
+NODE	NB	Current Time
+0 	 5 	 33.568768
+
+NODE	NB	Current Time
+0 	 5 	 33.634330
+
+NODE	NB	Current Time
+0 	 5 	 33.801281
+
+NODE	NB	Current Time
+0 	 5 	 34.661409
+
+NODE	NB	Current Time
+0 	 5 	 35.239530
+
+NODE	NB	Current Time
+0 	 5 	 35.291259
+
+NODE	NB	Current Time
+0 	 5 	 35.472234
+
+NODE	NB	Current Time
+0 	 5 	 35.653612
+
+NODE	NB	Current Time
+0 	 5 	 36.145603
+
+NODE	NB	Current Time
+0 	 5 	 37.111608
+
+NODE	NB	Current Time
+0 	 5 	 37.273811
+
+NODE	NB	Current Time
+0 	 5 	 37.305716
+
+NODE	NB	Current Time
+0 	 5 	 37.381549
+
+NODE	NB	Current Time
+0 	 5 	 37.971549
+
+NODE	NB	Current Time
+0 	 5 	 38.447212
+
+NODE	NB	Current Time
+0 	 5 	 38.692701
+
+NODE	NB	Current Time
+0 	 5 	 38.981429
+
+NODE	NB	Current Time
+0 	 5 	 39.428383
+
+NODE	NB	Current Time
+0 	 5 	 39.491581
+
+NODE	NB	Current Time
+0 	 5 	 39.943817
+
+NODE	NB	Current Time
+0 	 5 	 40.749442
+
+NODE	NB	Current Time
+0 	 5 	 40.765926
+
+NODE	NB	Current Time
+0 	 5 	 40.860541
+
+NODE	NB	Current Time
+0 	 5 	 41.301049
+
+NODE	NB	Current Time
+0 	 5 	 41.611319
+
+NODE	NB	Current Time
+0 	 5 	 42.188789
+
+NODE	NB	Current Time
+0 	 5 	 42.661509
+
+NODE	NB	Current Time
+0 	 5 	 42.940626
+
+NODE	NB	Current Time
+0 	 5 	 43.318830
+
+NODE	NB	Current Time
+0 	 5 	 43.541829
+
+NODE	NB	Current Time
+0 	 5 	 44.011482
+
+NODE	NB	Current Time
+0 	 5 	 44.191126
+
+NODE	NB	Current Time
+0 	 5 	 44.581349
+
+NODE	NB	Current Time
+0 	 5 	 44.796687
+
+NODE	NB	Current Time
+0 	 5 	 44.870774
+
+NODE	NB	Current Time
+0 	 5 	 45.734472
+
+NODE	NB	Current Time
+0 	 5 	 46.142748
+
+NODE	NB	Current Time
+0 	 5 	 46.203541
+
+NODE	NB	Current Time
+0 	 5 	 46.811459
+
+NODE	NB	Current Time
+0 	 5 	 47.154906
+
+NODE	NB	Current Time
+0 	 5 	 47.271833
+
+NODE	NB	Current Time
+0 	 5 	 47.879350
+
+NODE	NB	Current Time
+0 	 5 	 47.978498
+
+NODE	NB	Current Time
+0 	 5 	 48.694044
+
+NODE	NB	Current Time
+0 	 5 	 48.982269
+
+NODE	NB	Current Time
+0 	 5 	 49.141209
+
+NODE	NB	Current Time
+0 	 5 	 49.742166
+
+NODE	NB	Current Time
+0 	 5 	 49.753431
+
+NODE	NB	Current Time
+0 	 5 	 50.460857
+
+NODE	NB	Current Time
+0 	 5 	 50.477133
+
+NODE	NB	Current Time
+0 	 5 	 51.230014
+
+NODE	NB	Current Time
+0 	 5 	 51.584858
+
+NODE	NB	Current Time
+0 	 5 	 51.665041
+
+NODE	NB	Current Time
+0 	 5 	 52.152155
+
+NODE	NB	Current Time
+0 	 5 	 52.261989
+
+NODE	NB	Current Time
+0 	 5 	 53.211622
+
+NODE	NB	Current Time
+0 	 5 	 53.228000
+
+NODE	NB	Current Time
+0 	 5 	 53.356838
+
+NODE	NB	Current Time
+0 	 5 	 53.785246
+
+NODE	NB	Current Time
+0 	 5 	 54.387726
+
+NODE	NB	Current Time
+0 	 5 	 54.821149
+
+NODE	NB	Current Time
+0 	 5 	 55.451222
+
+NODE	NB	Current Time
+0 	 5 	 55.473072
+
+NODE	NB	Current Time
+0 	 5 	 55.704057
+
+NODE	NB	Current Time
+0 	 5 	 55.828240
+
+NODE	NB	Current Time
+0 	 5 	 56.731102
+
+NODE	NB	Current Time
+0 	 5 	 56.855181
+
+NODE	NB	Current Time
+0 	 5 	 57.221269
+
+NODE	NB	Current Time
+0 	 5 	 57.562470
+
+NODE	NB	Current Time
+0 	 5 	 57.633456
+
+NODE	NB	Current Time
+0 	 5 	 58.451806
+
+NODE	NB	Current Time
+0 	 5 	 58.602301
+
+NODE	NB	Current Time
+0 	 5 	 58.971788
+
+NODE	NB	Current Time
+0 	 5 	 59.462069
+
+NODE	NB	Current Time
+0 	 5 	 59.622873
+
+NODE	NB	Current Time
+0 	 5 	 60.129247
+
+NODE	NB	Current Time
+0 	 5 	 60.260989
+
+NODE	NB	Current Time
+0 	 5 	 60.370359
+
+NODE	NB	Current Time
+0 	 5 	 61.159495
+
+NODE	NB	Current Time
+0 	 5 	 61.469682
+
+NODE	NB	Current Time
+0 	 5 	 62.137623
+
+NODE	NB	Current Time
+0 	 5 	 62.445316
+
+NODE	NB	Current Time
+0 	 5 	 63.157999
+
+NODE	NB	Current Time
+0 	 5 	 63.356819
+
+NODE	NB	Current Time
+0 	 5 	 63.679415
+
+NODE	NB	Current Time
+0 	 5 	 63.886418
+
+NODE	NB	Current Time
+0 	 5 	 63.911657
+
+NODE	NB	Current Time
+0 	 5 	 64.918908
+
+NODE	NB	Current Time
+0 	 5 	 65.178851
+
+NODE	NB	Current Time
+0 	 5 	 65.477711
+
+NODE	NB	Current Time
+0 	 5 	 65.646191
+
+NODE	NB	Current Time
+0 	 5 	 65.749792
+
+NODE	NB	Current Time
+0 	 5 	 66.667927
+
+NODE	NB	Current Time
+0 	 5 	 66.787250
+
+NODE	NB	Current Time
+0 	 5 	 67.338781
+
+NODE	NB	Current Time
+0 	 5 	 67.549042
+
+NODE	NB	Current Time
+0 	 5 	 67.910271
+
+NODE	NB	Current Time
+0 	 5 	 68.764975
+
+NODE	NB	Current Time
+0 	 5 	 68.811542
+
+NODE	NB	Current Time
+0 	 5 	 69.381269
+
+NODE	NB	Current Time
+0 	 5 	 69.880580
+
+NODE	NB	Current Time
+0 	 5 	 70.033301
+
+NODE	NB	Current Time
+0 	 5 	 70.532925
+
+NODE	NB	Current Time
+0 	 5 	 70.664984
+
+NODE	NB	Current Time
+0 	 5 	 71.041730
+
+NODE	NB	Current Time
+0 	 5 	 71.461289
+
+NODE	NB	Current Time
+0 	 5 	 71.941749
+
+NODE	NB	Current Time
+0 	 5 	 71.974836
+
+NODE	NB	Current Time
+0 	 5 	 72.101069
+
+NODE	NB	Current Time
+0 	 5 	 72.821729
+
+NODE	NB	Current Time
+0 	 5 	 73.235558
+
+NODE	NB	Current Time
+0 	 5 	 73.531278
+
+NODE	NB	Current Time
+0 	 5 	 74.101849
+
+NODE	NB	Current Time
+0 	 5 	 74.511016
+
+NODE	NB	Current Time
+0 	 5 	 74.614145
+
+NODE	NB	Current Time
+0 	 5 	 74.712554
+
+NODE	NB	Current Time
+0 	 5 	 75.781949
+
+NODE	NB	Current Time
+0 	 5 	 75.917886
+
+NODE	NB	Current Time
+0 	 5 	 76.091002
+
+NODE	NB	Current Time
+0 	 5 	 76.312397
+
+NODE	NB	Current Time
+0 	 5 	 76.389757
+
+NODE	NB	Current Time
+0 	 5 	 77.081078
+
+NODE	NB	Current Time
+0 	 5 	 77.596462
+
+NODE	NB	Current Time
+0 	 5 	 77.814763
+
+NODE	NB	Current Time
+0 	 5 	 78.331443
+
+NODE	NB	Current Time
+0 	 5 	 78.379384
+
+NODE	NB	Current Time
+0 	 5 	 78.776520
+
+NODE	NB	Current Time
+0 	 5 	 79.161830
+
+NODE	NB	Current Time
+0 	 5 	 79.430192
+
+NODE	NB	Current Time
+0 	 5 	 79.781249
+
+NODE	NB	Current Time
+0 	 5 	 80.068708
+
+NODE	NB	Current Time
+0 	 5 	 80.743837
+
+NODE	NB	Current Time
+0 	 5 	 81.103824
+
+NODE	NB	Current Time
+0 	 5 	 81.468766
+
+NODE	NB	Current Time
+0 	 5 	 81.757550
+
+NODE	NB	Current Time
+0 	 5 	 81.985962
+
+NODE	NB	Current Time
+0 	 5 	 82.021189
+
+NODE	NB	Current Time
+0 	 5 	 83.000250
+
+NODE	NB	Current Time
+0 	 5 	 83.462591
+
+NODE	NB	Current Time
+0 	 5 	 83.611043
+
+NODE	NB	Current Time
+0 	 5 	 84.050005
+
+NODE	NB	Current Time
+0 	 5 	 84.268572
+
+NODE	NB	Current Time
+0 	 5 	 84.532533
+
+NODE	NB	Current Time
+0 	 5 	 85.074336
+
+NODE	NB	Current Time
+0 	 5 	 85.236789
+
+NODE	NB	Current Time
+0 	 5 	 85.470453
+
+NODE	NB	Current Time
+0 	 5 	 85.675228
+
+NODE	NB	Current Time
+0 	 5 	 85.812294
+
+NODE	NB	Current Time
+0 	 5 	 86.672312
+
+NODE	NB	Current Time
+0 	 5 	 87.508463
+
+NODE	NB	Current Time
+0 	 5 	 87.755766
+
+NODE	NB	Current Time
+0 	 5 	 87.771479
+
+NODE	NB	Current Time
+0 	 5 	 87.806506
+
+NODE	NB	Current Time
+0 	 5 	 88.047806
+
+NODE	NB	Current Time
+0 	 5 	 89.353110
+
+NODE	NB	Current Time
+0 	 5 	 89.359025
+
+NODE	NB	Current Time
+0 	 5 	 89.584506
+
+NODE	NB	Current Time
+0 	 5 	 89.727560
+
+NODE	NB	Current Time
+0 	 5 	 90.365837
+
+NODE	NB	Current Time
+0 	 5 	 90.912540
+
+NODE	NB	Current Time
+0 	 5 	 91.265476
+
+NODE	NB	Current Time
+0 	 5 	 91.487632
+
+NODE	NB	Current Time
+0 	 5 	 91.492537
+
+NODE	NB	Current Time
+0 	 5 	 91.646490
+
+NODE	NB	Current Time
+0 	 5 	 92.902049
+
+NODE	NB	Current Time
+0 	 5 	 92.971043
+
+NODE	NB	Current Time
+0 	 5 	 93.003173
+
+NODE	NB	Current Time
+0 	 5 	 93.541969
+
+NODE	NB	Current Time
+0 	 5 	 93.611162
+
+NODE	NB	Current Time
+0 	 5 	 94.598898
+
+NODE	NB	Current Time
+0 	 5 	 94.731343
+
+NODE	NB	Current Time
+0 	 5 	 95.095684
+
+NODE	NB	Current Time
+0 	 5 	 95.181880
+
+NODE	NB	Current Time
+0 	 5 	 95.941249
+
+NODE	NB	Current Time
+0 	 5 	 96.341649
+
+NODE	NB	Current Time
+0 	 5 	 96.352357
+
+NODE	NB	Current Time
+0 	 5 	 96.686567
+
+NODE	NB	Current Time
+0 	 5 	 96.953533
+
+NODE	NB	Current Time
+0 	 5 	 97.141529
+
+NODE	NB	Current Time
+0 	 5 	 97.571861
+
+NODE	NB	Current Time
+0 	 5 	 98.058834
+
+NODE	NB	Current Time
+0 	 5 	 98.347820
+
+NODE	NB	Current Time
+0 	 5 	 98.651199
+
+NODE	NB	Current Time
+0 	 5 	 99.348688
+
+NODE	NB	Current Time
+0 	 5 	 99.431245
+
+NODE	NB	Current Time
+0 	 5 	 100.025209
+
+NODE	NB	Current Time
+0 	 5 	 100.200858
+
+NODE	NB	Current Time
+0 	 5 	 100.399099
+
+NODE	NB	Current Time
+0 	 5 	 101.008832
+
+NODE	NB	Current Time
+0 	 5 	 101.465626
+
+NODE	NB	Current Time
+0 	 5 	 101.703162
+
+NODE	NB	Current Time
+0 	 5 	 101.714270
+
+NODE	NB	Current Time
+0 	 5 	 102.537877
+
+NODE	NB	Current Time
+0 	 5 	 102.741309
+
+NODE	NB	Current Time
+0 	 5 	 103.141009
+
+NODE	NB	Current Time
+0 	 5 	 103.267065
+
+NODE	NB	Current Time
+0 	 5 	 103.560014
+
+NODE	NB	Current Time
+0 	 5 	 104.300283
+
+NODE	NB	Current Time
+0 	 5 	 104.610314
+
+NODE	NB	Current Time
+0 	 5 	 105.087859
+
+NODE	NB	Current Time
+0 	 5 	 105.246180
+
+NODE	NB	Current Time
+0 	 5 	 105.461649
+
+NODE	NB	Current Time
+0 	 5 	 106.473290
+
+NODE	NB	Current Time
+0 	 5 	 106.521485
+
+NODE	NB	Current Time
+0 	 5 	 106.664703
+
+NODE	NB	Current Time
+0 	 5 	 106.799493
+
+NODE	NB	Current Time
+0 	 5 	 107.260463
+
+NODE	NB	Current Time
+0 	 5 	 107.941829
+
+NODE	NB	Current Time
+0 	 5 	 108.261309
+
+NODE	NB	Current Time
+0 	 5 	 108.364906
+
+NODE	NB	Current Time
+0 	 5 	 108.587071
+
+NODE	NB	Current Time
+0 	 5 	 108.651642
+
+NODE	NB	Current Time
+0 	 5 	 109.913231
+
+NODE	NB	Current Time
+0 	 5 	 109.979689
+
+NODE	NB	Current Time
+0 	 5 	 110.192511
+
+NODE	NB	Current Time
+0 	 5 	 110.237675
+
+NODE	NB	Current Time
+0 	 5 	 110.790874
+
+NODE	NB	Current Time
+0 	 5 	 111.531422
+
+NODE	NB	Current Time
+0 	 5 	 111.715152
+
+NODE	NB	Current Time
+0 	 5 	 112.171583
+
+NODE	NB	Current Time
+0 	 5 	 112.459253
+
+NODE	NB	Current Time
+0 	 5 	 112.633083
+
+NODE	NB	Current Time
+0 	 5 	 113.302189
+
+NODE	NB	Current Time
+0 	 5 	 113.352726
+
+NODE	NB	Current Time
+0 	 5 	 113.755428
+
+NODE	NB	Current Time
+0 	 5 	 113.820506
+
+NODE	NB	Current Time
+0 	 5 	 114.421269
+
+NODE	NB	Current Time
+0 	 5 	 114.545718
+
+NODE	NB	Current Time
+0 	 5 	 115.195630
+
+NODE	NB	Current Time
+0 	 5 	 115.415258
+
+NODE	NB	Current Time
+0 	 5 	 115.792867
+
+NODE	NB	Current Time
+0 	 5 	 115.891826
+
+NODE	NB	Current Time
+0 	 5 	 116.678812
+
+NODE	NB	Current Time
+0 	 5 	 117.222962
+
+NODE	NB	Current Time
+0 	 5 	 117.224289
+
+NODE	NB	Current Time
+0 	 5 	 117.624727
+
+NODE	NB	Current Time
+0 	 5 	 117.910873
+
+NODE	NB	Current Time
+0 	 5 	 118.265235
+
+NODE	NB	Current Time
+0 	 5 	 118.602063
+
+NODE	NB	Current Time
+0 	 5 	 118.855416
+
+NODE	NB	Current Time
+0 	 5 	 119.500222
+
+NODE	NB	Current Time
+0 	 5 	 119.629101
+
+NODE	NB	Current Time
+0 	 5 	 119.963177
+
+NODE	NB	Current Time
+0 	 5 	 120.454025
+
+NODE	NB	Current Time
+0 	 5 	 120.825163
+
+NODE	NB	Current Time
+0 	 5 	 121.108473
+
+NODE	NB	Current Time
+0 	 5 	 121.489324
+
+NODE	NB	Current Time
+0 	 5 	 121.973108
+
+NODE	NB	Current Time
+0 	 5 	 122.310299
+
+NODE	NB	Current Time
+0 	 5 	 122.473384
+
+NODE	NB	Current Time
+0 	 5 	 122.892681
+
+NODE	NB	Current Time
+0 	 5 	 122.997187
+
+NODE	NB	Current Time
+0 	 5 	 123.611379
+
+NODE	NB	Current Time
+0 	 5 	 124.069321
+
+NODE	NB	Current Time
+0 	 5 	 124.122579
+
+NODE	NB	Current Time
+0 	 5 	 124.717741
+
+NODE	NB	Current Time
+0 	 5 	 125.233206
+
+NODE	NB	Current Time
+0 	 5 	 125.584590
+
+NODE	NB	Current Time
+0 	 5 	 125.861009
+
+NODE	NB	Current Time
+0 	 5 	 125.973804
+
+NODE	NB	Current Time
+0 	 5 	 126.554620
+
+NODE	NB	Current Time
+0 	 5 	 126.901729
+
+NODE	NB	Current Time
+0 	 5 	 127.141309
+
+NODE	NB	Current Time
+0 	 5 	 127.450923
+
+NODE	NB	Current Time
+0 	 5 	 127.611662
+
+NODE	NB	Current Time
+0 	 5 	 128.268369
+
+NODE	NB	Current Time
+0 	 5 	 129.084838
+
+NODE	NB	Current Time
+0 	 5 	 129.101726
+
+NODE	NB	Current Time
+0 	 5 	 129.104609
+
+NODE	NB	Current Time
+0 	 5 	 129.141729
+
+NODE	NB	Current Time
+0 	 5 	 129.874925
+
+NODE	NB	Current Time
+0 	 5 	 130.365123
+
+NODE	NB	Current Time
+0 	 5 	 130.602366
+
+NODE	NB	Current Time
+0 	 5 	 130.925001
+
+NODE	NB	Current Time
+0 	 5 	 131.279069
+
+NODE	NB	Current Time
+0 	 5 	 132.101509
+
+NODE	NB	Current Time
+0 	 5 	 132.411219
+
+NODE	NB	Current Time
+0 	 5 	 132.594116
+
+NODE	NB	Current Time
+0 	 5 	 133.024502
+
+NODE	NB	Current Time
+0 	 5 	 133.148097
+
+NODE	NB	Current Time
+0 	 5 	 133.702069
+
+NODE	NB	Current Time
+0 	 5 	 134.021949
+
+NODE	NB	Current Time
+0 	 5 	 134.058342
+
+NODE	NB	Current Time
+0 	 5 	 134.453472
+
+NODE	NB	Current Time
+0 	 5 	 134.912893
+
+NODE	NB	Current Time
+0 	 5 	 135.193195
+
+NODE	NB	Current Time
+0 	 5 	 135.590311
+
+NODE	NB	Current Time
+0 	 5 	 135.742257
+
+NODE	NB	Current Time
+0 	 5 	 136.317834
+
+NODE	NB	Current Time
+0 	 5 	 136.360865
+
+NODE	NB	Current Time
+0 	 5 	 137.141729
+
+NODE	NB	Current Time
+0 	 5 	 137.492966
+
+NODE	NB	Current Time
+0 	 5 	 137.715571
+
+NODE	NB	Current Time
+0 	 5 	 137.919223
+
+NODE	NB	Current Time
+0 	 5 	 138.136524
+
+NODE	NB	Current Time
+0 	 5 	 138.821809
+
+NODE	NB	Current Time
+0 	 5 	 139.600508
+
+NODE	NB	Current Time
+0 	 5 	 139.611693
+
+NODE	NB	Current Time
+0 	 5 	 139.639657
+
+NODE	NB	Current Time
+0 	 5 	 139.967448
+
+NODE	NB	Current Time
+0 	 5 	 140.359747
+
+NODE	NB	Current Time
+0 	 5 	 141.085175
+
+NODE	NB	Current Time
+0 	 5 	 141.227123
+
+NODE	NB	Current Time
+0 	 5 	 141.387100
+
+NODE	NB	Current Time
+0 	 5 	 141.567056
+
+NODE	NB	Current Time
+0 	 5 	 142.272581
+
+NODE	NB	Current Time
+0 	 5 	 142.581749
+
+NODE	NB	Current Time
+0 	 5 	 143.328902
+
+NODE	NB	Current Time
+0 	 5 	 143.466635
+
+NODE	NB	Current Time
+0 	 5 	 143.508017
+
+NODE	NB	Current Time
+0 	 5 	 143.985237
+
+NODE	NB	Current Time
+0 	 5 	 144.193626
+
+NODE	NB	Current Time
+0 	 5 	 144.901289
+
+NODE	NB	Current Time
+0 	 5 	 145.177126
+
+NODE	NB	Current Time
+0 	 5 	 145.576883
+
+NODE	NB	Current Time
+0 	 5 	 145.989760
+
+NODE	NB	Current Time
+0 	 5 	 146.207466
+
+NODE	NB	Current Time
+0 	 5 	 146.527396
+
+NODE	NB	Current Time
+0 	 5 	 146.768655
+
+NODE	NB	Current Time
+0 	 5 	 146.778994
+
+NODE	NB	Current Time
+0 	 5 	 147.995079
+
+NODE	NB	Current Time
+0 	 5 	 148.038901
+
+NODE	NB	Current Time
+0 	 5 	 148.454124
+
+NODE	NB	Current Time
+0 	 5 	 148.581589
+
+NODE	NB	Current Time
+0 	 5 	 149.051102
+
+NODE	NB	Current Time
+0 	 5 	 149.559651
+
+NODE	NB	Current Time
+0 	 5 	 149.723892
+
+NODE	NB	Current Time
+0 	 4 	 2.225792
+
+NODE	NB	Current Time
+0 	 4 	 3.437016
+
+NODE	NB	Current Time
+0 	 2 	 3.437016
+
+NODE	NB	Current Time
+0 	 2 	 3.735672
+
+NODE	NB	Current Time
+0 	 5 	 3.735672
+
+NODE	NB	Current Time
+0 	 2 	 3.927726
+
+NODE	NB	Current Time
+0 	 5 	 3.927726
+
+NODE	NB	Current Time
+0 	 4 	 4.180463
+
+NODE	NB	Current Time
+0 	 4 	 5.394843
+
+NODE	NB	Current Time
+0 	 4 	 5.547292
+
+NODE	NB	Current Time
+0 	 4 	 5.559134
+
+NODE	NB	Current Time
+0 	 4 	 5.983379
+
+NODE	NB	Current Time
+0 	 5 	 5.992077
+
+NODE	NB	Current Time
+0 	 5 	 6.905621
+
+NODE	NB	Current Time
+0 	 5 	 7.036214
+
+NODE	NB	Current Time
+0 	 5 	 7.146643
+
+NODE	NB	Current Time
+0 	 5 	 7.796312
+
+NODE	NB	Current Time
+0 	 5 	 7.877927
+
+NODE	NB	Current Time
+0 	 5 	 8.635474
+
+NODE	NB	Current Time
+0 	 5 	 8.887383
+
+NODE	NB	Current Time
+0 	 5 	 9.000172
+
+NODE	NB	Current Time
+0 	 5 	 9.396809
+
+NODE	NB	Current Time
+0 	 5 	 9.573859
+
+NODE	NB	Current Time
+0 	 5 	 10.187819
+
+NODE	NB	Current Time
+0 	 5 	 10.636174
+
+NODE	NB	Current Time
+0 	 5 	 10.701006
+
+NODE	NB	Current Time
+0 	 5 	 10.979991
+
+NODE	NB	Current Time
+0 	 5 	 11.137507
+
+NODE	NB	Current Time
+0 	 5 	 11.892151
+
+NODE	NB	Current Time
+0 	 5 	 12.686631
+
+NODE	NB	Current Time
+0 	 5 	 12.708327
+
+NODE	NB	Current Time
+0 	 5 	 12.997987
+
+NODE	NB	Current Time
+0 	 5 	 13.192457
+
+NODE	NB	Current Time
+0 	 5 	 13.477276
+
+NODE	NB	Current Time
+0 	 5 	 14.507890
+
+NODE	NB	Current Time
+0 	 5 	 14.549782
+
+NODE	NB	Current Time
+0 	 5 	 14.583698
+
+NODE	NB	Current Time
+0 	 5 	 14.605240
+
+NODE	NB	Current Time
+0 	 5 	 15.516346
+
+NODE	NB	Current Time
+0 	 5 	 16.160235
+
+NODE	NB	Current Time
+0 	 5 	 16.165516
+
+NODE	NB	Current Time
+0 	 5 	 16.344602
+
+NODE	NB	Current Time
+0 	 5 	 16.460515
+
+NODE	NB	Current Time
+0 	 5 	 17.112110
+
+NODE	NB	Current Time
+0 	 5 	 17.618034
+
+NODE	NB	Current Time
+0 	 5 	 17.913658
+
+NODE	NB	Current Time
+0 	 5 	 17.919145
+
+NODE	NB	Current Time
+0 	 5 	 18.061649
+
+NODE	NB	Current Time
+0 	 5 	 19.070276
+
+NODE	NB	Current Time
+0 	 5 	 19.397902
+
+NODE	NB	Current Time
+0 	 5 	 19.467516
+
+NODE	NB	Current Time
+0 	 5 	 19.952908
+
+NODE	NB	Current Time
+0 	 5 	 19.959143
+
+NODE	NB	Current Time
+0 	 5 	 20.980843
+
+NODE	NB	Current Time
+0 	 5 	 21.121116
+
+NODE	NB	Current Time
+0 	 5 	 21.328536
+
+NODE	NB	Current Time
+0 	 5 	 21.516274
+
+NODE	NB	Current Time
+0 	 5 	 21.615753
+
+NODE	NB	Current Time
+0 	 5 	 22.661058
+
+NODE	NB	Current Time
+0 	 5 	 22.741614
+
+NODE	NB	Current Time
+0 	 5 	 22.964064
+
+NODE	NB	Current Time
+0 	 5 	 23.428233
+
+NODE	NB	Current Time
+0 	 5 	 23.564569
+
+NODE	NB	Current Time
+0 	 5 	 24.259621
+
+NODE	NB	Current Time
+0 	 5 	 24.467830
+
+NODE	NB	Current Time
+0 	 5 	 24.780964
+
+NODE	NB	Current Time
+0 	 5 	 25.300842
+
+NODE	NB	Current Time
+0 	 5 	 25.387964
+
+NODE	NB	Current Time
+0 	 5 	 26.057864
+
+NODE	NB	Current Time
+0 	 5 	 26.229620
+
+NODE	NB	Current Time
+0 	 5 	 26.477721
+
+NODE	NB	Current Time
+0 	 5 	 26.749911
+
+NODE	NB	Current Time
+0 	 5 	 26.901028
+
+NODE	NB	Current Time
+0 	 5 	 27.753554
+
+NODE	NB	Current Time
+0 	 5 	 28.111914
+
+NODE	NB	Current Time
+0 	 5 	 28.181835
+
+NODE	NB	Current Time
+0 	 5 	 28.487455
+
+NODE	NB	Current Time
+0 	 5 	 28.607683
+
+NODE	NB	Current Time
+0 	 5 	 29.870054
+
+NODE	NB	Current Time
+0 	 5 	 29.934163
+
+NODE	NB	Current Time
+0 	 5 	 30.015154
+
+NODE	NB	Current Time
+0 	 5 	 30.030359
+
+NODE	NB	Current Time
+0 	 5 	 30.501449
+
+NODE	NB	Current Time
+0 	 5 	 31.794895
+
+NODE	NB	Current Time
+0 	 5 	 31.941429
+
+NODE	NB	Current Time
+0 	 5 	 31.976668
+
+NODE	NB	Current Time
+0 	 5 	 32.035897
+
+NODE	NB	Current Time
+0 	 5 	 32.393396
+
+NODE	NB	Current Time
+0 	 5 	 33.551129
+
+NODE	NB	Current Time
+0 	 5 	 33.568768
+
+NODE	NB	Current Time
+0 	 5 	 33.634330
+
+NODE	NB	Current Time
+0 	 5 	 33.801281
+
+NODE	NB	Current Time
+0 	 5 	 34.661409
+
+NODE	NB	Current Time
+0 	 5 	 35.239530
+
+NODE	NB	Current Time
+0 	 5 	 35.291259
+
+NODE	NB	Current Time
+0 	 5 	 35.472234
+
+NODE	NB	Current Time
+0 	 5 	 35.653612
+
+NODE	NB	Current Time
+0 	 5 	 36.145603
+
+NODE	NB	Current Time
+0 	 5 	 37.111608
+
+NODE	NB	Current Time
+0 	 5 	 37.273811
+
+NODE	NB	Current Time
+0 	 5 	 37.305716
+
+NODE	NB	Current Time
+0 	 5 	 37.381549
+
+NODE	NB	Current Time
+0 	 5 	 37.971549
+
+NODE	NB	Current Time
+0 	 5 	 38.447212
+
+NODE	NB	Current Time
+0 	 5 	 38.692701
+
+NODE	NB	Current Time
+0 	 5 	 38.981429
+
+NODE	NB	Current Time
+0 	 5 	 39.428383
+
+NODE	NB	Current Time
+0 	 5 	 39.491581
+
+NODE	NB	Current Time
+0 	 5 	 39.943817
+
+NODE	NB	Current Time
+0 	 5 	 40.749442
+
+NODE	NB	Current Time
+0 	 5 	 40.765926
+
+NODE	NB	Current Time
+0 	 5 	 40.860541
+
+NODE	NB	Current Time
+0 	 5 	 41.301049
+
+NODE	NB	Current Time
+0 	 5 	 41.611319
+
+NODE	NB	Current Time
+0 	 5 	 42.188789
+
+NODE	NB	Current Time
+0 	 5 	 42.661509
+
+NODE	NB	Current Time
+0 	 5 	 42.940626
+
+NODE	NB	Current Time
+0 	 5 	 43.318830
+
+NODE	NB	Current Time
+0 	 5 	 43.541829
+
+NODE	NB	Current Time
+0 	 5 	 44.011482
+
+NODE	NB	Current Time
+0 	 5 	 44.191126
+
+NODE	NB	Current Time
+0 	 5 	 44.581349
+
+NODE	NB	Current Time
+0 	 5 	 44.796687
+
+NODE	NB	Current Time
+0 	 5 	 44.870774
+
+NODE	NB	Current Time
+0 	 5 	 45.734472
+
+NODE	NB	Current Time
+0 	 5 	 46.142748
+
+NODE	NB	Current Time
+0 	 5 	 46.203541
+
+NODE	NB	Current Time
+0 	 5 	 46.811459
+
+NODE	NB	Current Time
+0 	 5 	 47.154906
+
+NODE	NB	Current Time
+0 	 5 	 47.271833
+
+NODE	NB	Current Time
+0 	 5 	 47.879350
+
+NODE	NB	Current Time
+0 	 5 	 47.978498
+
+NODE	NB	Current Time
+0 	 5 	 48.694044
+
+NODE	NB	Current Time
+0 	 5 	 48.982269
+
+NODE	NB	Current Time
+0 	 5 	 49.141209
+
+NODE	NB	Current Time
+0 	 5 	 49.742166
+
+NODE	NB	Current Time
+0 	 5 	 49.753431
+
+NODE	NB	Current Time
+0 	 5 	 50.460857
+
+NODE	NB	Current Time
+0 	 5 	 50.477133
+
+NODE	NB	Current Time
+0 	 5 	 51.230014
+
+NODE	NB	Current Time
+0 	 5 	 51.584858
+
+NODE	NB	Current Time
+0 	 5 	 51.665041
+
+NODE	NB	Current Time
+0 	 5 	 52.152155
+
+NODE	NB	Current Time
+0 	 5 	 52.261989
+
+NODE	NB	Current Time
+0 	 5 	 53.211622
+
+NODE	NB	Current Time
+0 	 5 	 53.228000
+
+NODE	NB	Current Time
+0 	 5 	 53.356838
+
+NODE	NB	Current Time
+0 	 5 	 53.785246
+
+NODE	NB	Current Time
+0 	 5 	 54.387726
+
+NODE	NB	Current Time
+0 	 5 	 54.821149
+
+NODE	NB	Current Time
+0 	 5 	 55.451222
+
+NODE	NB	Current Time
+0 	 5 	 55.473072
+
+NODE	NB	Current Time
+0 	 5 	 55.704057
+
+NODE	NB	Current Time
+0 	 5 	 55.828240
+
+NODE	NB	Current Time
+0 	 5 	 56.731102
+
+NODE	NB	Current Time
+0 	 5 	 56.855181
+
+NODE	NB	Current Time
+0 	 5 	 57.221269
+
+NODE	NB	Current Time
+0 	 5 	 57.562470
+
+NODE	NB	Current Time
+0 	 5 	 57.633456
+
+NODE	NB	Current Time
+0 	 5 	 58.451806
+
+NODE	NB	Current Time
+0 	 5 	 58.602301
+
+NODE	NB	Current Time
+0 	 5 	 58.971788
+
+NODE	NB	Current Time
+0 	 5 	 59.462069
+
+NODE	NB	Current Time
+0 	 5 	 59.622873
+
+NODE	NB	Current Time
+0 	 5 	 60.129247
+
+NODE	NB	Current Time
+0 	 5 	 60.260989
+
+NODE	NB	Current Time
+0 	 5 	 60.370359
+
+NODE	NB	Current Time
+0 	 5 	 61.159495
+
+NODE	NB	Current Time
+0 	 5 	 61.469682
+
+NODE	NB	Current Time
+0 	 5 	 62.137623
+
+NODE	NB	Current Time
+0 	 5 	 62.445316
+
+NODE	NB	Current Time
+0 	 5 	 63.157999
+
+NODE	NB	Current Time
+0 	 5 	 63.356819
+
+NODE	NB	Current Time
+0 	 5 	 63.679415
+
+NODE	NB	Current Time
+0 	 5 	 63.886418
+
+NODE	NB	Current Time
+0 	 5 	 63.911657
+
+NODE	NB	Current Time
+0 	 5 	 64.918908
+
+NODE	NB	Current Time
+0 	 5 	 65.178851
+
+NODE	NB	Current Time
+0 	 5 	 65.477711
+
+NODE	NB	Current Time
+0 	 5 	 65.646191
+
+NODE	NB	Current Time
+0 	 5 	 65.749792
+
+NODE	NB	Current Time
+0 	 5 	 66.667927
+
+NODE	NB	Current Time
+0 	 5 	 66.787250
+
+NODE	NB	Current Time
+0 	 5 	 67.338781
+
+NODE	NB	Current Time
+0 	 5 	 67.549042
+
+NODE	NB	Current Time
+0 	 5 	 67.910271
+
+NODE	NB	Current Time
+0 	 5 	 68.764975
+
+NODE	NB	Current Time
+0 	 5 	 68.811542
+
+NODE	NB	Current Time
+0 	 5 	 69.381269
+
+NODE	NB	Current Time
+0 	 5 	 69.880580
+
+NODE	NB	Current Time
+0 	 5 	 70.033301
+
+NODE	NB	Current Time
+0 	 5 	 70.532925
+
+NODE	NB	Current Time
+0 	 5 	 70.664984
+
+NODE	NB	Current Time
+0 	 5 	 71.041730
+
+NODE	NB	Current Time
+0 	 5 	 71.461289
+
+NODE	NB	Current Time
+0 	 5 	 71.941749
+
+NODE	NB	Current Time
+0 	 5 	 71.974836
+
+NODE	NB	Current Time
+0 	 5 	 72.101069
+
+NODE	NB	Current Time
+0 	 5 	 72.821729
+
+NODE	NB	Current Time
+0 	 5 	 73.235558
+
+NODE	NB	Current Time
+0 	 5 	 73.531278
+
+NODE	NB	Current Time
+0 	 5 	 74.101849
+
+NODE	NB	Current Time
+0 	 5 	 74.511016
+
+NODE	NB	Current Time
+0 	 5 	 74.614145
+
+NODE	NB	Current Time
+0 	 5 	 74.712554
+
+NODE	NB	Current Time
+0 	 5 	 75.781949
+
+NODE	NB	Current Time
+0 	 5 	 75.917886
+
+NODE	NB	Current Time
+0 	 5 	 76.091002
+
+NODE	NB	Current Time
+0 	 5 	 76.312397
+
+NODE	NB	Current Time
+0 	 5 	 76.389757
+
+NODE	NB	Current Time
+0 	 5 	 77.081078
+
+NODE	NB	Current Time
+0 	 5 	 77.596462
+
+NODE	NB	Current Time
+0 	 5 	 77.814763
+
+NODE	NB	Current Time
+0 	 5 	 78.331443
+
+NODE	NB	Current Time
+0 	 5 	 78.379384
+
+NODE	NB	Current Time
+0 	 5 	 78.776520
+
+NODE	NB	Current Time
+0 	 5 	 79.161830
+
+NODE	NB	Current Time
+0 	 5 	 79.430192
+
+NODE	NB	Current Time
+0 	 5 	 79.781249
+
+NODE	NB	Current Time
+0 	 5 	 80.068708
+
+NODE	NB	Current Time
+0 	 5 	 80.743837
+
+NODE	NB	Current Time
+0 	 5 	 81.103824
+
+NODE	NB	Current Time
+0 	 5 	 81.468766
+
+NODE	NB	Current Time
+0 	 5 	 81.757550
+
+NODE	NB	Current Time
+0 	 5 	 81.985962
+
+NODE	NB	Current Time
+0 	 5 	 82.021189
+
+NODE	NB	Current Time
+0 	 5 	 83.000250
+
+NODE	NB	Current Time
+0 	 5 	 83.462591
+
+NODE	NB	Current Time
+0 	 5 	 83.611043
+
+NODE	NB	Current Time
+0 	 5 	 84.050005
+
+NODE	NB	Current Time
+0 	 5 	 84.268572
+
+NODE	NB	Current Time
+0 	 5 	 84.532533
+
+NODE	NB	Current Time
+0 	 5 	 85.074336
+
+NODE	NB	Current Time
+0 	 5 	 85.236789
+
+NODE	NB	Current Time
+0 	 5 	 85.470453
+
+NODE	NB	Current Time
+0 	 5 	 85.675228
+
+NODE	NB	Current Time
+0 	 5 	 85.812294
+
+NODE	NB	Current Time
+0 	 5 	 86.672312
+
+NODE	NB	Current Time
+0 	 5 	 87.508463
+
+NODE	NB	Current Time
+0 	 5 	 87.755766
+
+NODE	NB	Current Time
+0 	 5 	 87.771479
+
+NODE	NB	Current Time
+0 	 5 	 87.806506
+
+NODE	NB	Current Time
+0 	 5 	 88.047806
+
+NODE	NB	Current Time
+0 	 5 	 89.353110
+
+NODE	NB	Current Time
+0 	 5 	 89.359025
+
+NODE	NB	Current Time
+0 	 5 	 89.584506
+
+NODE	NB	Current Time
+0 	 5 	 89.727560
+
+NODE	NB	Current Time
+0 	 5 	 90.365837
+
+NODE	NB	Current Time
+0 	 5 	 90.912540
+
+NODE	NB	Current Time
+0 	 5 	 91.265476
+
+NODE	NB	Current Time
+0 	 5 	 91.487632
+
+NODE	NB	Current Time
+0 	 5 	 91.492537
+
+NODE	NB	Current Time
+0 	 5 	 91.646490
+
+NODE	NB	Current Time
+0 	 5 	 92.902049
+
+NODE	NB	Current Time
+0 	 5 	 92.971043
+
+NODE	NB	Current Time
+0 	 5 	 93.003173
+
+NODE	NB	Current Time
+0 	 5 	 93.541969
+
+NODE	NB	Current Time
+0 	 5 	 93.611162
+
+NODE	NB	Current Time
+0 	 5 	 94.598898
+
+NODE	NB	Current Time
+0 	 5 	 94.731343
+
+NODE	NB	Current Time
+0 	 5 	 95.095684
+
+NODE	NB	Current Time
+0 	 5 	 95.181880
+
+NODE	NB	Current Time
+0 	 5 	 95.941249
+
+NODE	NB	Current Time
+0 	 5 	 96.341649
+
+NODE	NB	Current Time
+0 	 5 	 96.352357
+
+NODE	NB	Current Time
+0 	 5 	 96.686567
+
+NODE	NB	Current Time
+0 	 5 	 96.953533
+
+NODE	NB	Current Time
+0 	 5 	 97.141529
+
+NODE	NB	Current Time
+0 	 5 	 97.571861
+
+NODE	NB	Current Time
+0 	 5 	 98.058834
+
+NODE	NB	Current Time
+0 	 5 	 98.347820
+
+NODE	NB	Current Time
+0 	 5 	 98.651199
+
+NODE	NB	Current Time
+0 	 5 	 99.348688
+
+NODE	NB	Current Time
+0 	 5 	 99.431245
+
+NODE	NB	Current Time
+0 	 5 	 100.025209
+
+NODE	NB	Current Time
+0 	 5 	 100.200858
+
+NODE	NB	Current Time
+0 	 5 	 100.399099
+
+NODE	NB	Current Time
+0 	 5 	 101.008832
+
+NODE	NB	Current Time
+0 	 5 	 101.465626
+
+NODE	NB	Current Time
+0 	 5 	 101.703162
+
+NODE	NB	Current Time
+0 	 5 	 101.714270
+
+NODE	NB	Current Time
+0 	 5 	 102.537877
+
+NODE	NB	Current Time
+0 	 5 	 102.741309
+
+NODE	NB	Current Time
+0 	 5 	 103.141009
+
+NODE	NB	Current Time
+0 	 5 	 103.267065
+
+NODE	NB	Current Time
+0 	 5 	 103.560014
+
+NODE	NB	Current Time
+0 	 5 	 104.300283
+
+NODE	NB	Current Time
+0 	 5 	 104.610314
+
+NODE	NB	Current Time
+0 	 5 	 105.087859
+
+NODE	NB	Current Time
+0 	 5 	 105.246180
+
+NODE	NB	Current Time
+0 	 5 	 105.461649
+
+NODE	NB	Current Time
+0 	 5 	 106.473290
+
+NODE	NB	Current Time
+0 	 5 	 106.521485
+
+NODE	NB	Current Time
+0 	 5 	 106.664703
+
+NODE	NB	Current Time
+0 	 5 	 106.799493
+
+NODE	NB	Current Time
+0 	 5 	 107.260463
+
+NODE	NB	Current Time
+0 	 5 	 107.941829
+
+NODE	NB	Current Time
+0 	 5 	 108.261309
+
+NODE	NB	Current Time
+0 	 5 	 108.364906
+
+NODE	NB	Current Time
+0 	 5 	 108.587071
+
+NODE	NB	Current Time
+0 	 5 	 108.651642
+
+NODE	NB	Current Time
+0 	 5 	 109.913231
+
+NODE	NB	Current Time
+0 	 5 	 109.979689
+
+NODE	NB	Current Time
+0 	 5 	 110.192511
+
+NODE	NB	Current Time
+0 	 5 	 110.237675
+
+NODE	NB	Current Time
+0 	 5 	 110.790874
+
+NODE	NB	Current Time
+0 	 5 	 111.531422
+
+NODE	NB	Current Time
+0 	 5 	 111.715152
+
+NODE	NB	Current Time
+0 	 5 	 112.171583
+
+NODE	NB	Current Time
+0 	 5 	 112.459253
+
+NODE	NB	Current Time
+0 	 5 	 112.633083
+
+NODE	NB	Current Time
+0 	 5 	 113.302189
+
+NODE	NB	Current Time
+0 	 5 	 113.352726
+
+NODE	NB	Current Time
+0 	 5 	 113.755428
+
+NODE	NB	Current Time
+0 	 5 	 113.820506
+
+NODE	NB	Current Time
+0 	 5 	 114.421269
+
+NODE	NB	Current Time
+0 	 5 	 114.545718
+
+NODE	NB	Current Time
+0 	 5 	 115.195630
+
+NODE	NB	Current Time
+0 	 5 	 115.415258
+
+NODE	NB	Current Time
+0 	 5 	 115.792867
+
+NODE	NB	Current Time
+0 	 5 	 115.891826
+
+NODE	NB	Current Time
+0 	 5 	 116.678812
+
+NODE	NB	Current Time
+0 	 5 	 117.222962
+
+NODE	NB	Current Time
+0 	 5 	 117.224289
+
+NODE	NB	Current Time
+0 	 5 	 117.624727
+
+NODE	NB	Current Time
+0 	 5 	 117.910873
+
+NODE	NB	Current Time
+0 	 5 	 118.265235
+
+NODE	NB	Current Time
+0 	 5 	 118.602063
+
+NODE	NB	Current Time
+0 	 5 	 118.855416
+
+NODE	NB	Current Time
+0 	 5 	 119.500222
+
+NODE	NB	Current Time
+0 	 5 	 119.629101
+
+NODE	NB	Current Time
+0 	 5 	 119.963177
+
+NODE	NB	Current Time
+0 	 5 	 120.454025
+
+NODE	NB	Current Time
+0 	 5 	 120.825163
+
+NODE	NB	Current Time
+0 	 5 	 121.108473
+
+NODE	NB	Current Time
+0 	 5 	 121.489324
+
+NODE	NB	Current Time
+0 	 5 	 121.973108
+
+NODE	NB	Current Time
+0 	 5 	 122.310299
+
+NODE	NB	Current Time
+0 	 5 	 122.473384
+
+NODE	NB	Current Time
+0 	 5 	 122.892681
+
+NODE	NB	Current Time
+0 	 5 	 122.997187
+
+NODE	NB	Current Time
+0 	 5 	 123.611379
+
+NODE	NB	Current Time
+0 	 5 	 124.069321
+
+NODE	NB	Current Time
+0 	 5 	 124.122579
+
+NODE	NB	Current Time
+0 	 5 	 124.717741
+
+NODE	NB	Current Time
+0 	 5 	 125.233206
+
+NODE	NB	Current Time
+0 	 5 	 125.584590
+
+NODE	NB	Current Time
+0 	 5 	 125.861009
+
+NODE	NB	Current Time
+0 	 5 	 125.973804
+
+NODE	NB	Current Time
+0 	 5 	 126.554620
+
+NODE	NB	Current Time
+0 	 5 	 126.901729
+
+NODE	NB	Current Time
+0 	 5 	 127.141309
+
+NODE	NB	Current Time
+0 	 5 	 127.450923
+
+NODE	NB	Current Time
+0 	 5 	 127.611662
+
+NODE	NB	Current Time
+0 	 5 	 128.268369
+
+NODE	NB	Current Time
+0 	 5 	 129.084838
+
+NODE	NB	Current Time
+0 	 5 	 129.101726
+
+NODE	NB	Current Time
+0 	 5 	 129.104609
+
+NODE	NB	Current Time
+0 	 5 	 129.141729
+
+NODE	NB	Current Time
+0 	 5 	 129.874925
+
+NODE	NB	Current Time
+0 	 5 	 130.365123
+
+NODE	NB	Current Time
+0 	 5 	 130.602366
+
+NODE	NB	Current Time
+0 	 5 	 130.925001
+
+NODE	NB	Current Time
+0 	 5 	 131.279069
+
+NODE	NB	Current Time
+0 	 5 	 132.101509
+
+NODE	NB	Current Time
+0 	 5 	 132.411219
+
+NODE	NB	Current Time
+0 	 5 	 132.594116
+
+NODE	NB	Current Time
+0 	 5 	 133.024502
+
+NODE	NB	Current Time
+0 	 5 	 133.148097
+
+NODE	NB	Current Time
+0 	 5 	 133.702069
+
+NODE	NB	Current Time
+0 	 5 	 134.021949
+
+NODE	NB	Current Time
+0 	 5 	 134.058342
+
+NODE	NB	Current Time
+0 	 5 	 134.453472
+
+NODE	NB	Current Time
+0 	 5 	 134.912893
+
+NODE	NB	Current Time
+0 	 5 	 135.193195
+
+NODE	NB	Current Time
+0 	 5 	 135.590311
+
+NODE	NB	Current Time
+0 	 5 	 135.742257
+
+NODE	NB	Current Time
+0 	 5 	 136.317834
+
+NODE	NB	Current Time
+0 	 5 	 136.360865
+
+NODE	NB	Current Time
+0 	 5 	 137.141729
+
+NODE	NB	Current Time
+0 	 5 	 137.492966
+
+NODE	NB	Current Time
+0 	 5 	 137.715571
+
+NODE	NB	Current Time
+0 	 5 	 137.919223
+
+NODE	NB	Current Time
+0 	 5 	 138.136524
+
+NODE	NB	Current Time
+0 	 5 	 138.821809
+
+NODE	NB	Current Time
+0 	 5 	 139.600508
+
+NODE	NB	Current Time
+0 	 5 	 139.611693
+
+NODE	NB	Current Time
+0 	 5 	 139.639657
+
+NODE	NB	Current Time
+0 	 5 	 139.967448
+
+NODE	NB	Current Time
+0 	 5 	 140.359747
+
+NODE	NB	Current Time
+0 	 5 	 141.085175
+
+NODE	NB	Current Time
+0 	 5 	 141.227123
+
+NODE	NB	Current Time
+0 	 5 	 141.387100
+
+NODE	NB	Current Time
+0 	 5 	 141.567056
+
+NODE	NB	Current Time
+0 	 5 	 142.272581
+
+NODE	NB	Current Time
+0 	 5 	 142.581749
+
+NODE	NB	Current Time
+0 	 5 	 143.328902
+
+NODE	NB	Current Time
+0 	 5 	 143.466635
+
+NODE	NB	Current Time
+0 	 5 	 143.508017
+
+NODE	NB	Current Time
+0 	 5 	 143.985237
+
+NODE	NB	Current Time
+0 	 5 	 144.193626
+
+NODE	NB	Current Time
+0 	 5 	 144.901289
+
+NODE	NB	Current Time
+0 	 5 	 145.177126
+
+NODE	NB	Current Time
+0 	 5 	 145.576883
+
+NODE	NB	Current Time
+0 	 5 	 145.989760
+
+NODE	NB	Current Time
+0 	 5 	 146.207466
+
+NODE	NB	Current Time
+0 	 5 	 146.527396
+
+NODE	NB	Current Time
+0 	 5 	 146.768655
+
+NODE	NB	Current Time
+0 	 5 	 146.778994
+
+NODE	NB	Current Time
+0 	 5 	 147.995079
+
+NODE	NB	Current Time
+0 	 5 	 148.038901
+
+NODE	NB	Current Time
+0 	 5 	 148.454124
+
+NODE	NB	Current Time
+0 	 5 	 148.581589
+
+NODE	NB	Current Time
+0 	 5 	 149.051102
+
+NODE	NB	Current Time
+0 	 5 	 149.559651
+
+NODE	NB	Current Time
+0 	 5 	 149.723892
+
+NODE	NB	Current Time
+0 	 4 	 2.225792
+
+NODE	NB	Current Time
+0 	 4 	 3.437016
+
+NODE	NB	Current Time
+0 	 2 	 3.437016
+
+NODE	NB	Current Time
+0 	 2 	 3.735672
+
+NODE	NB	Current Time
+0 	 5 	 3.735672
+
+NODE	NB	Current Time
+0 	 2 	 3.927726
+
+NODE	NB	Current Time
+0 	 5 	 3.927726
+
+NODE	NB	Current Time
+0 	 4 	 4.180463
+
+NODE	NB	Current Time
+0 	 4 	 5.394843
+
+NODE	NB	Current Time
+0 	 4 	 5.547292
+
+NODE	NB	Current Time
+0 	 4 	 5.559134
+
+NODE	NB	Current Time
+0 	 4 	 5.983379
+
+NODE	NB	Current Time
+0 	 5 	 5.992077
+
+NODE	NB	Current Time
+0 	 5 	 6.905621
+
+NODE	NB	Current Time
+0 	 5 	 7.036214
+
+NODE	NB	Current Time
+0 	 5 	 7.146643
+
+NODE	NB	Current Time
+0 	 5 	 7.796312
+
+NODE	NB	Current Time
+0 	 5 	 7.877927
+
+NODE	NB	Current Time
+0 	 5 	 8.635474
+
+NODE	NB	Current Time
+0 	 5 	 8.887383
+
+NODE	NB	Current Time
+0 	 5 	 9.000172
+
+NODE	NB	Current Time
+0 	 5 	 9.396809
+
+NODE	NB	Current Time
+0 	 5 	 9.573859
+
+NODE	NB	Current Time
+0 	 5 	 10.187819
+
+NODE	NB	Current Time
+0 	 5 	 10.636174
+
+NODE	NB	Current Time
+0 	 5 	 10.701006
+
+NODE	NB	Current Time
+0 	 5 	 10.979991
+
+NODE	NB	Current Time
+0 	 5 	 11.137507
+
+NODE	NB	Current Time
+0 	 5 	 11.892151
+
+NODE	NB	Current Time
+0 	 5 	 12.686631
+
+NODE	NB	Current Time
+0 	 5 	 12.708327
+
+NODE	NB	Current Time
+0 	 5 	 12.997987
+
+NODE	NB	Current Time
+0 	 5 	 13.192457
+
+NODE	NB	Current Time
+0 	 5 	 13.477276
+
+NODE	NB	Current Time
+0 	 5 	 14.507890
+
+NODE	NB	Current Time
+0 	 5 	 14.549782
+
+NODE	NB	Current Time
+0 	 5 	 14.583698
+
+NODE	NB	Current Time
+0 	 5 	 14.605240
+
+NODE	NB	Current Time
+0 	 5 	 15.516346
+
+NODE	NB	Current Time
+0 	 5 	 16.160235
+
+NODE	NB	Current Time
+0 	 5 	 16.165516
+
+NODE	NB	Current Time
+0 	 5 	 16.344602
+
+NODE	NB	Current Time
+0 	 5 	 16.460515
+
+NODE	NB	Current Time
+0 	 5 	 17.112110
+
+NODE	NB	Current Time
+0 	 5 	 17.618034
+
+NODE	NB	Current Time
+0 	 5 	 17.913658
+
+NODE	NB	Current Time
+0 	 5 	 17.919145
+
+NODE	NB	Current Time
+0 	 5 	 18.061649
+
+NODE	NB	Current Time
+0 	 5 	 19.070276
+
+NODE	NB	Current Time
+0 	 5 	 19.397902
+
+NODE	NB	Current Time
+0 	 5 	 19.467516
+
+NODE	NB	Current Time
+0 	 5 	 19.952908
+
+NODE	NB	Current Time
+0 	 5 	 19.959143
+
+NODE	NB	Current Time
+0 	 5 	 20.980843
+
+NODE	NB	Current Time
+0 	 5 	 21.121116
+
+NODE	NB	Current Time
+0 	 5 	 21.328536
+
+NODE	NB	Current Time
+0 	 5 	 21.516274
+
+NODE	NB	Current Time
+0 	 5 	 21.615753
+
+NODE	NB	Current Time
+0 	 5 	 22.661058
+
+NODE	NB	Current Time
+0 	 5 	 22.741614
+
+NODE	NB	Current Time
+0 	 5 	 22.964064
+
+NODE	NB	Current Time
+0 	 5 	 23.428233
+
+NODE	NB	Current Time
+0 	 5 	 23.564569
+
+NODE	NB	Current Time
+0 	 5 	 24.259621
+
+NODE	NB	Current Time
+0 	 5 	 24.467830
+
+NODE	NB	Current Time
+0 	 5 	 24.780964
+
+NODE	NB	Current Time
+0 	 5 	 25.300842
+
+NODE	NB	Current Time
+0 	 5 	 25.387964
+
+NODE	NB	Current Time
+0 	 5 	 26.057864
+
+NODE	NB	Current Time
+0 	 5 	 26.229620
+
+NODE	NB	Current Time
+0 	 5 	 26.477721
+
+NODE	NB	Current Time
+0 	 5 	 26.749911
+
+NODE	NB	Current Time
+0 	 5 	 26.901028
+
+NODE	NB	Current Time
+0 	 5 	 27.753554
+
+NODE	NB	Current Time
+0 	 5 	 28.111914
+
+NODE	NB	Current Time
+0 	 5 	 28.181835
+
+NODE	NB	Current Time
+0 	 5 	 28.487455
+
+NODE	NB	Current Time
+0 	 5 	 28.607683
+
+NODE	NB	Current Time
+0 	 5 	 29.870054
+
+NODE	NB	Current Time
+0 	 5 	 29.934163
+
+NODE	NB	Current Time
+0 	 5 	 30.015154
+
+NODE	NB	Current Time
+0 	 5 	 30.030359
+
+NODE	NB	Current Time
+0 	 5 	 30.501449
+
+NODE	NB	Current Time
+0 	 5 	 31.794895
+
+NODE	NB	Current Time
+0 	 5 	 31.941429
+
+NODE	NB	Current Time
+0 	 5 	 31.976668
+
+NODE	NB	Current Time
+0 	 5 	 32.035897
+
+NODE	NB	Current Time
+0 	 5 	 32.393396
+
+NODE	NB	Current Time
+0 	 5 	 33.551129
+
+NODE	NB	Current Time
+0 	 5 	 33.568768
+
+NODE	NB	Current Time
+0 	 5 	 33.634330
+
+NODE	NB	Current Time
+0 	 5 	 33.801281
+
+NODE	NB	Current Time
+0 	 5 	 34.661409
+
+NODE	NB	Current Time
+0 	 5 	 35.239530
+
+NODE	NB	Current Time
+0 	 5 	 35.291259
+
+NODE	NB	Current Time
+0 	 5 	 35.472234
+
+NODE	NB	Current Time
+0 	 5 	 35.653612
+
+NODE	NB	Current Time
+0 	 5 	 36.145603
+
+NODE	NB	Current Time
+0 	 5 	 37.111608
+
+NODE	NB	Current Time
+0 	 5 	 37.273811
+
+NODE	NB	Current Time
+0 	 5 	 37.305716
+
+NODE	NB	Current Time
+0 	 5 	 37.381549
+
+NODE	NB	Current Time
+0 	 5 	 37.971549
+
+NODE	NB	Current Time
+0 	 5 	 38.447212
+
+NODE	NB	Current Time
+0 	 5 	 38.692701
+
+NODE	NB	Current Time
+0 	 5 	 38.981429
+
+NODE	NB	Current Time
+0 	 5 	 39.428383
+
+NODE	NB	Current Time
+0 	 5 	 39.491581
+
+NODE	NB	Current Time
+0 	 5 	 39.943817
+
+NODE	NB	Current Time
+0 	 5 	 40.749442
+
+NODE	NB	Current Time
+0 	 5 	 40.765926
+
+NODE	NB	Current Time
+0 	 5 	 40.860541
+
+NODE	NB	Current Time
+0 	 5 	 41.301049
+
+NODE	NB	Current Time
+0 	 5 	 41.611319
+
+NODE	NB	Current Time
+0 	 5 	 42.188789
+
+NODE	NB	Current Time
+0 	 5 	 42.661509
+
+NODE	NB	Current Time
+0 	 5 	 42.940626
+
+NODE	NB	Current Time
+0 	 5 	 43.318830
+
+NODE	NB	Current Time
+0 	 5 	 43.541829
+
+NODE	NB	Current Time
+0 	 5 	 44.011482
+
+NODE	NB	Current Time
+0 	 5 	 44.191126
+
+NODE	NB	Current Time
+0 	 5 	 44.581349
+
+NODE	NB	Current Time
+0 	 5 	 44.796687
+
+NODE	NB	Current Time
+0 	 5 	 44.870774
+
+NODE	NB	Current Time
+0 	 5 	 45.734472
+
+NODE	NB	Current Time
+0 	 5 	 46.142748
+
+NODE	NB	Current Time
+0 	 5 	 46.203541
+
+NODE	NB	Current Time
+0 	 5 	 46.811459
+
+NODE	NB	Current Time
+0 	 5 	 47.154906
+
+NODE	NB	Current Time
+0 	 5 	 47.271833
+
+NODE	NB	Current Time
+0 	 5 	 47.879350
+
+NODE	NB	Current Time
+0 	 5 	 47.978498
+
+NODE	NB	Current Time
+0 	 5 	 48.694044
+
+NODE	NB	Current Time
+0 	 5 	 48.982269
+
+NODE	NB	Current Time
+0 	 5 	 49.141209
+
+NODE	NB	Current Time
+0 	 5 	 49.742166
+
+NODE	NB	Current Time
+0 	 5 	 49.753431
+
+NODE	NB	Current Time
+0 	 5 	 50.460857
+
+NODE	NB	Current Time
+0 	 5 	 50.477133
+
+NODE	NB	Current Time
+0 	 5 	 51.230014
+
+NODE	NB	Current Time
+0 	 5 	 51.584858
+
+NODE	NB	Current Time
+0 	 5 	 51.665041
+
+NODE	NB	Current Time
+0 	 5 	 52.152155
+
+NODE	NB	Current Time
+0 	 5 	 52.261989
+
+NODE	NB	Current Time
+0 	 5 	 53.211622
+
+NODE	NB	Current Time
+0 	 5 	 53.228000
+
+NODE	NB	Current Time
+0 	 5 	 53.356838
+
+NODE	NB	Current Time
+0 	 5 	 53.785246
+
+NODE	NB	Current Time
+0 	 5 	 54.387726
+
+NODE	NB	Current Time
+0 	 5 	 54.821149
+
+NODE	NB	Current Time
+0 	 5 	 55.451222
+
+NODE	NB	Current Time
+0 	 5 	 55.473072
+
+NODE	NB	Current Time
+0 	 5 	 55.704057
+
+NODE	NB	Current Time
+0 	 5 	 55.828240
+
+NODE	NB	Current Time
+0 	 5 	 56.731102
+
+NODE	NB	Current Time
+0 	 5 	 56.855181
+
+NODE	NB	Current Time
+0 	 5 	 57.221269
+
+NODE	NB	Current Time
+0 	 5 	 57.562470
+
+NODE	NB	Current Time
+0 	 5 	 57.633456
+
+NODE	NB	Current Time
+0 	 5 	 58.451806
+
+NODE	NB	Current Time
+0 	 5 	 58.602301
+
+NODE	NB	Current Time
+0 	 5 	 58.971788
+
+NODE	NB	Current Time
+0 	 5 	 59.462069
+
+NODE	NB	Current Time
+0 	 5 	 59.622873
+
+NODE	NB	Current Time
+0 	 5 	 60.129247
+
+NODE	NB	Current Time
+0 	 5 	 60.260989
+
+NODE	NB	Current Time
+0 	 5 	 60.370359
+
+NODE	NB	Current Time
+0 	 5 	 61.159495
+
+NODE	NB	Current Time
+0 	 5 	 61.469682
+
+NODE	NB	Current Time
+0 	 5 	 62.137623
+
+NODE	NB	Current Time
+0 	 5 	 62.445316
+
+NODE	NB	Current Time
+0 	 5 	 63.157999
+
+NODE	NB	Current Time
+0 	 5 	 63.356819
+
+NODE	NB	Current Time
+0 	 5 	 63.679415
+
+NODE	NB	Current Time
+0 	 5 	 63.886418
+
+NODE	NB	Current Time
+0 	 5 	 63.911657
+
+NODE	NB	Current Time
+0 	 5 	 64.918908
+
+NODE	NB	Current Time
+0 	 5 	 65.178851
+
+NODE	NB	Current Time
+0 	 5 	 65.477711
+
+NODE	NB	Current Time
+0 	 5 	 65.646191
+
+NODE	NB	Current Time
+0 	 5 	 65.749792
+
+NODE	NB	Current Time
+0 	 5 	 66.667927
+
+NODE	NB	Current Time
+0 	 5 	 66.787250
+
+NODE	NB	Current Time
+0 	 5 	 67.338781
+
+NODE	NB	Current Time
+0 	 5 	 67.549042
+
+NODE	NB	Current Time
+0 	 5 	 67.910271
+
+NODE	NB	Current Time
+0 	 5 	 68.764975
+
+NODE	NB	Current Time
+0 	 5 	 68.811542
+
+NODE	NB	Current Time
+0 	 5 	 69.381269
+
+NODE	NB	Current Time
+0 	 5 	 69.880580
+
+NODE	NB	Current Time
+0 	 5 	 70.033301
+
+NODE	NB	Current Time
+0 	 5 	 70.532925
+
+NODE	NB	Current Time
+0 	 5 	 70.664984
+
+NODE	NB	Current Time
+0 	 5 	 71.041730
+
+NODE	NB	Current Time
+0 	 5 	 71.461289
+
+NODE	NB	Current Time
+0 	 5 	 71.941749
+
+NODE	NB	Current Time
+0 	 5 	 71.974836
+
+NODE	NB	Current Time
+0 	 5 	 72.101069
+
+NODE	NB	Current Time
+0 	 5 	 72.821729
+
+NODE	NB	Current Time
+0 	 5 	 73.235558
+
+NODE	NB	Current Time
+0 	 5 	 73.531278
+
+NODE	NB	Current Time
+0 	 5 	 74.101849
+
+NODE	NB	Current Time
+0 	 5 	 74.511016
+
+NODE	NB	Current Time
+0 	 5 	 74.614145
+
+NODE	NB	Current Time
+0 	 5 	 74.712554
+
+NODE	NB	Current Time
+0 	 5 	 75.781949
+
+NODE	NB	Current Time
+0 	 5 	 75.917886
+
+NODE	NB	Current Time
+0 	 5 	 76.091002
+
+NODE	NB	Current Time
+0 	 5 	 76.312397
+
+NODE	NB	Current Time
+0 	 5 	 76.389757
+
+NODE	NB	Current Time
+0 	 5 	 77.081078
+
+NODE	NB	Current Time
+0 	 5 	 77.596462
+
+NODE	NB	Current Time
+0 	 5 	 77.814763
+
+NODE	NB	Current Time
+0 	 5 	 78.331443
+
+NODE	NB	Current Time
+0 	 5 	 78.379384
+
+NODE	NB	Current Time
+0 	 5 	 78.776520
+
+NODE	NB	Current Time
+0 	 5 	 79.161830
+
+NODE	NB	Current Time
+0 	 5 	 79.430192
+
+NODE	NB	Current Time
+0 	 5 	 79.781249
+
+NODE	NB	Current Time
+0 	 5 	 80.068708
+
+NODE	NB	Current Time
+0 	 5 	 80.743837
+
+NODE	NB	Current Time
+0 	 5 	 81.103824
+
+NODE	NB	Current Time
+0 	 5 	 81.468766
+
+NODE	NB	Current Time
+0 	 5 	 81.757550
+
+NODE	NB	Current Time
+0 	 5 	 81.985962
+
+NODE	NB	Current Time
+0 	 5 	 82.021189
+
+NODE	NB	Current Time
+0 	 5 	 83.000250
+
+NODE	NB	Current Time
+0 	 5 	 83.462591
+
+NODE	NB	Current Time
+0 	 5 	 83.611043
+
+NODE	NB	Current Time
+0 	 5 	 84.050005
+
+NODE	NB	Current Time
+0 	 5 	 84.268572
+
+NODE	NB	Current Time
+0 	 5 	 84.532533
+
+NODE	NB	Current Time
+0 	 5 	 85.074336
+
+NODE	NB	Current Time
+0 	 5 	 85.236789
+
+NODE	NB	Current Time
+0 	 5 	 85.470453
+
+NODE	NB	Current Time
+0 	 5 	 85.675228
+
+NODE	NB	Current Time
+0 	 5 	 85.812294
+
+NODE	NB	Current Time
+0 	 5 	 86.672312
+
+NODE	NB	Current Time
+0 	 5 	 87.508463
+
+NODE	NB	Current Time
+0 	 5 	 87.755766
+
+NODE	NB	Current Time
+0 	 5 	 87.771479
+
+NODE	NB	Current Time
+0 	 5 	 87.806506
+
+NODE	NB	Current Time
+0 	 5 	 88.047806
+
+NODE	NB	Current Time
+0 	 5 	 89.353110
+
+NODE	NB	Current Time
+0 	 5 	 89.359025
+
+NODE	NB	Current Time
+0 	 5 	 89.584506
+
+NODE	NB	Current Time
+0 	 5 	 89.727560
+
+NODE	NB	Current Time
+0 	 5 	 90.365837
+
+NODE	NB	Current Time
+0 	 5 	 90.912540
+
+NODE	NB	Current Time
+0 	 5 	 91.265476
+
+NODE	NB	Current Time
+0 	 5 	 91.487632
+
+NODE	NB	Current Time
+0 	 5 	 91.492537
+
+NODE	NB	Current Time
+0 	 5 	 91.646490
+
+NODE	NB	Current Time
+0 	 5 	 92.902049
+
+NODE	NB	Current Time
+0 	 5 	 92.971043
+
+NODE	NB	Current Time
+0 	 5 	 93.003173
+
+NODE	NB	Current Time
+0 	 5 	 93.541969
+
+NODE	NB	Current Time
+0 	 5 	 93.611162
+
+NODE	NB	Current Time
+0 	 5 	 94.598898
+
+NODE	NB	Current Time
+0 	 5 	 94.731343
+
+NODE	NB	Current Time
+0 	 5 	 95.095684
+
+NODE	NB	Current Time
+0 	 5 	 95.181880
+
+NODE	NB	Current Time
+0 	 5 	 95.941249
+
+NODE	NB	Current Time
+0 	 5 	 96.341649
+
+NODE	NB	Current Time
+0 	 5 	 96.352357
+
+NODE	NB	Current Time
+0 	 5 	 96.686567
+
+NODE	NB	Current Time
+0 	 5 	 96.953533
+
+NODE	NB	Current Time
+0 	 5 	 97.141529
+
+NODE	NB	Current Time
+0 	 5 	 97.571861
+
+NODE	NB	Current Time
+0 	 5 	 98.058834
+
+NODE	NB	Current Time
+0 	 5 	 98.347820
+
+NODE	NB	Current Time
+0 	 5 	 98.651199
+
+NODE	NB	Current Time
+0 	 5 	 99.348688
+
+NODE	NB	Current Time
+0 	 5 	 99.431245
+
+NODE	NB	Current Time
+0 	 5 	 100.025209
+
+NODE	NB	Current Time
+0 	 5 	 100.200858
+
+NODE	NB	Current Time
+0 	 5 	 100.399099
+
+NODE	NB	Current Time
+0 	 5 	 101.008832
+
+NODE	NB	Current Time
+0 	 5 	 101.465626
+
+NODE	NB	Current Time
+0 	 5 	 101.703162
+
+NODE	NB	Current Time
+0 	 5 	 101.714270
+
+NODE	NB	Current Time
+0 	 5 	 102.537877
+
+NODE	NB	Current Time
+0 	 5 	 102.741309
+
+NODE	NB	Current Time
+0 	 5 	 103.141009
+
+NODE	NB	Current Time
+0 	 5 	 103.267065
+
+NODE	NB	Current Time
+0 	 5 	 103.560014
+
+NODE	NB	Current Time
+0 	 5 	 104.300283
+
+NODE	NB	Current Time
+0 	 5 	 104.610314
+
+NODE	NB	Current Time
+0 	 5 	 105.087859
+
+NODE	NB	Current Time
+0 	 5 	 105.246180
+
+NODE	NB	Current Time
+0 	 5 	 105.461649
+
+NODE	NB	Current Time
+0 	 5 	 106.473290
+
+NODE	NB	Current Time
+0 	 5 	 106.521485
+
+NODE	NB	Current Time
+0 	 5 	 106.664703
+
+NODE	NB	Current Time
+0 	 5 	 106.799493
+
+NODE	NB	Current Time
+0 	 5 	 107.260463
+
+NODE	NB	Current Time
+0 	 5 	 107.941829
+
+NODE	NB	Current Time
+0 	 5 	 108.261309
+
+NODE	NB	Current Time
+0 	 5 	 108.364906
+
+NODE	NB	Current Time
+0 	 5 	 108.587071
+
+NODE	NB	Current Time
+0 	 5 	 108.651642
+
+NODE	NB	Current Time
+0 	 5 	 109.913231
+
+NODE	NB	Current Time
+0 	 5 	 109.979689
+
+NODE	NB	Current Time
+0 	 5 	 110.192511
+
+NODE	NB	Current Time
+0 	 5 	 110.237675
+
+NODE	NB	Current Time
+0 	 5 	 110.790874
+
+NODE	NB	Current Time
+0 	 5 	 111.531422
+
+NODE	NB	Current Time
+0 	 5 	 111.715152
+
+NODE	NB	Current Time
+0 	 5 	 112.171583
+
+NODE	NB	Current Time
+0 	 5 	 112.459253
+
+NODE	NB	Current Time
+0 	 5 	 112.633083
+
+NODE	NB	Current Time
+0 	 5 	 113.302189
+
+NODE	NB	Current Time
+0 	 5 	 113.352726
+
+NODE	NB	Current Time
+0 	 5 	 113.755428
+
+NODE	NB	Current Time
+0 	 5 	 113.820506
+
+NODE	NB	Current Time
+0 	 5 	 114.421269
+
+NODE	NB	Current Time
+0 	 5 	 114.545718
+
+NODE	NB	Current Time
+0 	 5 	 115.195630
+
+NODE	NB	Current Time
+0 	 5 	 115.415258
+
+NODE	NB	Current Time
+0 	 5 	 115.792867
+
+NODE	NB	Current Time
+0 	 5 	 115.891826
+
+NODE	NB	Current Time
+0 	 5 	 116.678812
+
+NODE	NB	Current Time
+0 	 5 	 117.222962
+
+NODE	NB	Current Time
+0 	 5 	 117.224289
+
+NODE	NB	Current Time
+0 	 5 	 117.624727
+
+NODE	NB	Current Time
+0 	 5 	 117.910873
+
+NODE	NB	Current Time
+0 	 5 	 118.265235
+
+NODE	NB	Current Time
+0 	 5 	 118.602063
+
+NODE	NB	Current Time
+0 	 5 	 118.855416
+
+NODE	NB	Current Time
+0 	 5 	 119.500222
+
+NODE	NB	Current Time
+0 	 5 	 119.629101
+
+NODE	NB	Current Time
+0 	 5 	 119.963177
+
+NODE	NB	Current Time
+0 	 5 	 120.454025
+
+NODE	NB	Current Time
+0 	 5 	 120.825163
+
+NODE	NB	Current Time
+0 	 5 	 121.108473
+
+NODE	NB	Current Time
+0 	 5 	 121.489324
+
+NODE	NB	Current Time
+0 	 5 	 121.973108
+
+NODE	NB	Current Time
+0 	 5 	 122.310299
+
+NODE	NB	Current Time
+0 	 5 	 122.473384
+
+NODE	NB	Current Time
+0 	 5 	 122.892681
+
+NODE	NB	Current Time
+0 	 5 	 122.997187
+
+NODE	NB	Current Time
+0 	 5 	 123.611379
+
+NODE	NB	Current Time
+0 	 5 	 124.069321
+
+NODE	NB	Current Time
+0 	 5 	 124.122579
+
+NODE	NB	Current Time
+0 	 5 	 124.717741
+
+NODE	NB	Current Time
+0 	 5 	 125.233206
+
+NODE	NB	Current Time
+0 	 5 	 125.584590
+
+NODE	NB	Current Time
+0 	 5 	 125.861009
+
+NODE	NB	Current Time
+0 	 5 	 125.973804
+
+NODE	NB	Current Time
+0 	 5 	 126.554620
+
+NODE	NB	Current Time
+0 	 5 	 126.901729
+
+NODE	NB	Current Time
+0 	 5 	 127.141309
+
+NODE	NB	Current Time
+0 	 5 	 127.450923
+
+NODE	NB	Current Time
+0 	 5 	 127.611662
+
+NODE	NB	Current Time
+0 	 5 	 128.268369
+
+NODE	NB	Current Time
+0 	 5 	 129.084838
+
+NODE	NB	Current Time
+0 	 5 	 129.101726
+
+NODE	NB	Current Time
+0 	 5 	 129.104609
+
+NODE	NB	Current Time
+0 	 5 	 129.141729
+
+NODE	NB	Current Time
+0 	 5 	 129.874925
+
+NODE	NB	Current Time
+0 	 5 	 130.365123
+
+NODE	NB	Current Time
+0 	 5 	 130.602366
+
+NODE	NB	Current Time
+0 	 5 	 130.925001
+
+NODE	NB	Current Time
+0 	 5 	 131.279069
+
+NODE	NB	Current Time
+0 	 5 	 132.101509
+
+NODE	NB	Current Time
+0 	 5 	 132.411219
+
+NODE	NB	Current Time
+0 	 5 	 132.594116
+
+NODE	NB	Current Time
+0 	 5 	 133.024502
+
+NODE	NB	Current Time
+0 	 5 	 133.148097
+
+NODE	NB	Current Time
+0 	 5 	 133.702069
+
+NODE	NB	Current Time
+0 	 5 	 134.021949
+
+NODE	NB	Current Time
+0 	 5 	 134.058342
+
+NODE	NB	Current Time
+0 	 5 	 134.453472
+
+NODE	NB	Current Time
+0 	 5 	 134.912893
+
+NODE	NB	Current Time
+0 	 5 	 135.193195
+
+NODE	NB	Current Time
+0 	 5 	 135.590311
+
+NODE	NB	Current Time
+0 	 5 	 135.742257
+
+NODE	NB	Current Time
+0 	 5 	 136.317834
+
+NODE	NB	Current Time
+0 	 5 	 136.360865
+
+NODE	NB	Current Time
+0 	 5 	 137.141729
+
+NODE	NB	Current Time
+0 	 5 	 137.492966
+
+NODE	NB	Current Time
+0 	 5 	 137.715571
+
+NODE	NB	Current Time
+0 	 5 	 137.919223
+
+NODE	NB	Current Time
+0 	 5 	 138.136524
+
+NODE	NB	Current Time
+0 	 5 	 138.821809
+
+NODE	NB	Current Time
+0 	 5 	 139.600508
+
+NODE	NB	Current Time
+0 	 5 	 139.611693
+
+NODE	NB	Current Time
+0 	 5 	 139.639657
+
+NODE	NB	Current Time
+0 	 5 	 139.967448
+
+NODE	NB	Current Time
+0 	 5 	 140.359747
+
+NODE	NB	Current Time
+0 	 5 	 141.085175
+
+NODE	NB	Current Time
+0 	 5 	 141.227123
+
+NODE	NB	Current Time
+0 	 5 	 141.387100
+
+NODE	NB	Current Time
+0 	 5 	 141.567056
+
+NODE	NB	Current Time
+0 	 5 	 142.272581
+
+NODE	NB	Current Time
+0 	 5 	 142.581749
+
+NODE	NB	Current Time
+0 	 5 	 143.328902
+
+NODE	NB	Current Time
+0 	 5 	 143.466635
+
+NODE	NB	Current Time
+0 	 5 	 143.508017
+
+NODE	NB	Current Time
+0 	 5 	 143.985237
+
+NODE	NB	Current Time
+0 	 5 	 144.193626
+
+NODE	NB	Current Time
+0 	 5 	 144.901289
+
+NODE	NB	Current Time
+0 	 5 	 145.177126
+
+NODE	NB	Current Time
+0 	 5 	 145.576883
+
+NODE	NB	Current Time
+0 	 5 	 145.989760
+
+NODE	NB	Current Time
+0 	 5 	 146.207466
+
+NODE	NB	Current Time
+0 	 5 	 146.527396
+
+NODE	NB	Current Time
+0 	 5 	 146.768655
+
+NODE	NB	Current Time
+0 	 5 	 146.778994
+
+NODE	NB	Current Time
+0 	 5 	 147.995079
+
+NODE	NB	Current Time
+0 	 5 	 148.038901
+
+NODE	NB	Current Time
+0 	 5 	 148.454124
+
+NODE	NB	Current Time
+0 	 5 	 148.581589
+
+NODE	NB	Current Time
+0 	 5 	 149.051102
+
+NODE	NB	Current Time
+0 	 5 	 149.559651
+
+NODE	NB	Current Time
+0 	 5 	 149.723892
+
+NODE	NB	Current Time
+0 	 4 	 2.225792
+
+NODE	NB	Current Time
+0 	 4 	 3.437016
+
+NODE	NB	Current Time
+0 	 2 	 3.437016
+
+NODE	NB	Current Time
+0 	 2 	 3.735672
+
+NODE	NB	Current Time
+0 	 5 	 3.735672
+
+NODE	NB	Current Time
+0 	 2 	 3.927726
+
+NODE	NB	Current Time
+0 	 5 	 3.927726
+
+NODE	NB	Current Time
+0 	 4 	 4.180463
+
+NODE	NB	Current Time
+0 	 4 	 5.394843
+
+NODE	NB	Current Time
+0 	 4 	 5.547292
+
+NODE	NB	Current Time
+0 	 4 	 5.559134
+
+NODE	NB	Current Time
+0 	 4 	 5.983379
+
+NODE	NB	Current Time
+0 	 5 	 5.992077
+
+NODE	NB	Current Time
+0 	 5 	 6.905621
+
+NODE	NB	Current Time
+0 	 5 	 7.036214
+
+NODE	NB	Current Time
+0 	 5 	 7.146643
+
+NODE	NB	Current Time
+0 	 5 	 7.796312
+
+NODE	NB	Current Time
+0 	 5 	 7.877927
+
+NODE	NB	Current Time
+0 	 5 	 8.635474
+
+NODE	NB	Current Time
+0 	 5 	 8.887383
+
+NODE	NB	Current Time
+0 	 5 	 9.000172
+
+NODE	NB	Current Time
+0 	 5 	 9.396809
+
+NODE	NB	Current Time
+0 	 5 	 9.573859
+
+NODE	NB	Current Time
+0 	 5 	 10.187819
+
+NODE	NB	Current Time
+0 	 5 	 10.636174
+
+NODE	NB	Current Time
+0 	 5 	 10.701007
+
+NODE	NB	Current Time
+0 	 5 	 10.979991
+
+NODE	NB	Current Time
+0 	 5 	 11.137507
+
+NODE	NB	Current Time
+0 	 5 	 11.892151
+
+NODE	NB	Current Time
+0 	 5 	 12.686631
+
+NODE	NB	Current Time
+0 	 5 	 12.708327
+
+NODE	NB	Current Time
+0 	 5 	 12.997987
+
+NODE	NB	Current Time
+0 	 5 	 13.192457
+
+NODE	NB	Current Time
+0 	 5 	 13.477276
+
+NODE	NB	Current Time
+0 	 5 	 14.507890
+
+NODE	NB	Current Time
+0 	 5 	 14.549750
+
+NODE	NB	Current Time
+0 	 5 	 14.583698
+
+NODE	NB	Current Time
+0 	 5 	 14.605240
+
+NODE	NB	Current Time
+0 	 5 	 15.516346
+
+NODE	NB	Current Time
+0 	 5 	 16.160203
+
+NODE	NB	Current Time
+0 	 5 	 16.165516
+
+NODE	NB	Current Time
+0 	 5 	 16.344602
+
+NODE	NB	Current Time
+0 	 5 	 16.460515
+
+NODE	NB	Current Time
+0 	 5 	 17.112110
+
+NODE	NB	Current Time
+0 	 5 	 17.618034
+
+NODE	NB	Current Time
+0 	 5 	 17.913658
+
+NODE	NB	Current Time
+0 	 5 	 17.919113
+
+NODE	NB	Current Time
+0 	 5 	 18.061649
+
+NODE	NB	Current Time
+0 	 5 	 19.070244
+
+NODE	NB	Current Time
+0 	 5 	 19.397902
+
+NODE	NB	Current Time
+0 	 5 	 19.467548
+
+NODE	NB	Current Time
+0 	 5 	 19.952908
+
+NODE	NB	Current Time
+0 	 5 	 19.959143
+
+NODE	NB	Current Time
+0 	 5 	 20.980843
+
+NODE	NB	Current Time
+0 	 5 	 21.121116
+
+NODE	NB	Current Time
+0 	 5 	 21.328536
+
+NODE	NB	Current Time
+0 	 5 	 21.516306
+
+NODE	NB	Current Time
+0 	 5 	 21.615753
+
+NODE	NB	Current Time
+0 	 5 	 22.661058
+
+NODE	NB	Current Time
+0 	 5 	 22.741614
+
+NODE	NB	Current Time
+0 	 5 	 22.964064
+
+NODE	NB	Current Time
+0 	 5 	 23.428233
+
+NODE	NB	Current Time
+0 	 5 	 23.564666
+
+NODE	NB	Current Time
+0 	 5 	 24.259621
+
+NODE	NB	Current Time
+0 	 5 	 24.467830
+
+NODE	NB	Current Time
+0 	 5 	 24.780964
+
+NODE	NB	Current Time
+0 	 5 	 25.300842
+
+NODE	NB	Current Time
+0 	 5 	 25.388028
+
+NODE	NB	Current Time
+0 	 5 	 26.057864
+
+NODE	NB	Current Time
+0 	 5 	 26.229620
+
+NODE	NB	Current Time
+0 	 5 	 26.477721
+
+NODE	NB	Current Time
+0 	 5 	 26.749911
+
+NODE	NB	Current Time
+0 	 5 	 26.901093
+
+NODE	NB	Current Time
+0 	 5 	 27.753554
+
+NODE	NB	Current Time
+0 	 5 	 28.111914
+
+NODE	NB	Current Time
+0 	 5 	 28.181835
+
+NODE	NB	Current Time
+0 	 5 	 28.487455
+
+NODE	NB	Current Time
+0 	 5 	 28.607683
+
+NODE	NB	Current Time
+0 	 5 	 29.870054
+
+NODE	NB	Current Time
+0 	 5 	 29.934163
+
+NODE	NB	Current Time
+0 	 5 	 30.015154
+
+NODE	NB	Current Time
+0 	 5 	 30.030391
+
+NODE	NB	Current Time
+0 	 5 	 30.501149
+
+NODE	NB	Current Time
+0 	 5 	 31.794895
+
+NODE	NB	Current Time
+0 	 5 	 31.941429
+
+NODE	NB	Current Time
+0 	 5 	 31.976668
+
+NODE	NB	Current Time
+0 	 5 	 32.035897
+
+NODE	NB	Current Time
+0 	 5 	 32.393460
+
+NODE	NB	Current Time
+0 	 5 	 33.551129
+
+NODE	NB	Current Time
+0 	 5 	 33.568768
+
+NODE	NB	Current Time
+0 	 5 	 33.634330
+
+NODE	NB	Current Time
+0 	 5 	 33.801281
+
+NODE	NB	Current Time
+0 	 5 	 34.661109
+
+NODE	NB	Current Time
+0 	 5 	 35.239530
+
+NODE	NB	Current Time
+0 	 5 	 35.291259
+
+NODE	NB	Current Time
+0 	 5 	 35.472234
+
+NODE	NB	Current Time
+0 	 5 	 35.653612
+
+NODE	NB	Current Time
+0 	 5 	 36.145667
+
+NODE	NB	Current Time
+0 	 5 	 37.111608
+
+NODE	NB	Current Time
+0 	 5 	 37.273811
+
+NODE	NB	Current Time
+0 	 5 	 37.305716
+
+NODE	NB	Current Time
+0 	 5 	 37.381549
+
+NODE	NB	Current Time
+0 	 5 	 37.971613
+
+NODE	NB	Current Time
+0 	 5 	 38.447212
+
+NODE	NB	Current Time
+0 	 5 	 38.692701
+
+NODE	NB	Current Time
+0 	 5 	 38.981429
+
+NODE	NB	Current Time
+0 	 5 	 39.428383
+
+NODE	NB	Current Time
+0 	 5 	 39.491645
+
+NODE	NB	Current Time
+0 	 5 	 39.943817
+
+NODE	NB	Current Time
+0 	 5 	 40.749442
+
+NODE	NB	Current Time
+0 	 5 	 40.765926
+
+NODE	NB	Current Time
+0 	 5 	 40.860541
+
+NODE	NB	Current Time
+0 	 5 	 41.300749
+
+NODE	NB	Current Time
+0 	 5 	 41.611319
+
+NODE	NB	Current Time
+0 	 5 	 42.188789
+
+NODE	NB	Current Time
+0 	 5 	 42.661509
+
+NODE	NB	Current Time
+0 	 5 	 42.940626
+
+NODE	NB	Current Time
+0 	 5 	 43.318894
+
+NODE	NB	Current Time
+0 	 5 	 43.541829
+
+NODE	NB	Current Time
+0 	 5 	 44.011482
+
+NODE	NB	Current Time
+0 	 5 	 44.191126
+
+NODE	NB	Current Time
+0 	 5 	 44.581349
+
+NODE	NB	Current Time
+0 	 5 	 44.796687
+
+NODE	NB	Current Time
+0 	 5 	 44.870838
+
+NODE	NB	Current Time
+0 	 5 	 45.734472
+
+NODE	NB	Current Time
+0 	 5 	 46.142748
+
+NODE	NB	Current Time
+0 	 5 	 46.203541
+
+NODE	NB	Current Time
+0 	 5 	 46.811459
+
+NODE	NB	Current Time
+0 	 5 	 47.154970
+
+NODE	NB	Current Time
+0 	 5 	 47.271833
+
+NODE	NB	Current Time
+0 	 5 	 47.879350
+
+NODE	NB	Current Time
+0 	 5 	 47.978498
+
+NODE	NB	Current Time
+0 	 5 	 48.694044
+
+NODE	NB	Current Time
+0 	 5 	 48.981969
+
+NODE	NB	Current Time
+0 	 5 	 49.141209
+
+NODE	NB	Current Time
+0 	 5 	 49.742166
+
+NODE	NB	Current Time
+0 	 5 	 49.753431
+
+NODE	NB	Current Time
+0 	 5 	 50.460857
+
+NODE	NB	Current Time
+0 	 5 	 50.477197
+
+NODE	NB	Current Time
+0 	 5 	 51.230014
+
+NODE	NB	Current Time
+0 	 5 	 51.584858
+
+NODE	NB	Current Time
+0 	 5 	 51.665041
+
+NODE	NB	Current Time
+0 	 5 	 52.152155
+
+NODE	NB	Current Time
+0 	 5 	 52.261689
+
+NODE	NB	Current Time
+0 	 5 	 53.211622
+
+NODE	NB	Current Time
+0 	 5 	 53.228000
+
+NODE	NB	Current Time
+0 	 5 	 53.356838
+
+NODE	NB	Current Time
+0 	 5 	 53.785310
+
+NODE	NB	Current Time
+0 	 5 	 54.387726
+
+NODE	NB	Current Time
+0 	 5 	 54.821149
+
+NODE	NB	Current Time
+0 	 5 	 55.451222
+
+NODE	NB	Current Time
+0 	 5 	 55.473072
+
+NODE	NB	Current Time
+0 	 5 	 55.704121
+
+NODE	NB	Current Time
+0 	 5 	 55.828240
+
+NODE	NB	Current Time
+0 	 5 	 56.731102
+
+NODE	NB	Current Time
+0 	 5 	 56.855181
+
+NODE	NB	Current Time
+0 	 5 	 57.221269
+
+NODE	NB	Current Time
+0 	 5 	 57.562470
+
+NODE	NB	Current Time
+0 	 5 	 57.633520
+
+NODE	NB	Current Time
+0 	 5 	 58.451806
+
+NODE	NB	Current Time
+0 	 5 	 58.602301
+
+NODE	NB	Current Time
+0 	 5 	 58.971788
+
+NODE	NB	Current Time
+0 	 5 	 59.461769
+
+NODE	NB	Current Time
+0 	 5 	 59.622873
+
+NODE	NB	Current Time
+0 	 5 	 60.129247
+
+NODE	NB	Current Time
+0 	 5 	 60.260989
+
+NODE	NB	Current Time
+0 	 5 	 60.370359
+
+NODE	NB	Current Time
+0 	 5 	 61.159495
+
+NODE	NB	Current Time
+0 	 5 	 61.469746
+
+NODE	NB	Current Time
+0 	 5 	 62.137623
+
+NODE	NB	Current Time
+0 	 5 	 62.445316
+
+NODE	NB	Current Time
+0 	 5 	 63.157999
+
+NODE	NB	Current Time
+0 	 5 	 63.356883
+
+NODE	NB	Current Time
+0 	 5 	 63.679415
+
+NODE	NB	Current Time
+0 	 5 	 63.886418
+
+NODE	NB	Current Time
+0 	 5 	 63.911657
+
+NODE	NB	Current Time
+0 	 5 	 64.918908
+
+NODE	NB	Current Time
+0 	 5 	 65.178915
+
+NODE	NB	Current Time
+0 	 5 	 65.477711
+
+NODE	NB	Current Time
+0 	 5 	 65.646191
+
+NODE	NB	Current Time
+0 	 5 	 65.749792
+
+NODE	NB	Current Time
+0 	 5 	 66.667927
+
+NODE	NB	Current Time
+0 	 5 	 66.787314
+
+NODE	NB	Current Time
+0 	 5 	 67.338781
+
+NODE	NB	Current Time
+0 	 5 	 67.549042
+
+NODE	NB	Current Time
+0 	 5 	 67.910271
+
+NODE	NB	Current Time
+0 	 5 	 68.764975
+
+NODE	NB	Current Time
+0 	 5 	 68.811542
+
+NODE	NB	Current Time
+0 	 5 	 69.381269
+
+NODE	NB	Current Time
+0 	 5 	 69.880644
+
+NODE	NB	Current Time
+0 	 5 	 70.033301
+
+NODE	NB	Current Time
+0 	 5 	 70.532925
+
+NODE	NB	Current Time
+0 	 5 	 70.664984
+
+NODE	NB	Current Time
+0 	 5 	 71.041730
+
+NODE	NB	Current Time
+0 	 5 	 71.461289
+
+NODE	NB	Current Time
+0 	 5 	 71.941449
+
+NODE	NB	Current Time
+0 	 5 	 71.974836
+
+NODE	NB	Current Time
+0 	 5 	 72.101069
+
+NODE	NB	Current Time
+0 	 5 	 72.821729
+
+NODE	NB	Current Time
+0 	 5 	 73.235558
+
+NODE	NB	Current Time
+0 	 5 	 73.531342
+
+NODE	NB	Current Time
+0 	 5 	 74.101849
+
+NODE	NB	Current Time
+0 	 5 	 74.511016
+
+NODE	NB	Current Time
+0 	 5 	 74.614145
+
+NODE	NB	Current Time
+0 	 5 	 74.712554
+
+NODE	NB	Current Time
+0 	 5 	 75.781649
+
+NODE	NB	Current Time
+0 	 5 	 75.917886
+
+NODE	NB	Current Time
+0 	 5 	 76.091002
+
+NODE	NB	Current Time
+0 	 5 	 76.312397
+
+NODE	NB	Current Time
+0 	 5 	 76.389757
+
+NODE	NB	Current Time
+0 	 5 	 77.081142
+
+NODE	NB	Current Time
+0 	 5 	 77.596462
+
+NODE	NB	Current Time
+0 	 5 	 77.814763
+
+NODE	NB	Current Time
+0 	 5 	 78.331443
+
+NODE	NB	Current Time
+0 	 5 	 78.379384
+
+NODE	NB	Current Time
+0 	 5 	 78.776584
+
+NODE	NB	Current Time
+0 	 5 	 79.161830
+
+NODE	NB	Current Time
+0 	 5 	 79.430192
+
+NODE	NB	Current Time
+0 	 5 	 79.781249
+
+NODE	NB	Current Time
+0 	 5 	 80.068708
+
+NODE	NB	Current Time
+0 	 5 	 80.743901
+
+NODE	NB	Current Time
+0 	 5 	 81.103824
+
+NODE	NB	Current Time
+0 	 5 	 81.468766
+
+NODE	NB	Current Time
+0 	 5 	 81.757550
+
+NODE	NB	Current Time
+0 	 5 	 81.985962
+
+NODE	NB	Current Time
+0 	 5 	 82.020889
+
+NODE	NB	Current Time
+0 	 5 	 83.000250
+
+NODE	NB	Current Time
+0 	 5 	 83.462591
+
+NODE	NB	Current Time
+0 	 5 	 83.611043
+
+NODE	NB	Current Time
+0 	 5 	 84.050005
+
+NODE	NB	Current Time
+0 	 5 	 84.268636
+
+NODE	NB	Current Time
+0 	 5 	 84.532533
+
+NODE	NB	Current Time
+0 	 5 	 85.074336
+
+NODE	NB	Current Time
+0 	 5 	 85.236789
+
+NODE	NB	Current Time
+0 	 5 	 85.470518
+
+NODE	NB	Current Time
+0 	 5 	 85.675228
+
+NODE	NB	Current Time
+0 	 5 	 85.812294
+
+NODE	NB	Current Time
+0 	 5 	 86.672312
+
+NODE	NB	Current Time
+0 	 5 	 87.508463
+
+NODE	NB	Current Time
+0 	 5 	 87.755766
+
+NODE	NB	Current Time
+0 	 5 	 87.771479
+
+NODE	NB	Current Time
+0 	 5 	 87.806570
+
+NODE	NB	Current Time
+0 	 5 	 88.047806
+
+NODE	NB	Current Time
+0 	 5 	 89.353110
+
+NODE	NB	Current Time
+0 	 5 	 89.359025
+
+NODE	NB	Current Time
+0 	 5 	 89.584570
+
+NODE	NB	Current Time
+0 	 5 	 89.727560
+
+NODE	NB	Current Time
+0 	 5 	 90.365837
+
+NODE	NB	Current Time
+0 	 5 	 90.912540
+
+NODE	NB	Current Time
+0 	 5 	 91.265540
+
+NODE	NB	Current Time
+0 	 5 	 91.487632
+
+NODE	NB	Current Time
+0 	 5 	 91.492537
+
+NODE	NB	Current Time
+0 	 5 	 91.646490
+
+NODE	NB	Current Time
+0 	 5 	 92.901749
+
+NODE	NB	Current Time
+0 	 5 	 92.971043
+
+NODE	NB	Current Time
+0 	 5 	 93.003173
+
+NODE	NB	Current Time
+0 	 5 	 93.541969
+
+NODE	NB	Current Time
+0 	 5 	 93.611162
+
+NODE	NB	Current Time
+0 	 5 	 94.598898
+
+NODE	NB	Current Time
+0 	 5 	 94.731343
+
+NODE	NB	Current Time
+0 	 5 	 95.095684
+
+NODE	NB	Current Time
+0 	 5 	 95.181880
+
+NODE	NB	Current Time
+0 	 5 	 95.940949
+
+NODE	NB	Current Time
+0 	 5 	 96.341649
+
+NODE	NB	Current Time
+0 	 5 	 96.352357
+
+NODE	NB	Current Time
+0 	 5 	 96.686567
+
+NODE	NB	Current Time
+0 	 5 	 96.953533
+
+NODE	NB	Current Time
+0 	 5 	 97.141229
+
+NODE	NB	Current Time
+0 	 5 	 97.571861
+
+NODE	NB	Current Time
+0 	 5 	 98.058834
+
+NODE	NB	Current Time
+0 	 5 	 98.347820
+
+NODE	NB	Current Time
+0 	 5 	 98.651199
+
+NODE	NB	Current Time
+0 	 5 	 99.348752
+
+NODE	NB	Current Time
+0 	 5 	 99.431245
+
+NODE	NB	Current Time
+0 	 5 	 100.025209
+
+NODE	NB	Current Time
+0 	 5 	 100.200858
+
+NODE	NB	Current Time
+0 	 5 	 100.399099
+
+NODE	NB	Current Time
+0 	 5 	 101.008896
+
+NODE	NB	Current Time
+0 	 5 	 101.465626
+
+NODE	NB	Current Time
+0 	 5 	 101.703162
+
+NODE	NB	Current Time
+0 	 5 	 101.714270
+
+NODE	NB	Current Time
+0 	 5 	 102.537941
+
+NODE	NB	Current Time
+0 	 5 	 102.741309
+
+NODE	NB	Current Time
+0 	 5 	 103.141009
+
+NODE	NB	Current Time
+0 	 5 	 103.267065
+
+NODE	NB	Current Time
+0 	 5 	 103.560014
+
+NODE	NB	Current Time
+0 	 5 	 104.300347
+
+NODE	NB	Current Time
+0 	 5 	 104.610314
+
+NODE	NB	Current Time
+0 	 5 	 105.087859
+
+NODE	NB	Current Time
+0 	 5 	 105.246180
+
+NODE	NB	Current Time
+0 	 5 	 105.461649
+
+NODE	NB	Current Time
+0 	 5 	 106.473354
+
+NODE	NB	Current Time
+0 	 5 	 106.521485
+
+NODE	NB	Current Time
+0 	 5 	 106.664703
+
+NODE	NB	Current Time
+0 	 5 	 106.799493
+
+NODE	NB	Current Time
+0 	 5 	 107.260463
+
+NODE	NB	Current Time
+0 	 5 	 107.941829
+
+NODE	NB	Current Time
+0 	 5 	 108.261309
+
+NODE	NB	Current Time
+0 	 5 	 108.364970
+
+NODE	NB	Current Time
+0 	 5 	 108.587071
+
+NODE	NB	Current Time
+0 	 5 	 108.651642
+
+NODE	NB	Current Time
+0 	 5 	 109.913231
+
+NODE	NB	Current Time
+0 	 5 	 109.979689
+
+NODE	NB	Current Time
+0 	 5 	 110.192576
+
+NODE	NB	Current Time
+0 	 5 	 110.237675
+
+NODE	NB	Current Time
+0 	 5 	 110.790874
+
+NODE	NB	Current Time
+0 	 5 	 111.531422
+
+NODE	NB	Current Time
+0 	 5 	 111.715152
+
+NODE	NB	Current Time
+0 	 5 	 112.171583
+
+NODE	NB	Current Time
+0 	 5 	 112.459317
+
+NODE	NB	Current Time
+0 	 5 	 112.633083
+
+NODE	NB	Current Time
+0 	 5 	 113.302189
+
+NODE	NB	Current Time
+0 	 5 	 113.352726
+
+NODE	NB	Current Time
+0 	 5 	 113.755428
+
+NODE	NB	Current Time
+0 	 5 	 113.820570
+
+NODE	NB	Current Time
+0 	 5 	 114.421269
+
+NODE	NB	Current Time
+0 	 5 	 114.545718
+
+NODE	NB	Current Time
+0 	 5 	 115.195630
+
+NODE	NB	Current Time
+0 	 5 	 115.415258
+
+NODE	NB	Current Time
+0 	 5 	 115.792931
+
+NODE	NB	Current Time
+0 	 5 	 115.891826
+
+NODE	NB	Current Time
+0 	 5 	 116.678812
+
+NODE	NB	Current Time
+0 	 5 	 117.222962
+
+NODE	NB	Current Time
+0 	 5 	 117.224289
+
+NODE	NB	Current Time
+0 	 5 	 117.624727
+
+NODE	NB	Current Time
+0 	 5 	 117.910937
+
+NODE	NB	Current Time
+0 	 5 	 118.265235
+
+NODE	NB	Current Time
+0 	 5 	 118.602063
+
+NODE	NB	Current Time
+0 	 5 	 118.855416
+
+NODE	NB	Current Time
+0 	 5 	 119.500222
+
+NODE	NB	Current Time
+0 	 5 	 119.629165
+
+NODE	NB	Current Time
+0 	 5 	 119.963177
+
+NODE	NB	Current Time
+0 	 5 	 120.454025
+
+NODE	NB	Current Time
+0 	 5 	 120.825163
+
+NODE	NB	Current Time
+0 	 5 	 121.108537
+
+NODE	NB	Current Time
+0 	 5 	 121.489324
+
+NODE	NB	Current Time
+0 	 5 	 121.973108
+
+NODE	NB	Current Time
+0 	 5 	 122.310299
+
+NODE	NB	Current Time
+0 	 5 	 122.473384
+
+NODE	NB	Current Time
+0 	 5 	 122.892745
+
+NODE	NB	Current Time
+0 	 5 	 122.997187
+
+NODE	NB	Current Time
+0 	 5 	 123.611379
+
+NODE	NB	Current Time
+0 	 5 	 124.069321
+
+NODE	NB	Current Time
+0 	 5 	 124.122579
+
+NODE	NB	Current Time
+0 	 5 	 124.717805
+
+NODE	NB	Current Time
+0 	 5 	 125.233206
+
+NODE	NB	Current Time
+0 	 5 	 125.584590
+
+NODE	NB	Current Time
+0 	 5 	 125.861009
+
+NODE	NB	Current Time
+0 	 5 	 125.973804
+
+NODE	NB	Current Time
+0 	 5 	 126.554684
+
+NODE	NB	Current Time
+0 	 5 	 126.901729
+
+NODE	NB	Current Time
+0 	 5 	 127.141309
+
+NODE	NB	Current Time
+0 	 5 	 127.450923
+
+NODE	NB	Current Time
+0 	 5 	 127.611662
+
+NODE	NB	Current Time
+0 	 5 	 128.268434
+
+NODE	NB	Current Time
+0 	 5 	 129.084838
+
+NODE	NB	Current Time
+0 	 5 	 129.101726
+
+NODE	NB	Current Time
+0 	 5 	 129.104609
+
+NODE	NB	Current Time
+0 	 5 	 129.141729
+
+NODE	NB	Current Time
+0 	 5 	 129.874989
+
+NODE	NB	Current Time
+0 	 5 	 130.365123
+
+NODE	NB	Current Time
+0 	 5 	 130.602366
+
+NODE	NB	Current Time
+0 	 5 	 130.925001
+
+NODE	NB	Current Time
+0 	 5 	 131.279069
+
+NODE	NB	Current Time
+0 	 5 	 132.101209
+
+NODE	NB	Current Time
+0 	 5 	 132.411219
+
+NODE	NB	Current Time
+0 	 5 	 132.594116
+
+NODE	NB	Current Time
+0 	 5 	 133.024502
+
+NODE	NB	Current Time
+0 	 5 	 133.148097
+
+NODE	NB	Current Time
+0 	 5 	 133.701769
+
+NODE	NB	Current Time
+0 	 5 	 134.021949
+
+NODE	NB	Current Time
+0 	 5 	 134.058342
+
+NODE	NB	Current Time
+0 	 5 	 134.453472
+
+NODE	NB	Current Time
+0 	 5 	 134.912893
+
+NODE	NB	Current Time
+0 	 5 	 135.193259
+
+NODE	NB	Current Time
+0 	 5 	 135.590311
+
+NODE	NB	Current Time
+0 	 5 	 135.742257
+
+NODE	NB	Current Time
+0 	 5 	 136.317834
+
+NODE	NB	Current Time
+0 	 5 	 136.360865
+
+NODE	NB	Current Time
+0 	 5 	 137.141429
+
+NODE	NB	Current Time
+0 	 5 	 137.492966
+
+NODE	NB	Current Time
+0 	 5 	 137.715571
+
+NODE	NB	Current Time
+0 	 5 	 137.919223
+
+NODE	NB	Current Time
+0 	 5 	 138.136524
+
+NODE	NB	Current Time
+0 	 5 	 138.821509
+
+NODE	NB	Current Time
+0 	 5 	 139.600508
+
+NODE	NB	Current Time
+0 	 5 	 139.611693
+
+NODE	NB	Current Time
+0 	 5 	 139.639657
+
+NODE	NB	Current Time
+0 	 5 	 139.967448
+
+NODE	NB	Current Time
+0 	 5 	 140.359811
+
+NODE	NB	Current Time
+0 	 5 	 141.085175
+
+NODE	NB	Current Time
+0 	 5 	 141.227123
+
+NODE	NB	Current Time
+0 	 5 	 141.387100
+
+NODE	NB	Current Time
+0 	 5 	 141.567056
+
+NODE	NB	Current Time
+0 	 5 	 142.272645
+
+NODE	NB	Current Time
+0 	 5 	 142.581749
+
+NODE	NB	Current Time
+0 	 5 	 143.328902
+
+NODE	NB	Current Time
+0 	 5 	 143.466635
+
+NODE	NB	Current Time
+0 	 5 	 143.508017
+
+NODE	NB	Current Time
+0 	 5 	 143.985301
+
+NODE	NB	Current Time
+0 	 5 	 144.193626
+
+NODE	NB	Current Time
+0 	 5 	 144.901289
+
+NODE	NB	Current Time
+0 	 5 	 145.177126
+
+NODE	NB	Current Time
+0 	 5 	 145.576883
+
+NODE	NB	Current Time
+0 	 5 	 145.989760
+
+NODE	NB	Current Time
+0 	 5 	 146.207531
+
+NODE	NB	Current Time
+0 	 5 	 146.527396
+
+NODE	NB	Current Time
+0 	 5 	 146.768655
+
+NODE	NB	Current Time
+0 	 5 	 146.778994
+
+NODE	NB	Current Time
+0 	 5 	 147.995079
+
+NODE	NB	Current Time
+0 	 5 	 148.038966
+
+NODE	NB	Current Time
+0 	 5 	 148.454124
+
+NODE	NB	Current Time
+0 	 5 	 148.581589
+
+NODE	NB	Current Time
+0 	 5 	 149.051102
+
+NODE	NB	Current Time
+0 	 5 	 149.559715
+
+NODE	NB	Current Time
+0 	 5 	 149.723892
+
+NODE	NB	Current Time
+0 	 4 	 2.225792
+
+NODE	NB	Current Time
+0 	 4 	 3.437016
+
+NODE	NB	Current Time
+0 	 2 	 3.437016
+
+NODE	NB	Current Time
+0 	 2 	 3.735672
+
+NODE	NB	Current Time
+0 	 5 	 3.735672
+
+NODE	NB	Current Time
+0 	 2 	 3.927726
+
+NODE	NB	Current Time
+0 	 5 	 3.927726
+
+NODE	NB	Current Time
+0 	 4 	 4.180463
+
+NODE	NB	Current Time
+0 	 4 	 5.394843
+
+NODE	NB	Current Time
+0 	 4 	 5.547292
+
+NODE	NB	Current Time
+0 	 4 	 5.559134
+
+NODE	NB	Current Time
+0 	 4 	 5.983379
+
+NODE	NB	Current Time
+0 	 5 	 5.992077
+
+NODE	NB	Current Time
+0 	 5 	 6.905621
+
+NODE	NB	Current Time
+0 	 5 	 7.036214
+
+NODE	NB	Current Time
+0 	 5 	 7.146643
+
+NODE	NB	Current Time
+0 	 5 	 7.796312
+
+NODE	NB	Current Time
+0 	 5 	 7.877927
+
+NODE	NB	Current Time
+0 	 5 	 8.635474
+
+NODE	NB	Current Time
+0 	 5 	 8.887383
+
+NODE	NB	Current Time
+0 	 5 	 9.000172
+
+NODE	NB	Current Time
+0 	 5 	 9.396809
+
+NODE	NB	Current Time
+0 	 5 	 9.573859
+
+NODE	NB	Current Time
+0 	 5 	 10.187819
+
+NODE	NB	Current Time
+0 	 5 	 10.636174
+
+NODE	NB	Current Time
+0 	 5 	 10.701007
+
+NODE	NB	Current Time
+0 	 5 	 10.979991
+
+NODE	NB	Current Time
+0 	 5 	 11.137507
+
+NODE	NB	Current Time
+0 	 5 	 11.892151
+
+NODE	NB	Current Time
+0 	 5 	 12.686631
+
+NODE	NB	Current Time
+0 	 5 	 12.708327
+
+NODE	NB	Current Time
+0 	 5 	 12.997987
+
+NODE	NB	Current Time
+0 	 5 	 13.192457
+
+NODE	NB	Current Time
+0 	 5 	 13.477276
+
+NODE	NB	Current Time
+0 	 5 	 14.507890
+
+NODE	NB	Current Time
+0 	 5 	 14.549750
+
+NODE	NB	Current Time
+0 	 5 	 14.583698
+
+NODE	NB	Current Time
+0 	 5 	 14.605240
+
+NODE	NB	Current Time
+0 	 5 	 15.516346
+
+NODE	NB	Current Time
+0 	 5 	 16.160203
+
+NODE	NB	Current Time
+0 	 5 	 16.165516
+
+NODE	NB	Current Time
+0 	 5 	 16.344602
+
+NODE	NB	Current Time
+0 	 5 	 16.460515
+
+NODE	NB	Current Time
+0 	 5 	 17.112110
+
+NODE	NB	Current Time
+0 	 5 	 17.618034
+
+NODE	NB	Current Time
+0 	 5 	 17.913658
+
+NODE	NB	Current Time
+0 	 5 	 17.919113
+
+NODE	NB	Current Time
+0 	 5 	 18.061649
+
+NODE	NB	Current Time
+0 	 5 	 19.070244
+
+NODE	NB	Current Time
+0 	 5 	 19.397902
+
+NODE	NB	Current Time
+0 	 5 	 19.467548
+
+NODE	NB	Current Time
+0 	 5 	 19.952908
+
+NODE	NB	Current Time
+0 	 5 	 19.959143
+
+NODE	NB	Current Time
+0 	 5 	 20.980843
+
+NODE	NB	Current Time
+0 	 5 	 21.121116
+
+NODE	NB	Current Time
+0 	 5 	 21.328536
+
+NODE	NB	Current Time
+0 	 5 	 21.516306
+
+NODE	NB	Current Time
+0 	 5 	 21.615753
+
+NODE	NB	Current Time
+0 	 5 	 22.661058
+
+NODE	NB	Current Time
+0 	 5 	 22.741614
+
+NODE	NB	Current Time
+0 	 5 	 22.964064
+
+NODE	NB	Current Time
+0 	 5 	 23.428233
+
+NODE	NB	Current Time
+0 	 5 	 23.564666
+
+NODE	NB	Current Time
+0 	 5 	 24.259621
+
+NODE	NB	Current Time
+0 	 5 	 24.467830
+
+NODE	NB	Current Time
+0 	 5 	 24.780964
+
+NODE	NB	Current Time
+0 	 5 	 25.300842
+
+NODE	NB	Current Time
+0 	 5 	 25.388028
+
+NODE	NB	Current Time
+0 	 5 	 26.057864
+
+NODE	NB	Current Time
+0 	 5 	 26.229620
+
+NODE	NB	Current Time
+0 	 5 	 26.477721
+
+NODE	NB	Current Time
+0 	 5 	 26.749911
+
+NODE	NB	Current Time
+0 	 5 	 26.901093
+
+NODE	NB	Current Time
+0 	 5 	 27.753554
+
+NODE	NB	Current Time
+0 	 5 	 28.111914
+
+NODE	NB	Current Time
+0 	 5 	 28.181835
+
+NODE	NB	Current Time
+0 	 5 	 28.487455
+
+NODE	NB	Current Time
+0 	 5 	 28.607683
+
+NODE	NB	Current Time
+0 	 5 	 29.870054
+
+NODE	NB	Current Time
+0 	 5 	 29.934163
+
+NODE	NB	Current Time
+0 	 5 	 30.015154
+
+NODE	NB	Current Time
+0 	 5 	 30.030391
+
+NODE	NB	Current Time
+0 	 5 	 30.501149
+
+NODE	NB	Current Time
+0 	 5 	 31.794895
+
+NODE	NB	Current Time
+0 	 5 	 31.941429
+
+NODE	NB	Current Time
+0 	 5 	 31.976668
+
+NODE	NB	Current Time
+0 	 5 	 32.035897
+
+NODE	NB	Current Time
+0 	 5 	 32.393460
+
+NODE	NB	Current Time
+0 	 5 	 33.551129
+
+NODE	NB	Current Time
+0 	 5 	 33.568768
+
+NODE	NB	Current Time
+0 	 5 	 33.634330
+
+NODE	NB	Current Time
+0 	 5 	 33.801281
+
+NODE	NB	Current Time
+0 	 5 	 34.661109
+
+NODE	NB	Current Time
+0 	 5 	 35.239530
+
+NODE	NB	Current Time
+0 	 5 	 35.291259
+
+NODE	NB	Current Time
+0 	 5 	 35.472234
+
+NODE	NB	Current Time
+0 	 5 	 35.653612
+
+NODE	NB	Current Time
+0 	 5 	 36.145667
+
+NODE	NB	Current Time
+0 	 5 	 37.111608
+
+NODE	NB	Current Time
+0 	 5 	 37.273811
+
+NODE	NB	Current Time
+0 	 5 	 37.305716
+
+NODE	NB	Current Time
+0 	 5 	 37.381549
+
+NODE	NB	Current Time
+0 	 5 	 37.971613
+
+NODE	NB	Current Time
+0 	 5 	 38.447212
+
+NODE	NB	Current Time
+0 	 5 	 38.692701
+
+NODE	NB	Current Time
+0 	 5 	 38.981429
+
+NODE	NB	Current Time
+0 	 5 	 39.428383
+
+NODE	NB	Current Time
+0 	 5 	 39.491645
+
+NODE	NB	Current Time
+0 	 5 	 39.943817
+
+NODE	NB	Current Time
+0 	 5 	 40.749442
+
+NODE	NB	Current Time
+0 	 5 	 40.765926
+
+NODE	NB	Current Time
+0 	 5 	 40.860541
+
+NODE	NB	Current Time
+0 	 5 	 41.300749
+
+NODE	NB	Current Time
+0 	 5 	 41.611319
+
+NODE	NB	Current Time
+0 	 5 	 42.188789
+
+NODE	NB	Current Time
+0 	 5 	 42.661509
+
+NODE	NB	Current Time
+0 	 5 	 42.940626
+
+NODE	NB	Current Time
+0 	 5 	 43.318894
+
+NODE	NB	Current Time
+0 	 5 	 43.541829
+
+NODE	NB	Current Time
+0 	 5 	 44.011482
+
+NODE	NB	Current Time
+0 	 5 	 44.191126
+
+NODE	NB	Current Time
+0 	 5 	 44.581349
+
+NODE	NB	Current Time
+0 	 5 	 44.796687
+
+NODE	NB	Current Time
+0 	 5 	 44.870838
+
+NODE	NB	Current Time
+0 	 5 	 45.734472
+
+NODE	NB	Current Time
+0 	 5 	 46.142748
+
+NODE	NB	Current Time
+0 	 5 	 46.203541
+
+NODE	NB	Current Time
+0 	 5 	 46.811459
+
+NODE	NB	Current Time
+0 	 5 	 47.154970
+
+NODE	NB	Current Time
+0 	 5 	 47.271833
+
+NODE	NB	Current Time
+0 	 5 	 47.879350
+
+NODE	NB	Current Time
+0 	 5 	 47.978498
+
+NODE	NB	Current Time
+0 	 5 	 48.694044
+
+NODE	NB	Current Time
+0 	 5 	 48.981969
+
+NODE	NB	Current Time
+0 	 5 	 49.141209
+
+NODE	NB	Current Time
+0 	 5 	 49.742166
+
+NODE	NB	Current Time
+0 	 5 	 49.753431
+
+NODE	NB	Current Time
+0 	 5 	 50.460857
+
+NODE	NB	Current Time
+0 	 5 	 50.477197
+
+NODE	NB	Current Time
+0 	 5 	 51.230014
+
+NODE	NB	Current Time
+0 	 5 	 51.584858
+
+NODE	NB	Current Time
+0 	 5 	 51.665041
+
+NODE	NB	Current Time
+0 	 5 	 52.152155
+
+NODE	NB	Current Time
+0 	 5 	 52.261689
+
+NODE	NB	Current Time
+0 	 5 	 53.211622
+
+NODE	NB	Current Time
+0 	 5 	 53.228000
+
+NODE	NB	Current Time
+0 	 5 	 53.356838
+
+NODE	NB	Current Time
+0 	 5 	 53.785310
+
+NODE	NB	Current Time
+0 	 5 	 54.387726
+
+NODE	NB	Current Time
+0 	 5 	 54.821149
+
+NODE	NB	Current Time
+0 	 5 	 55.451222
+
+NODE	NB	Current Time
+0 	 5 	 55.473072
+
+NODE	NB	Current Time
+0 	 5 	 55.704121
+
+NODE	NB	Current Time
+0 	 5 	 55.828240
+
+NODE	NB	Current Time
+0 	 5 	 56.731102
+
+NODE	NB	Current Time
+0 	 5 	 56.855181
+
+NODE	NB	Current Time
+0 	 5 	 57.221269
+
+NODE	NB	Current Time
+0 	 5 	 57.562470
+
+NODE	NB	Current Time
+0 	 5 	 57.633520
+
+NODE	NB	Current Time
+0 	 5 	 58.451806
+
+NODE	NB	Current Time
+0 	 5 	 58.602301
+
+NODE	NB	Current Time
+0 	 5 	 58.971788
+
+NODE	NB	Current Time
+0 	 5 	 59.461769
+
+NODE	NB	Current Time
+0 	 5 	 59.622873
+
+NODE	NB	Current Time
+0 	 5 	 60.129247
+
+NODE	NB	Current Time
+0 	 5 	 60.260989
+
+NODE	NB	Current Time
+0 	 5 	 60.370359
+
+NODE	NB	Current Time
+0 	 5 	 61.159495
+
+NODE	NB	Current Time
+0 	 5 	 61.469746
+
+NODE	NB	Current Time
+0 	 5 	 62.137623
+
+NODE	NB	Current Time
+0 	 5 	 62.445316
+
+NODE	NB	Current Time
+0 	 5 	 63.157999
+
+NODE	NB	Current Time
+0 	 5 	 63.356883
+
+NODE	NB	Current Time
+0 	 5 	 63.679415
+
+NODE	NB	Current Time
+0 	 5 	 63.886418
+
+NODE	NB	Current Time
+0 	 5 	 63.911657
+
+NODE	NB	Current Time
+0 	 5 	 64.918908
+
+NODE	NB	Current Time
+0 	 5 	 65.178915
+
+NODE	NB	Current Time
+0 	 5 	 65.477711
+
+NODE	NB	Current Time
+0 	 5 	 65.646191
+
+NODE	NB	Current Time
+0 	 5 	 65.749792
+
+NODE	NB	Current Time
+0 	 5 	 66.667927
+
+NODE	NB	Current Time
+0 	 5 	 66.787314
+
+NODE	NB	Current Time
+0 	 5 	 67.338781
+
+NODE	NB	Current Time
+0 	 5 	 67.549042
+
+NODE	NB	Current Time
+0 	 5 	 67.910271
+
+NODE	NB	Current Time
+0 	 5 	 68.764975
+
+NODE	NB	Current Time
+0 	 5 	 68.811542
+
+NODE	NB	Current Time
+0 	 5 	 69.381269
+
+NODE	NB	Current Time
+0 	 5 	 69.880644
+
+NODE	NB	Current Time
+0 	 5 	 70.033301
+
+NODE	NB	Current Time
+0 	 5 	 70.532925
+
+NODE	NB	Current Time
+0 	 5 	 70.664984
+
+NODE	NB	Current Time
+0 	 5 	 71.041730
+
+NODE	NB	Current Time
+0 	 5 	 71.461289
+
+NODE	NB	Current Time
+0 	 5 	 71.941449
+
+NODE	NB	Current Time
+0 	 5 	 71.974836
+
+NODE	NB	Current Time
+0 	 5 	 72.101069
+
+NODE	NB	Current Time
+0 	 5 	 72.821729
+
+NODE	NB	Current Time
+0 	 5 	 73.235558
+
+NODE	NB	Current Time
+0 	 5 	 73.531342
+
+NODE	NB	Current Time
+0 	 5 	 74.101849
+
+NODE	NB	Current Time
+0 	 5 	 74.511016
+
+NODE	NB	Current Time
+0 	 5 	 74.614145
+
+NODE	NB	Current Time
+0 	 5 	 74.712554
+
+NODE	NB	Current Time
+0 	 5 	 75.781649
+
+NODE	NB	Current Time
+0 	 5 	 75.917886
+
+NODE	NB	Current Time
+0 	 5 	 76.091002
+
+NODE	NB	Current Time
+0 	 5 	 76.312397
+
+NODE	NB	Current Time
+0 	 5 	 76.389757
+
+NODE	NB	Current Time
+0 	 5 	 77.081142
+
+NODE	NB	Current Time
+0 	 5 	 77.596462
+
+NODE	NB	Current Time
+0 	 5 	 77.814763
+
+NODE	NB	Current Time
+0 	 5 	 78.331443
+
+NODE	NB	Current Time
+0 	 5 	 78.379384
+
+NODE	NB	Current Time
+0 	 5 	 78.776584
+
+NODE	NB	Current Time
+0 	 5 	 79.161830
+
+NODE	NB	Current Time
+0 	 5 	 79.430192
+
+NODE	NB	Current Time
+0 	 5 	 79.781249
+
+NODE	NB	Current Time
+0 	 5 	 80.068708
+
+NODE	NB	Current Time
+0 	 5 	 80.743901
+
+NODE	NB	Current Time
+0 	 5 	 81.103824
+
+NODE	NB	Current Time
+0 	 5 	 81.468766
+
+NODE	NB	Current Time
+0 	 5 	 81.757550
+
+NODE	NB	Current Time
+0 	 5 	 81.985962
+
+NODE	NB	Current Time
+0 	 5 	 82.020889
+
+NODE	NB	Current Time
+0 	 5 	 83.000250
+
+NODE	NB	Current Time
+0 	 5 	 83.462591
+
+NODE	NB	Current Time
+0 	 5 	 83.611043
+
+NODE	NB	Current Time
+0 	 5 	 84.050005
+
+NODE	NB	Current Time
+0 	 5 	 84.268636
+
+NODE	NB	Current Time
+0 	 5 	 84.532533
+
+NODE	NB	Current Time
+0 	 5 	 85.074336
+
+NODE	NB	Current Time
+0 	 5 	 85.236789
+
+NODE	NB	Current Time
+0 	 5 	 85.470518
+
+NODE	NB	Current Time
+0 	 5 	 85.675228
+
+NODE	NB	Current Time
+0 	 5 	 85.812294
+
+NODE	NB	Current Time
+0 	 5 	 86.672312
+
+NODE	NB	Current Time
+0 	 5 	 87.508463
+
+NODE	NB	Current Time
+0 	 5 	 87.755766
+
+NODE	NB	Current Time
+0 	 5 	 87.771479
+
+NODE	NB	Current Time
+0 	 5 	 87.806570
+
+NODE	NB	Current Time
+0 	 5 	 88.047806
+
+NODE	NB	Current Time
+0 	 5 	 89.353110
+
+NODE	NB	Current Time
+0 	 5 	 89.359025
+
+NODE	NB	Current Time
+0 	 5 	 89.584570
+
+NODE	NB	Current Time
+0 	 5 	 89.727560
+
+NODE	NB	Current Time
+0 	 5 	 90.365837
+
+NODE	NB	Current Time
+0 	 5 	 90.912540
+
+NODE	NB	Current Time
+0 	 5 	 91.265540
+
+NODE	NB	Current Time
+0 	 5 	 91.487632
+
+NODE	NB	Current Time
+0 	 5 	 91.492537
+
+NODE	NB	Current Time
+0 	 5 	 91.646490
+
+NODE	NB	Current Time
+0 	 5 	 92.901749
+
+NODE	NB	Current Time
+0 	 5 	 92.971043
+
+NODE	NB	Current Time
+0 	 5 	 93.003173
+
+NODE	NB	Current Time
+0 	 5 	 93.541969
+
+NODE	NB	Current Time
+0 	 5 	 93.611162
+
+NODE	NB	Current Time
+0 	 5 	 94.598898
+
+NODE	NB	Current Time
+0 	 5 	 94.731343
+
+NODE	NB	Current Time
+0 	 5 	 95.095684
+
+NODE	NB	Current Time
+0 	 5 	 95.181880
+
+NODE	NB	Current Time
+0 	 5 	 95.940949
+
+NODE	NB	Current Time
+0 	 5 	 96.341649
+
+NODE	NB	Current Time
+0 	 5 	 96.352357
+
+NODE	NB	Current Time
+0 	 5 	 96.686567
+
+NODE	NB	Current Time
+0 	 5 	 96.953533
+
+NODE	NB	Current Time
+0 	 5 	 97.141229
+
+NODE	NB	Current Time
+0 	 5 	 97.571861
+
+NODE	NB	Current Time
+0 	 5 	 98.058834
+
+NODE	NB	Current Time
+0 	 5 	 98.347820
+
+NODE	NB	Current Time
+0 	 5 	 98.651199
+
+NODE	NB	Current Time
+0 	 5 	 99.348752
+
+NODE	NB	Current Time
+0 	 5 	 99.431245
+
+NODE	NB	Current Time
+0 	 5 	 100.025209
+
+NODE	NB	Current Time
+0 	 5 	 100.200858
+
+NODE	NB	Current Time
+0 	 5 	 100.399099
+
+NODE	NB	Current Time
+0 	 5 	 101.008896
+
+NODE	NB	Current Time
+0 	 5 	 101.465626
+
+NODE	NB	Current Time
+0 	 5 	 101.703162
+
+NODE	NB	Current Time
+0 	 5 	 101.714270
+
+NODE	NB	Current Time
+0 	 5 	 102.537941
+
+NODE	NB	Current Time
+0 	 5 	 102.741309
+
+NODE	NB	Current Time
+0 	 5 	 103.141009
+
+NODE	NB	Current Time
+0 	 5 	 103.267065
+
+NODE	NB	Current Time
+0 	 5 	 103.560014
+
+NODE	NB	Current Time
+0 	 5 	 104.300347
+
+NODE	NB	Current Time
+0 	 5 	 104.610314
+
+NODE	NB	Current Time
+0 	 5 	 105.087859
+
+NODE	NB	Current Time
+0 	 5 	 105.246180
+
+NODE	NB	Current Time
+0 	 5 	 105.461649
+
+NODE	NB	Current Time
+0 	 5 	 106.473354
+
+NODE	NB	Current Time
+0 	 5 	 106.521485
+
+NODE	NB	Current Time
+0 	 5 	 106.664703
+
+NODE	NB	Current Time
+0 	 5 	 106.799493
+
+NODE	NB	Current Time
+0 	 5 	 107.260463
+
+NODE	NB	Current Time
+0 	 5 	 107.941829
+
+NODE	NB	Current Time
+0 	 5 	 108.261309
+
+NODE	NB	Current Time
+0 	 5 	 108.364970
+
+NODE	NB	Current Time
+0 	 5 	 108.587071
+
+NODE	NB	Current Time
+0 	 5 	 108.651642
+
+NODE	NB	Current Time
+0 	 5 	 109.913231
+
+NODE	NB	Current Time
+0 	 5 	 109.979689
+
+NODE	NB	Current Time
+0 	 5 	 110.192576
+
+NODE	NB	Current Time
+0 	 5 	 110.237675
+
+NODE	NB	Current Time
+0 	 5 	 110.790874
+
+NODE	NB	Current Time
+0 	 5 	 111.531422
+
+NODE	NB	Current Time
+0 	 5 	 111.715152
+
+NODE	NB	Current Time
+0 	 5 	 112.171583
+
+NODE	NB	Current Time
+0 	 5 	 112.459317
+
+NODE	NB	Current Time
+0 	 5 	 112.633083
+
+NODE	NB	Current Time
+0 	 5 	 113.302189
+
+NODE	NB	Current Time
+0 	 5 	 113.352726
+
+NODE	NB	Current Time
+0 	 5 	 113.755428
+
+NODE	NB	Current Time
+0 	 5 	 113.820570
+
+NODE	NB	Current Time
+0 	 5 	 114.421269
+
+NODE	NB	Current Time
+0 	 5 	 114.545718
+
+NODE	NB	Current Time
+0 	 5 	 115.195630
+
+NODE	NB	Current Time
+0 	 5 	 115.415258
+
+NODE	NB	Current Time
+0 	 5 	 115.792931
+
+NODE	NB	Current Time
+0 	 5 	 115.891826
+
+NODE	NB	Current Time
+0 	 5 	 116.678812
+
+NODE	NB	Current Time
+0 	 5 	 117.222962
+
+NODE	NB	Current Time
+0 	 5 	 117.224289
+
+NODE	NB	Current Time
+0 	 5 	 117.624727
+
+NODE	NB	Current Time
+0 	 5 	 117.910937
+
+NODE	NB	Current Time
+0 	 5 	 118.265235
+
+NODE	NB	Current Time
+0 	 5 	 118.602063
+
+NODE	NB	Current Time
+0 	 5 	 118.855416
+
+NODE	NB	Current Time
+0 	 5 	 119.500222
+
+NODE	NB	Current Time
+0 	 5 	 119.629165
+
+NODE	NB	Current Time
+0 	 5 	 119.963177
+
+NODE	NB	Current Time
+0 	 5 	 120.454025
+
+NODE	NB	Current Time
+0 	 5 	 120.825163
+
+NODE	NB	Current Time
+0 	 5 	 121.108537
+
+NODE	NB	Current Time
+0 	 5 	 121.489324
+
+NODE	NB	Current Time
+0 	 5 	 121.973108
+
+NODE	NB	Current Time
+0 	 5 	 122.310299
+
+NODE	NB	Current Time
+0 	 5 	 122.473384
+
+NODE	NB	Current Time
+0 	 5 	 122.892745
+
+NODE	NB	Current Time
+0 	 5 	 122.997187
+
+NODE	NB	Current Time
+0 	 5 	 123.611379
+
+NODE	NB	Current Time
+0 	 5 	 124.069321
+
+NODE	NB	Current Time
+0 	 5 	 124.122579
+
+NODE	NB	Current Time
+0 	 5 	 124.717805
+
+NODE	NB	Current Time
+0 	 5 	 125.233206
+
+NODE	NB	Current Time
+0 	 5 	 125.584590
+
+NODE	NB	Current Time
+0 	 5 	 125.861009
+
+NODE	NB	Current Time
+0 	 5 	 125.973804
+
+NODE	NB	Current Time
+0 	 5 	 126.554684
+
+NODE	NB	Current Time
+0 	 5 	 126.901729
+
+NODE	NB	Current Time
+0 	 5 	 127.141309
+
+NODE	NB	Current Time
+0 	 5 	 127.450923
+
+NODE	NB	Current Time
+0 	 5 	 127.611662
+
+NODE	NB	Current Time
+0 	 5 	 128.268434
+
+NODE	NB	Current Time
+0 	 5 	 129.084838
+
+NODE	NB	Current Time
+0 	 5 	 129.101726
+
+NODE	NB	Current Time
+0 	 5 	 129.104609
+
+NODE	NB	Current Time
+0 	 5 	 129.141729
+
+NODE	NB	Current Time
+0 	 5 	 129.874989
+
+NODE	NB	Current Time
+0 	 5 	 130.365123
+
+NODE	NB	Current Time
+0 	 5 	 130.602366
+
+NODE	NB	Current Time
+0 	 5 	 130.925001
+
+NODE	NB	Current Time
+0 	 5 	 131.279069
+
+NODE	NB	Current Time
+0 	 5 	 132.101209
+
+NODE	NB	Current Time
+0 	 5 	 132.411219
+
+NODE	NB	Current Time
+0 	 5 	 132.594116
+
+NODE	NB	Current Time
+0 	 5 	 133.024502
+
+NODE	NB	Current Time
+0 	 5 	 133.148097
+
+NODE	NB	Current Time
+0 	 5 	 133.701769
+
+NODE	NB	Current Time
+0 	 5 	 134.021949
+
+NODE	NB	Current Time
+0 	 5 	 134.058342
+
+NODE	NB	Current Time
+0 	 5 	 134.453472
+
+NODE	NB	Current Time
+0 	 5 	 134.912893
+
+NODE	NB	Current Time
+0 	 5 	 135.193259
+
+NODE	NB	Current Time
+0 	 5 	 135.590311
+
+NODE	NB	Current Time
+0 	 5 	 135.742257
+
+NODE	NB	Current Time
+0 	 5 	 136.317834
+
+NODE	NB	Current Time
+0 	 5 	 136.360865
+
+NODE	NB	Current Time
+0 	 5 	 137.141429
+
+NODE	NB	Current Time
+0 	 5 	 137.492966
+
+NODE	NB	Current Time
+0 	 5 	 137.715571
+
+NODE	NB	Current Time
+0 	 5 	 137.919223
+
+NODE	NB	Current Time
+0 	 5 	 138.136524
+
+NODE	NB	Current Time
+0 	 5 	 138.821509
+
+NODE	NB	Current Time
+0 	 5 	 139.600508
+
+NODE	NB	Current Time
+0 	 5 	 139.611693
+
+NODE	NB	Current Time
+0 	 5 	 139.639657
+
+NODE	NB	Current Time
+0 	 5 	 139.967448
+
+NODE	NB	Current Time
+0 	 5 	 140.359811
+
+NODE	NB	Current Time
+0 	 5 	 141.085175
+
+NODE	NB	Current Time
+0 	 5 	 141.227123
+
+NODE	NB	Current Time
+0 	 5 	 141.387100
+
+NODE	NB	Current Time
+0 	 5 	 141.567056
+
+NODE	NB	Current Time
+0 	 5 	 142.272645
+
+NODE	NB	Current Time
+0 	 5 	 142.581749
+
+NODE	NB	Current Time
+0 	 5 	 143.328902
+
+NODE	NB	Current Time
+0 	 5 	 143.466635
+
+NODE	NB	Current Time
+0 	 5 	 143.508017
+
+NODE	NB	Current Time
+0 	 5 	 143.985301
+
+NODE	NB	Current Time
+0 	 5 	 144.193626
+
+NODE	NB	Current Time
+0 	 5 	 144.901289
+
+NODE	NB	Current Time
+0 	 5 	 145.177126
+
+NODE	NB	Current Time
+0 	 5 	 145.576883
+
+NODE	NB	Current Time
+0 	 5 	 145.989760
+
+NODE	NB	Current Time
+0 	 5 	 146.207531
+
+NODE	NB	Current Time
+0 	 5 	 146.527396
+
+NODE	NB	Current Time
+0 	 5 	 146.768655
+
+NODE	NB	Current Time
+0 	 5 	 146.778994
+
+NODE	NB	Current Time
+0 	 5 	 147.995079
+
+NODE	NB	Current Time
+0 	 5 	 148.038966
+
+NODE	NB	Current Time
+0 	 5 	 148.454124
+
+NODE	NB	Current Time
+0 	 5 	 148.581589
+
+NODE	NB	Current Time
+0 	 5 	 149.051102
+
+NODE	NB	Current Time
+0 	 5 	 149.559715
+
+NODE	NB	Current Time
+0 	 5 	 149.723892
+
+NODE	NB	Current Time
+0 	 4 	 2.225792
+
+NODE	NB	Current Time
+0 	 4 	 3.437016
+
+NODE	NB	Current Time
+0 	 2 	 3.437016
+
+NODE	NB	Current Time
+0 	 2 	 3.735672
+
+NODE	NB	Current Time
+0 	 5 	 3.735672
+
+NODE	NB	Current Time
+0 	 2 	 3.927726
+
+NODE	NB	Current Time
+0 	 5 	 3.927726
+
+NODE	NB	Current Time
+0 	 4 	 4.180463
+
+NODE	NB	Current Time
+0 	 4 	 5.394843
+
+NODE	NB	Current Time
+0 	 4 	 5.547292
+
+NODE	NB	Current Time
+0 	 4 	 5.559134
+
+NODE	NB	Current Time
+0 	 4 	 5.983379
+
+NODE	NB	Current Time
+0 	 5 	 5.992077
+
+NODE	NB	Current Time
+0 	 5 	 6.905621
+
+NODE	NB	Current Time
+0 	 5 	 7.036214
+
+NODE	NB	Current Time
+0 	 5 	 7.146643
+
+NODE	NB	Current Time
+0 	 5 	 7.796312
+
+NODE	NB	Current Time
+0 	 5 	 7.877927
+
+NODE	NB	Current Time
+0 	 5 	 8.635474
+
+NODE	NB	Current Time
+0 	 5 	 8.887383
+
+NODE	NB	Current Time
+0 	 5 	 9.000172
+
+NODE	NB	Current Time
+0 	 5 	 9.396809
+
+NODE	NB	Current Time
+0 	 5 	 9.573859
+
+NODE	NB	Current Time
+0 	 5 	 10.187819
+
+NODE	NB	Current Time
+0 	 5 	 10.636174
+
+NODE	NB	Current Time
+0 	 5 	 10.701007
+
+NODE	NB	Current Time
+0 	 5 	 10.979991
+
+NODE	NB	Current Time
+0 	 5 	 11.137507
+
+NODE	NB	Current Time
+0 	 5 	 11.892151
+
+NODE	NB	Current Time
+0 	 5 	 12.686631
+
+NODE	NB	Current Time
+0 	 5 	 12.708327
+
+NODE	NB	Current Time
+0 	 5 	 12.997987
+
+NODE	NB	Current Time
+0 	 5 	 13.192457
+
+NODE	NB	Current Time
+0 	 5 	 13.477276
+
+NODE	NB	Current Time
+0 	 5 	 14.507890
+
+NODE	NB	Current Time
+0 	 5 	 14.549750
+
+NODE	NB	Current Time
+0 	 5 	 14.583698
+
+NODE	NB	Current Time
+0 	 5 	 14.605240
+
+NODE	NB	Current Time
+0 	 5 	 15.516346
+
+NODE	NB	Current Time
+0 	 5 	 16.160203
+
+NODE	NB	Current Time
+0 	 5 	 16.165516
+
+NODE	NB	Current Time
+0 	 5 	 16.344602
+
+NODE	NB	Current Time
+0 	 5 	 16.460515
+
+NODE	NB	Current Time
+0 	 5 	 17.112110
+
+NODE	NB	Current Time
+0 	 5 	 17.618034
+
+NODE	NB	Current Time
+0 	 5 	 17.913658
+
+NODE	NB	Current Time
+0 	 5 	 17.919113
+
+NODE	NB	Current Time
+0 	 5 	 18.061649
+
+NODE	NB	Current Time
+0 	 5 	 19.070244
+
+NODE	NB	Current Time
+0 	 5 	 19.397902
+
+NODE	NB	Current Time
+0 	 5 	 19.467548
+
+NODE	NB	Current Time
+0 	 5 	 19.952908
+
+NODE	NB	Current Time
+0 	 5 	 19.959143
+
+NODE	NB	Current Time
+0 	 5 	 20.980843
+
+NODE	NB	Current Time
+0 	 5 	 21.121116
+
+NODE	NB	Current Time
+0 	 5 	 21.328536
+
+NODE	NB	Current Time
+0 	 5 	 21.516306
+
+NODE	NB	Current Time
+0 	 5 	 21.615753
+
+NODE	NB	Current Time
+0 	 5 	 22.661058
+
+NODE	NB	Current Time
+0 	 5 	 22.741614
+
+NODE	NB	Current Time
+0 	 5 	 22.964064
+
+NODE	NB	Current Time
+0 	 5 	 23.428233
+
+NODE	NB	Current Time
+0 	 5 	 23.564666
+
+NODE	NB	Current Time
+0 	 5 	 24.259621
+
+NODE	NB	Current Time
+0 	 5 	 24.467830
+
+NODE	NB	Current Time
+0 	 5 	 24.780964
+
+NODE	NB	Current Time
+0 	 5 	 25.300842
+
+NODE	NB	Current Time
+0 	 5 	 25.388028
+
+NODE	NB	Current Time
+0 	 5 	 26.057864
+
+NODE	NB	Current Time
+0 	 5 	 26.229620
+
+NODE	NB	Current Time
+0 	 5 	 26.477721
+
+NODE	NB	Current Time
+0 	 5 	 26.749911
+
+NODE	NB	Current Time
+0 	 5 	 26.901093
+
+NODE	NB	Current Time
+0 	 5 	 27.753554
+
+NODE	NB	Current Time
+0 	 5 	 28.111914
+
+NODE	NB	Current Time
+0 	 5 	 28.181835
+
+NODE	NB	Current Time
+0 	 5 	 28.487455
+
+NODE	NB	Current Time
+0 	 5 	 28.607683
+
+NODE	NB	Current Time
+0 	 5 	 29.870054
+
+NODE	NB	Current Time
+0 	 5 	 29.934163
+
+NODE	NB	Current Time
+0 	 5 	 30.015154
+
+NODE	NB	Current Time
+0 	 5 	 30.030391
+
+NODE	NB	Current Time
+0 	 5 	 30.501149
+
+NODE	NB	Current Time
+0 	 5 	 31.794895
+
+NODE	NB	Current Time
+0 	 5 	 31.941429
+
+NODE	NB	Current Time
+0 	 5 	 31.976668
+
+NODE	NB	Current Time
+0 	 5 	 32.035897
+
+NODE	NB	Current Time
+0 	 5 	 32.393460
+
+NODE	NB	Current Time
+0 	 5 	 33.551129
+
+NODE	NB	Current Time
+0 	 5 	 33.568768
+
+NODE	NB	Current Time
+0 	 5 	 33.634330
+
+NODE	NB	Current Time
+0 	 5 	 33.801281
+
+NODE	NB	Current Time
+0 	 5 	 34.661109
+
+NODE	NB	Current Time
+0 	 5 	 35.239530
+
+NODE	NB	Current Time
+0 	 5 	 35.291259
+
+NODE	NB	Current Time
+0 	 5 	 35.472234
+
+NODE	NB	Current Time
+0 	 5 	 35.653612
+
+NODE	NB	Current Time
+0 	 5 	 36.145667
+
+NODE	NB	Current Time
+0 	 5 	 37.111608
+
+NODE	NB	Current Time
+0 	 5 	 37.273811
+
+NODE	NB	Current Time
+0 	 5 	 37.305716
+
+NODE	NB	Current Time
+0 	 5 	 37.381549
+
+NODE	NB	Current Time
+0 	 5 	 37.971613
+
+NODE	NB	Current Time
+0 	 5 	 38.447212
+
+NODE	NB	Current Time
+0 	 5 	 38.692701
+
+NODE	NB	Current Time
+0 	 5 	 38.981429
+
+NODE	NB	Current Time
+0 	 5 	 39.428383
+
+NODE	NB	Current Time
+0 	 5 	 39.491645
+
+NODE	NB	Current Time
+0 	 5 	 39.943817
+
+NODE	NB	Current Time
+0 	 5 	 40.749442
+
+NODE	NB	Current Time
+0 	 5 	 40.765926
+
+NODE	NB	Current Time
+0 	 5 	 40.860541
+
+NODE	NB	Current Time
+0 	 5 	 41.300749
+
+NODE	NB	Current Time
+0 	 5 	 41.611319
+
+NODE	NB	Current Time
+0 	 5 	 42.188789
+
+NODE	NB	Current Time
+0 	 5 	 42.661509
+
+NODE	NB	Current Time
+0 	 5 	 42.940626
+
+NODE	NB	Current Time
+0 	 5 	 43.318894
+
+NODE	NB	Current Time
+0 	 5 	 43.541829
+
+NODE	NB	Current Time
+0 	 5 	 44.011482
+
+NODE	NB	Current Time
+0 	 5 	 44.191126
+
+NODE	NB	Current Time
+0 	 5 	 44.581349
+
+NODE	NB	Current Time
+0 	 5 	 44.796687
+
+NODE	NB	Current Time
+0 	 5 	 44.870838
+
+NODE	NB	Current Time
+0 	 5 	 45.734472
+
+NODE	NB	Current Time
+0 	 5 	 46.142748
+
+NODE	NB	Current Time
+0 	 5 	 46.203541
+
+NODE	NB	Current Time
+0 	 5 	 46.811459
+
+NODE	NB	Current Time
+0 	 5 	 47.154970
+
+NODE	NB	Current Time
+0 	 5 	 47.271833
+
+NODE	NB	Current Time
+0 	 5 	 47.879350
+
+NODE	NB	Current Time
+0 	 5 	 47.978498
+
+NODE	NB	Current Time
+0 	 5 	 48.694044
+
+NODE	NB	Current Time
+0 	 5 	 48.981969
+
+NODE	NB	Current Time
+0 	 5 	 49.141209
+
+NODE	NB	Current Time
+0 	 5 	 49.742166
+
+NODE	NB	Current Time
+0 	 5 	 49.753431
+
+NODE	NB	Current Time
+0 	 5 	 50.460857
+
+NODE	NB	Current Time
+0 	 5 	 50.477197
+
+NODE	NB	Current Time
+0 	 5 	 51.230014
+
+NODE	NB	Current Time
+0 	 5 	 51.584858
+
+NODE	NB	Current Time
+0 	 5 	 51.665041
+
+NODE	NB	Current Time
+0 	 5 	 52.152155
+
+NODE	NB	Current Time
+0 	 5 	 52.261689
+
+NODE	NB	Current Time
+0 	 5 	 53.211622
+
+NODE	NB	Current Time
+0 	 5 	 53.228000
+
+NODE	NB	Current Time
+0 	 5 	 53.356838
+
+NODE	NB	Current Time
+0 	 5 	 53.785310
+
+NODE	NB	Current Time
+0 	 5 	 54.387726
+
+NODE	NB	Current Time
+0 	 5 	 54.821149
+
+NODE	NB	Current Time
+0 	 5 	 55.451222
+
+NODE	NB	Current Time
+0 	 5 	 55.473072
+
+NODE	NB	Current Time
+0 	 5 	 55.704121
+
+NODE	NB	Current Time
+0 	 5 	 55.828240
+
+NODE	NB	Current Time
+0 	 5 	 56.731102
+
+NODE	NB	Current Time
+0 	 5 	 56.855181
+
+NODE	NB	Current Time
+0 	 5 	 57.221269
+
+NODE	NB	Current Time
+0 	 5 	 57.562470
+
+NODE	NB	Current Time
+0 	 5 	 57.633520
+
+NODE	NB	Current Time
+0 	 5 	 58.451806
+
+NODE	NB	Current Time
+0 	 5 	 58.602301
+
+NODE	NB	Current Time
+0 	 5 	 58.971788
+
+NODE	NB	Current Time
+0 	 5 	 59.461769
+
+NODE	NB	Current Time
+0 	 5 	 59.622873
+
+NODE	NB	Current Time
+0 	 5 	 60.129247
+
+NODE	NB	Current Time
+0 	 5 	 60.260989
+
+NODE	NB	Current Time
+0 	 5 	 60.370359
+
+NODE	NB	Current Time
+0 	 5 	 61.159495
+
+NODE	NB	Current Time
+0 	 5 	 61.469746
+
+NODE	NB	Current Time
+0 	 5 	 62.137623
+
+NODE	NB	Current Time
+0 	 5 	 62.445316
+
+NODE	NB	Current Time
+0 	 5 	 63.157999
+
+NODE	NB	Current Time
+0 	 5 	 63.356883
+
+NODE	NB	Current Time
+0 	 5 	 63.679415
+
+NODE	NB	Current Time
+0 	 5 	 63.886418
+
+NODE	NB	Current Time
+0 	 5 	 63.911657
+
+NODE	NB	Current Time
+0 	 5 	 64.918908
+
+NODE	NB	Current Time
+0 	 5 	 65.178915
+
+NODE	NB	Current Time
+0 	 5 	 65.477711
+
+NODE	NB	Current Time
+0 	 5 	 65.646191
+
+NODE	NB	Current Time
+0 	 5 	 65.749792
+
+NODE	NB	Current Time
+0 	 5 	 66.667927
+
+NODE	NB	Current Time
+0 	 5 	 66.787314
+
+NODE	NB	Current Time
+0 	 5 	 67.338781
+
+NODE	NB	Current Time
+0 	 5 	 67.549042
+
+NODE	NB	Current Time
+0 	 5 	 67.910271
+
+NODE	NB	Current Time
+0 	 5 	 68.764975
+
+NODE	NB	Current Time
+0 	 5 	 68.811542
+
+NODE	NB	Current Time
+0 	 5 	 69.381269
+
+NODE	NB	Current Time
+0 	 5 	 69.880644
+
+NODE	NB	Current Time
+0 	 5 	 70.033301
+
+NODE	NB	Current Time
+0 	 5 	 70.532925
+
+NODE	NB	Current Time
+0 	 5 	 70.664984
+
+NODE	NB	Current Time
+0 	 5 	 71.041730
+
+NODE	NB	Current Time
+0 	 5 	 71.461289
+
+NODE	NB	Current Time
+0 	 5 	 71.941449
+
+NODE	NB	Current Time
+0 	 5 	 71.974836
+
+NODE	NB	Current Time
+0 	 5 	 72.101069
+
+NODE	NB	Current Time
+0 	 5 	 72.821729
+
+NODE	NB	Current Time
+0 	 5 	 73.235558
+
+NODE	NB	Current Time
+0 	 5 	 73.531342
+
+NODE	NB	Current Time
+0 	 5 	 74.101849
+
+NODE	NB	Current Time
+0 	 5 	 74.511016
+
+NODE	NB	Current Time
+0 	 5 	 74.614145
+
+NODE	NB	Current Time
+0 	 5 	 74.712554
+
+NODE	NB	Current Time
+0 	 5 	 75.781649
+
+NODE	NB	Current Time
+0 	 5 	 75.917886
+
+NODE	NB	Current Time
+0 	 5 	 76.091002
+
+NODE	NB	Current Time
+0 	 5 	 76.312397
+
+NODE	NB	Current Time
+0 	 5 	 76.389757
+
+NODE	NB	Current Time
+0 	 5 	 77.081142
+
+NODE	NB	Current Time
+0 	 5 	 77.596462
+
+NODE	NB	Current Time
+0 	 5 	 77.814763
+
+NODE	NB	Current Time
+0 	 5 	 78.331443
+
+NODE	NB	Current Time
+0 	 5 	 78.379384
+
+NODE	NB	Current Time
+0 	 5 	 78.776584
+
+NODE	NB	Current Time
+0 	 5 	 79.161830
+
+NODE	NB	Current Time
+0 	 5 	 79.430192
+
+NODE	NB	Current Time
+0 	 5 	 79.781249
+
+NODE	NB	Current Time
+0 	 5 	 80.068708
+
+NODE	NB	Current Time
+0 	 5 	 80.743901
+
+NODE	NB	Current Time
+0 	 5 	 81.103824
+
+NODE	NB	Current Time
+0 	 5 	 81.468766
+
+NODE	NB	Current Time
+0 	 5 	 81.757550
+
+NODE	NB	Current Time
+0 	 5 	 81.985962
+
+NODE	NB	Current Time
+0 	 5 	 82.020889
+
+NODE	NB	Current Time
+0 	 5 	 83.000250
+
+NODE	NB	Current Time
+0 	 5 	 83.462591
+
+NODE	NB	Current Time
+0 	 5 	 83.611043
+
+NODE	NB	Current Time
+0 	 5 	 84.050005
+
+NODE	NB	Current Time
+0 	 5 	 84.268636
+
+NODE	NB	Current Time
+0 	 5 	 84.532533
+
+NODE	NB	Current Time
+0 	 5 	 85.074336
+
+NODE	NB	Current Time
+0 	 5 	 85.236789
+
+NODE	NB	Current Time
+0 	 5 	 85.470518
+
+NODE	NB	Current Time
+0 	 5 	 85.675228
+
+NODE	NB	Current Time
+0 	 5 	 85.812294
+
+NODE	NB	Current Time
+0 	 5 	 86.672312
+
+NODE	NB	Current Time
+0 	 5 	 87.508463
+
+NODE	NB	Current Time
+0 	 5 	 87.755766
+
+NODE	NB	Current Time
+0 	 5 	 87.771479
+
+NODE	NB	Current Time
+0 	 5 	 87.806570
+
+NODE	NB	Current Time
+0 	 5 	 88.047806
+
+NODE	NB	Current Time
+0 	 5 	 89.353110
+
+NODE	NB	Current Time
+0 	 5 	 89.359025
+
+NODE	NB	Current Time
+0 	 5 	 89.584570
+
+NODE	NB	Current Time
+0 	 5 	 89.727560
+
+NODE	NB	Current Time
+0 	 5 	 90.365837
+
+NODE	NB	Current Time
+0 	 5 	 90.912540
+
+NODE	NB	Current Time
+0 	 5 	 91.265540
+
+NODE	NB	Current Time
+0 	 5 	 91.487632
+
+NODE	NB	Current Time
+0 	 5 	 91.492537
+
+NODE	NB	Current Time
+0 	 5 	 91.646490
+
+NODE	NB	Current Time
+0 	 5 	 92.901749
+
+NODE	NB	Current Time
+0 	 5 	 92.971043
+
+NODE	NB	Current Time
+0 	 5 	 93.003173
+
+NODE	NB	Current Time
+0 	 5 	 93.541969
+
+NODE	NB	Current Time
+0 	 5 	 93.611162
+
+NODE	NB	Current Time
+0 	 5 	 94.598898
+
+NODE	NB	Current Time
+0 	 5 	 94.731343
+
+NODE	NB	Current Time
+0 	 5 	 95.095684
+
+NODE	NB	Current Time
+0 	 5 	 95.181880
+
+NODE	NB	Current Time
+0 	 5 	 95.940949
+
+NODE	NB	Current Time
+0 	 5 	 96.341649
+
+NODE	NB	Current Time
+0 	 5 	 96.352357
+
+NODE	NB	Current Time
+0 	 5 	 96.686567
+
+NODE	NB	Current Time
+0 	 5 	 96.953533
+
+NODE	NB	Current Time
+0 	 5 	 97.141229
+
+NODE	NB	Current Time
+0 	 5 	 97.571861
+
+NODE	NB	Current Time
+0 	 5 	 98.058834
+
+NODE	NB	Current Time
+0 	 5 	 98.347820
+
+NODE	NB	Current Time
+0 	 5 	 98.651199
+
+NODE	NB	Current Time
+0 	 5 	 99.348752
+
+NODE	NB	Current Time
+0 	 5 	 99.431245
+
+NODE	NB	Current Time
+0 	 5 	 100.025209
+
+NODE	NB	Current Time
+0 	 5 	 100.200858
+
+NODE	NB	Current Time
+0 	 5 	 100.399099
+
+NODE	NB	Current Time
+0 	 5 	 101.008896
+
+NODE	NB	Current Time
+0 	 5 	 101.465626
+
+NODE	NB	Current Time
+0 	 5 	 101.703162
+
+NODE	NB	Current Time
+0 	 5 	 101.714270
+
+NODE	NB	Current Time
+0 	 5 	 102.537941
+
+NODE	NB	Current Time
+0 	 5 	 102.741309
+
+NODE	NB	Current Time
+0 	 5 	 103.141009
+
+NODE	NB	Current Time
+0 	 5 	 103.267065
+
+NODE	NB	Current Time
+0 	 5 	 103.560014
+
+NODE	NB	Current Time
+0 	 5 	 104.300347
+
+NODE	NB	Current Time
+0 	 5 	 104.610314
+
+NODE	NB	Current Time
+0 	 5 	 105.087859
+
+NODE	NB	Current Time
+0 	 5 	 105.246180
+
+NODE	NB	Current Time
+0 	 5 	 105.461649
+
+NODE	NB	Current Time
+0 	 5 	 106.473354
+
+NODE	NB	Current Time
+0 	 5 	 106.521485
+
+NODE	NB	Current Time
+0 	 5 	 106.664703
+
+NODE	NB	Current Time
+0 	 5 	 106.799493
+
+NODE	NB	Current Time
+0 	 5 	 107.260463
+
+NODE	NB	Current Time
+0 	 5 	 107.941829
+
+NODE	NB	Current Time
+0 	 5 	 108.261309
+
+NODE	NB	Current Time
+0 	 5 	 108.364970
+
+NODE	NB	Current Time
+0 	 5 	 108.587071
+
+NODE	NB	Current Time
+0 	 5 	 108.651642
+
+NODE	NB	Current Time
+0 	 5 	 109.913231
+
+NODE	NB	Current Time
+0 	 5 	 109.979689
+
+NODE	NB	Current Time
+0 	 5 	 110.192576
+
+NODE	NB	Current Time
+0 	 5 	 110.237675
+
+NODE	NB	Current Time
+0 	 5 	 110.790874
+
+NODE	NB	Current Time
+0 	 5 	 111.531422
+
+NODE	NB	Current Time
+0 	 5 	 111.715152
+
+NODE	NB	Current Time
+0 	 5 	 112.171583
+
+NODE	NB	Current Time
+0 	 5 	 112.459317
+
+NODE	NB	Current Time
+0 	 5 	 112.633083
+
+NODE	NB	Current Time
+0 	 5 	 113.302189
+
+NODE	NB	Current Time
+0 	 5 	 113.352726
+
+NODE	NB	Current Time
+0 	 5 	 113.755428
+
+NODE	NB	Current Time
+0 	 5 	 113.820570
+
+NODE	NB	Current Time
+0 	 5 	 114.421269
+
+NODE	NB	Current Time
+0 	 5 	 114.545718
+
+NODE	NB	Current Time
+0 	 5 	 115.195630
+
+NODE	NB	Current Time
+0 	 5 	 115.415258
+
+NODE	NB	Current Time
+0 	 5 	 115.792931
+
+NODE	NB	Current Time
+0 	 5 	 115.891826
+
+NODE	NB	Current Time
+0 	 5 	 116.678812
+
+NODE	NB	Current Time
+0 	 5 	 117.222962
+
+NODE	NB	Current Time
+0 	 5 	 117.224289
+
+NODE	NB	Current Time
+0 	 5 	 117.624727
+
+NODE	NB	Current Time
+0 	 5 	 117.910937
+
+NODE	NB	Current Time
+0 	 5 	 118.265235
+
+NODE	NB	Current Time
+0 	 5 	 118.602063
+
+NODE	NB	Current Time
+0 	 5 	 118.855416
+
+NODE	NB	Current Time
+0 	 5 	 119.500222
+
+NODE	NB	Current Time
+0 	 5 	 119.629165
+
+NODE	NB	Current Time
+0 	 5 	 119.963177
+
+NODE	NB	Current Time
+0 	 5 	 120.454025
+
+NODE	NB	Current Time
+0 	 5 	 120.825163
+
+NODE	NB	Current Time
+0 	 5 	 121.108537
+
+NODE	NB	Current Time
+0 	 5 	 121.489324
+
+NODE	NB	Current Time
+0 	 5 	 121.973108
+
+NODE	NB	Current Time
+0 	 5 	 122.310299
+
+NODE	NB	Current Time
+0 	 5 	 122.473384
+
+NODE	NB	Current Time
+0 	 5 	 122.892745
+
+NODE	NB	Current Time
+0 	 5 	 122.997187
+
+NODE	NB	Current Time
+0 	 5 	 123.611379
+
+NODE	NB	Current Time
+0 	 5 	 124.069321
+
+NODE	NB	Current Time
+0 	 5 	 124.122579
+
+NODE	NB	Current Time
+0 	 5 	 124.717805
+
+NODE	NB	Current Time
+0 	 5 	 125.233206
+
+NODE	NB	Current Time
+0 	 5 	 125.584590
+
+NODE	NB	Current Time
+0 	 5 	 125.861009
+
+NODE	NB	Current Time
+0 	 5 	 125.973804
+
+NODE	NB	Current Time
+0 	 5 	 126.554684
+
+NODE	NB	Current Time
+0 	 5 	 126.901729
+
+NODE	NB	Current Time
+0 	 5 	 127.141309
+
+NODE	NB	Current Time
+0 	 5 	 127.450923
+
+NODE	NB	Current Time
+0 	 5 	 127.611662
+
+NODE	NB	Current Time
+0 	 5 	 128.268434
+
+NODE	NB	Current Time
+0 	 5 	 129.084838
+
+NODE	NB	Current Time
+0 	 5 	 129.101726
+
+NODE	NB	Current Time
+0 	 5 	 129.104609
+
+NODE	NB	Current Time
+0 	 5 	 129.141729
+
+NODE	NB	Current Time
+0 	 5 	 129.874989
+
+NODE	NB	Current Time
+0 	 5 	 130.365123
+
+NODE	NB	Current Time
+0 	 5 	 130.602366
+
+NODE	NB	Current Time
+0 	 5 	 130.925001
+
+NODE	NB	Current Time
+0 	 5 	 131.279069
+
+NODE	NB	Current Time
+0 	 5 	 132.101209
+
+NODE	NB	Current Time
+0 	 5 	 132.411219
+
+NODE	NB	Current Time
+0 	 5 	 132.594116
+
+NODE	NB	Current Time
+0 	 5 	 133.024502
+
+NODE	NB	Current Time
+0 	 5 	 133.148097
+
+NODE	NB	Current Time
+0 	 5 	 133.701769
+
+NODE	NB	Current Time
+0 	 5 	 134.021949
+
+NODE	NB	Current Time
+0 	 5 	 134.058342
+
+NODE	NB	Current Time
+0 	 5 	 134.453472
+
+NODE	NB	Current Time
+0 	 5 	 134.912893
+
+NODE	NB	Current Time
+0 	 5 	 135.193259
+
+NODE	NB	Current Time
+0 	 5 	 135.590311
+
+NODE	NB	Current Time
+0 	 5 	 135.742257
+
+NODE	NB	Current Time
+0 	 5 	 136.317834
+
+NODE	NB	Current Time
+0 	 5 	 136.360865
+
+NODE	NB	Current Time
+0 	 5 	 137.141429
+
+NODE	NB	Current Time
+0 	 5 	 137.492966
+
+NODE	NB	Current Time
+0 	 5 	 137.715571
+
+NODE	NB	Current Time
+0 	 5 	 137.919223
+
+NODE	NB	Current Time
+0 	 5 	 138.136524
+
+NODE	NB	Current Time
+0 	 5 	 138.821509
+
+NODE	NB	Current Time
+0 	 5 	 139.600508
+
+NODE	NB	Current Time
+0 	 5 	 139.611693
+
+NODE	NB	Current Time
+0 	 5 	 139.639657
+
+NODE	NB	Current Time
+0 	 5 	 139.967448
+
+NODE	NB	Current Time
+0 	 5 	 140.359811
+
+NODE	NB	Current Time
+0 	 5 	 141.085175
+
+NODE	NB	Current Time
+0 	 5 	 141.227123
+
+NODE	NB	Current Time
+0 	 5 	 141.387100
+
+NODE	NB	Current Time
+0 	 5 	 141.567056
+
+NODE	NB	Current Time
+0 	 5 	 142.272645
+
+NODE	NB	Current Time
+0 	 5 	 142.581749
+
+NODE	NB	Current Time
+0 	 5 	 143.328902
+
+NODE	NB	Current Time
+0 	 5 	 143.466635
+
+NODE	NB	Current Time
+0 	 5 	 143.508017
+
+NODE	NB	Current Time
+0 	 5 	 143.985301
+
+NODE	NB	Current Time
+0 	 5 	 144.193626
+
+NODE	NB	Current Time
+0 	 5 	 144.901289
+
+NODE	NB	Current Time
+0 	 5 	 145.177126
+
+NODE	NB	Current Time
+0 	 5 	 145.576883
+
+NODE	NB	Current Time
+0 	 5 	 145.989760
+
+NODE	NB	Current Time
+0 	 5 	 146.207531
+
+NODE	NB	Current Time
+0 	 5 	 146.527396
+
+NODE	NB	Current Time
+0 	 5 	 146.768655
+
+NODE	NB	Current Time
+0 	 5 	 146.778994
+
+NODE	NB	Current Time
+0 	 5 	 147.995079
+
+NODE	NB	Current Time
+0 	 5 	 148.038966
+
+NODE	NB	Current Time
+0 	 5 	 148.454124
+
+NODE	NB	Current Time
+0 	 5 	 148.581589
+
+NODE	NB	Current Time
+0 	 5 	 149.051102
+
+NODE	NB	Current Time
+0 	 5 	 149.559715
+
+NODE	NB	Current Time
+0 	 5 	 149.723892
+
+NODE	NB	Current Time
+0 	 4 	 2.225792
+
+NODE	NB	Current Time
+0 	 4 	 3.437016
+
+NODE	NB	Current Time
+0 	 2 	 3.437016
+
+NODE	NB	Current Time
+0 	 2 	 3.735672
+
+NODE	NB	Current Time
+0 	 5 	 3.735672
+
+NODE	NB	Current Time
+0 	 2 	 3.927726
+
+NODE	NB	Current Time
+0 	 5 	 3.927726
+
+NODE	NB	Current Time
+0 	 4 	 4.180463
+
+NODE	NB	Current Time
+0 	 4 	 5.394843
+
+NODE	NB	Current Time
+0 	 4 	 5.547292
+
+NODE	NB	Current Time
+0 	 4 	 5.559134
+
+NODE	NB	Current Time
+0 	 4 	 5.983379
+
+NODE	NB	Current Time
+0 	 5 	 5.992077
+
+NODE	NB	Current Time
+0 	 5 	 6.905621
+
+NODE	NB	Current Time
+0 	 5 	 7.036214
+
+NODE	NB	Current Time
+0 	 5 	 7.146643
+
+NODE	NB	Current Time
+0 	 5 	 7.796312
+
+NODE	NB	Current Time
+0 	 5 	 7.877927
+
+NODE	NB	Current Time
+0 	 5 	 8.635474
+
+NODE	NB	Current Time
+0 	 5 	 8.887383
+
+NODE	NB	Current Time
+0 	 5 	 9.000172
+
+NODE	NB	Current Time
+0 	 5 	 9.396809
+
+NODE	NB	Current Time
+0 	 5 	 9.573859
+
+NODE	NB	Current Time
+0 	 5 	 10.187819
+
+NODE	NB	Current Time
+0 	 5 	 10.636174
+
+NODE	NB	Current Time
+0 	 5 	 10.701007
+
+NODE	NB	Current Time
+0 	 5 	 10.979991
+
+NODE	NB	Current Time
+0 	 5 	 11.137507
+
+NODE	NB	Current Time
+0 	 5 	 11.892151
+
+NODE	NB	Current Time
+0 	 5 	 12.686631
+
+NODE	NB	Current Time
+0 	 5 	 12.708327
+
+NODE	NB	Current Time
+0 	 5 	 12.997987
+
+NODE	NB	Current Time
+0 	 5 	 13.192457
+
+NODE	NB	Current Time
+0 	 5 	 13.477276
+
+NODE	NB	Current Time
+0 	 5 	 14.507890
+
+NODE	NB	Current Time
+0 	 5 	 14.549750
+
+NODE	NB	Current Time
+0 	 5 	 14.583698
+
+NODE	NB	Current Time
+0 	 5 	 14.605240
+
+NODE	NB	Current Time
+0 	 5 	 15.516346
+
+NODE	NB	Current Time
+0 	 5 	 16.160203
+
+NODE	NB	Current Time
+0 	 5 	 16.165516
+
+NODE	NB	Current Time
+0 	 5 	 16.344602
+
+NODE	NB	Current Time
+0 	 5 	 16.460515
+
+NODE	NB	Current Time
+0 	 5 	 17.112110
+
+NODE	NB	Current Time
+0 	 5 	 17.618034
+
+NODE	NB	Current Time
+0 	 5 	 17.913658
+
+NODE	NB	Current Time
+0 	 5 	 17.919113
+
+NODE	NB	Current Time
+0 	 5 	 18.061649
+
+NODE	NB	Current Time
+0 	 5 	 19.070244
+
+NODE	NB	Current Time
+0 	 5 	 19.397902
+
+NODE	NB	Current Time
+0 	 5 	 19.467548
+
+NODE	NB	Current Time
+0 	 5 	 19.952908
+
+NODE	NB	Current Time
+0 	 5 	 19.959143
+
+NODE	NB	Current Time
+0 	 5 	 20.980843
+
+NODE	NB	Current Time
+0 	 5 	 21.121116
+
+NODE	NB	Current Time
+0 	 5 	 21.328536
+
+NODE	NB	Current Time
+0 	 5 	 21.516306
+
+NODE	NB	Current Time
+0 	 5 	 21.615753
+
+NODE	NB	Current Time
+0 	 5 	 22.661058
+
+NODE	NB	Current Time
+0 	 5 	 22.741614
+
+NODE	NB	Current Time
+0 	 5 	 22.964064
+
+NODE	NB	Current Time
+0 	 5 	 23.428233
+
+NODE	NB	Current Time
+0 	 5 	 23.564666
+
+NODE	NB	Current Time
+0 	 5 	 24.259621
+
+NODE	NB	Current Time
+0 	 5 	 24.467830
+
+NODE	NB	Current Time
+0 	 5 	 24.780964
+
+NODE	NB	Current Time
+0 	 5 	 25.300842
+
+NODE	NB	Current Time
+0 	 5 	 25.388028
+
+NODE	NB	Current Time
+0 	 5 	 26.057864
+
+NODE	NB	Current Time
+0 	 5 	 26.229620
+
+NODE	NB	Current Time
+0 	 5 	 26.477721
+
+NODE	NB	Current Time
+0 	 5 	 26.749911
+
+NODE	NB	Current Time
+0 	 5 	 26.901093
+
+NODE	NB	Current Time
+0 	 5 	 27.753554
+
+NODE	NB	Current Time
+0 	 5 	 28.111914
+
+NODE	NB	Current Time
+0 	 5 	 28.181835
+
+NODE	NB	Current Time
+0 	 5 	 28.487455
+
+NODE	NB	Current Time
+0 	 5 	 28.607683
+
+NODE	NB	Current Time
+0 	 5 	 29.870054
+
+NODE	NB	Current Time
+0 	 5 	 29.934163
+
+NODE	NB	Current Time
+0 	 5 	 30.015154
+
+NODE	NB	Current Time
+0 	 5 	 30.030391
+
+NODE	NB	Current Time
+0 	 5 	 30.501149
+
+NODE	NB	Current Time
+0 	 5 	 31.794895
+
+NODE	NB	Current Time
+0 	 5 	 31.941429
+
+NODE	NB	Current Time
+0 	 5 	 31.976668
+
+NODE	NB	Current Time
+0 	 5 	 32.035897
+
+NODE	NB	Current Time
+0 	 5 	 32.393460
+
+NODE	NB	Current Time
+0 	 5 	 33.551129
+
+NODE	NB	Current Time
+0 	 5 	 33.568768
+
+NODE	NB	Current Time
+0 	 5 	 33.634330
+
+NODE	NB	Current Time
+0 	 5 	 33.801281
+
+NODE	NB	Current Time
+0 	 5 	 34.661109
+
+NODE	NB	Current Time
+0 	 5 	 35.239530
+
+NODE	NB	Current Time
+0 	 5 	 35.291259
+
+NODE	NB	Current Time
+0 	 5 	 35.472234
+
+NODE	NB	Current Time
+0 	 5 	 35.653612
+
+NODE	NB	Current Time
+0 	 5 	 36.145667
+
+NODE	NB	Current Time
+0 	 5 	 37.111608
+
+NODE	NB	Current Time
+0 	 5 	 37.273811
+
+NODE	NB	Current Time
+0 	 5 	 37.305716
+
+NODE	NB	Current Time
+0 	 5 	 37.381549
+
+NODE	NB	Current Time
+0 	 5 	 37.971613
+
+NODE	NB	Current Time
+0 	 5 	 38.447212
+
+NODE	NB	Current Time
+0 	 5 	 38.692701
+
+NODE	NB	Current Time
+0 	 5 	 38.981429
+
+NODE	NB	Current Time
+0 	 5 	 39.428383
+
+NODE	NB	Current Time
+0 	 5 	 39.491645
+
+NODE	NB	Current Time
+0 	 5 	 39.943817
+
+NODE	NB	Current Time
+0 	 5 	 40.749442
+
+NODE	NB	Current Time
+0 	 5 	 40.765926
+
+NODE	NB	Current Time
+0 	 5 	 40.860541
+
+NODE	NB	Current Time
+0 	 5 	 41.300749
+
+NODE	NB	Current Time
+0 	 5 	 41.611319
+
+NODE	NB	Current Time
+0 	 5 	 42.188789
+
+NODE	NB	Current Time
+0 	 5 	 42.661509
+
+NODE	NB	Current Time
+0 	 5 	 42.940626
+
+NODE	NB	Current Time
+0 	 5 	 43.318894
+
+NODE	NB	Current Time
+0 	 5 	 43.541829
+
+NODE	NB	Current Time
+0 	 5 	 44.011482
+
+NODE	NB	Current Time
+0 	 5 	 44.191126
+
+NODE	NB	Current Time
+0 	 5 	 44.581349
+
+NODE	NB	Current Time
+0 	 5 	 44.796687
+
+NODE	NB	Current Time
+0 	 5 	 44.870838
+
+NODE	NB	Current Time
+0 	 5 	 45.734472
+
+NODE	NB	Current Time
+0 	 5 	 46.142748
+
+NODE	NB	Current Time
+0 	 5 	 46.203541
+
+NODE	NB	Current Time
+0 	 5 	 46.811459
+
+NODE	NB	Current Time
+0 	 5 	 47.154970
+
+NODE	NB	Current Time
+0 	 5 	 47.271833
+
+NODE	NB	Current Time
+0 	 5 	 47.879350
+
+NODE	NB	Current Time
+0 	 5 	 47.978498
+
+NODE	NB	Current Time
+0 	 5 	 48.694044
+
+NODE	NB	Current Time
+0 	 5 	 48.981969
+
+NODE	NB	Current Time
+0 	 5 	 49.141209
+
+NODE	NB	Current Time
+0 	 5 	 49.742166
+
+NODE	NB	Current Time
+0 	 5 	 49.753431
+
+NODE	NB	Current Time
+0 	 5 	 50.460857
+
+NODE	NB	Current Time
+0 	 5 	 50.477197
+
+NODE	NB	Current Time
+0 	 5 	 51.230014
+
+NODE	NB	Current Time
+0 	 5 	 51.584858
+
+NODE	NB	Current Time
+0 	 5 	 51.665041
+
+NODE	NB	Current Time
+0 	 5 	 52.152155
+
+NODE	NB	Current Time
+0 	 5 	 52.261689
+
+NODE	NB	Current Time
+0 	 5 	 53.211622
+
+NODE	NB	Current Time
+0 	 5 	 53.228000
+
+NODE	NB	Current Time
+0 	 5 	 53.356838
+
+NODE	NB	Current Time
+0 	 5 	 53.785310
+
+NODE	NB	Current Time
+0 	 5 	 54.387726
+
+NODE	NB	Current Time
+0 	 5 	 54.821149
+
+NODE	NB	Current Time
+0 	 5 	 55.451222
+
+NODE	NB	Current Time
+0 	 5 	 55.473072
+
+NODE	NB	Current Time
+0 	 5 	 55.704121
+
+NODE	NB	Current Time
+0 	 5 	 55.828240
+
+NODE	NB	Current Time
+0 	 5 	 56.731102
+
+NODE	NB	Current Time
+0 	 5 	 56.855181
+
+NODE	NB	Current Time
+0 	 5 	 57.221269
+
+NODE	NB	Current Time
+0 	 5 	 57.562470
+
+NODE	NB	Current Time
+0 	 5 	 57.633520
+
+NODE	NB	Current Time
+0 	 5 	 58.451806
+
+NODE	NB	Current Time
+0 	 5 	 58.602301
+
+NODE	NB	Current Time
+0 	 5 	 58.971788
+
+NODE	NB	Current Time
+0 	 5 	 59.461769
+
+NODE	NB	Current Time
+0 	 5 	 59.622873
+
+NODE	NB	Current Time
+0 	 5 	 60.129247
+
+NODE	NB	Current Time
+0 	 5 	 60.260989
+
+NODE	NB	Current Time
+0 	 5 	 60.370359
+
+NODE	NB	Current Time
+0 	 5 	 61.159495
+
+NODE	NB	Current Time
+0 	 5 	 61.469746
+
+NODE	NB	Current Time
+0 	 5 	 62.137623
+
+NODE	NB	Current Time
+0 	 5 	 62.445316
+
+NODE	NB	Current Time
+0 	 5 	 63.157999
+
+NODE	NB	Current Time
+0 	 5 	 63.356883
+
+NODE	NB	Current Time
+0 	 5 	 63.679415
+
+NODE	NB	Current Time
+0 	 5 	 63.886418
+
+NODE	NB	Current Time
+0 	 5 	 63.911657
+
+NODE	NB	Current Time
+0 	 5 	 64.918908
+
+NODE	NB	Current Time
+0 	 5 	 65.178915
+
+NODE	NB	Current Time
+0 	 5 	 65.477711
+
+NODE	NB	Current Time
+0 	 5 	 65.646191
+
+NODE	NB	Current Time
+0 	 5 	 65.749792
+
+NODE	NB	Current Time
+0 	 5 	 66.667927
+
+NODE	NB	Current Time
+0 	 5 	 66.787314
+
+NODE	NB	Current Time
+0 	 5 	 67.338781
+
+NODE	NB	Current Time
+0 	 5 	 67.549042
+
+NODE	NB	Current Time
+0 	 5 	 67.910271
+
+NODE	NB	Current Time
+0 	 5 	 68.764975
+
+NODE	NB	Current Time
+0 	 5 	 68.811542
+
+NODE	NB	Current Time
+0 	 5 	 69.381269
+
+NODE	NB	Current Time
+0 	 5 	 69.880644
+
+NODE	NB	Current Time
+0 	 5 	 70.033301
+
+NODE	NB	Current Time
+0 	 5 	 70.532925
+
+NODE	NB	Current Time
+0 	 5 	 70.664984
+
+NODE	NB	Current Time
+0 	 5 	 71.041730
+
+NODE	NB	Current Time
+0 	 5 	 71.461289
+
+NODE	NB	Current Time
+0 	 5 	 71.941449
+
+NODE	NB	Current Time
+0 	 5 	 71.974836
+
+NODE	NB	Current Time
+0 	 5 	 72.101069
+
+NODE	NB	Current Time
+0 	 5 	 72.821729
+
+NODE	NB	Current Time
+0 	 5 	 73.235558
+
+NODE	NB	Current Time
+0 	 5 	 73.531342
+
+NODE	NB	Current Time
+0 	 5 	 74.101849
+
+NODE	NB	Current Time
+0 	 5 	 74.511016
+
+NODE	NB	Current Time
+0 	 5 	 74.614145
+
+NODE	NB	Current Time
+0 	 5 	 74.712554
+
+NODE	NB	Current Time
+0 	 5 	 75.781649
+
+NODE	NB	Current Time
+0 	 5 	 75.917886
+
+NODE	NB	Current Time
+0 	 5 	 76.091002
+
+NODE	NB	Current Time
+0 	 5 	 76.312397
+
+NODE	NB	Current Time
+0 	 5 	 76.389757
+
+NODE	NB	Current Time
+0 	 5 	 77.081142
+
+NODE	NB	Current Time
+0 	 5 	 77.596462
+
+NODE	NB	Current Time
+0 	 5 	 77.814763
+
+NODE	NB	Current Time
+0 	 5 	 78.331443
+
+NODE	NB	Current Time
+0 	 5 	 78.379384
+
+NODE	NB	Current Time
+0 	 5 	 78.776584
+
+NODE	NB	Current Time
+0 	 5 	 79.161830
+
+NODE	NB	Current Time
+0 	 5 	 79.430192
+
+NODE	NB	Current Time
+0 	 5 	 79.781249
+
+NODE	NB	Current Time
+0 	 5 	 80.068708
+
+NODE	NB	Current Time
+0 	 5 	 80.743901
+
+NODE	NB	Current Time
+0 	 5 	 81.103824
+
+NODE	NB	Current Time
+0 	 5 	 81.468766
+
+NODE	NB	Current Time
+0 	 5 	 81.757550
+
+NODE	NB	Current Time
+0 	 5 	 81.985962
+
+NODE	NB	Current Time
+0 	 5 	 82.020889
+
+NODE	NB	Current Time
+0 	 5 	 83.000250
+
+NODE	NB	Current Time
+0 	 5 	 83.462591
+
+NODE	NB	Current Time
+0 	 5 	 83.611043
+
+NODE	NB	Current Time
+0 	 5 	 84.050005
+
+NODE	NB	Current Time
+0 	 5 	 84.268636
+
+NODE	NB	Current Time
+0 	 5 	 84.532533
+
+NODE	NB	Current Time
+0 	 5 	 85.074336
+
+NODE	NB	Current Time
+0 	 5 	 85.236789
+
+NODE	NB	Current Time
+0 	 5 	 85.470518
+
+NODE	NB	Current Time
+0 	 5 	 85.675228
+
+NODE	NB	Current Time
+0 	 5 	 85.812294
+
+NODE	NB	Current Time
+0 	 5 	 86.672312
+
+NODE	NB	Current Time
+0 	 5 	 87.508463
+
+NODE	NB	Current Time
+0 	 5 	 87.755766
+
+NODE	NB	Current Time
+0 	 5 	 87.771479
+
+NODE	NB	Current Time
+0 	 5 	 87.806570
+
+NODE	NB	Current Time
+0 	 5 	 88.047806
+
+NODE	NB	Current Time
+0 	 5 	 89.353110
+
+NODE	NB	Current Time
+0 	 5 	 89.359025
+
+NODE	NB	Current Time
+0 	 5 	 89.584570
+
+NODE	NB	Current Time
+0 	 5 	 89.727560
+
+NODE	NB	Current Time
+0 	 5 	 90.365837
+
+NODE	NB	Current Time
+0 	 5 	 90.912540
+
+NODE	NB	Current Time
+0 	 5 	 91.265540
+
+NODE	NB	Current Time
+0 	 5 	 91.487632
+
+NODE	NB	Current Time
+0 	 5 	 91.492537
+
+NODE	NB	Current Time
+0 	 5 	 91.646490
+
+NODE	NB	Current Time
+0 	 5 	 92.901749
+
+NODE	NB	Current Time
+0 	 5 	 92.971043
+
+NODE	NB	Current Time
+0 	 5 	 93.003173
+
+NODE	NB	Current Time
+0 	 5 	 93.541969
+
+NODE	NB	Current Time
+0 	 5 	 93.611162
+
+NODE	NB	Current Time
+0 	 5 	 94.598898
+
+NODE	NB	Current Time
+0 	 5 	 94.731343
+
+NODE	NB	Current Time
+0 	 5 	 95.095684
+
+NODE	NB	Current Time
+0 	 5 	 95.181880
+
+NODE	NB	Current Time
+0 	 5 	 95.940949
+
+NODE	NB	Current Time
+0 	 5 	 96.341649
+
+NODE	NB	Current Time
+0 	 5 	 96.352357
+
+NODE	NB	Current Time
+0 	 5 	 96.686567
+
+NODE	NB	Current Time
+0 	 5 	 96.953533
+
+NODE	NB	Current Time
+0 	 5 	 97.141229
+
+NODE	NB	Current Time
+0 	 5 	 97.571861
+
+NODE	NB	Current Time
+0 	 5 	 98.058834
+
+NODE	NB	Current Time
+0 	 5 	 98.347820
+
+NODE	NB	Current Time
+0 	 5 	 98.651199
+
+NODE	NB	Current Time
+0 	 5 	 99.348752
+
+NODE	NB	Current Time
+0 	 5 	 99.431245
+
+NODE	NB	Current Time
+0 	 5 	 100.025209
+
+NODE	NB	Current Time
+0 	 5 	 100.200858
+
+NODE	NB	Current Time
+0 	 5 	 100.399099
+
+NODE	NB	Current Time
+0 	 5 	 101.008896
+
+NODE	NB	Current Time
+0 	 5 	 101.465626
+
+NODE	NB	Current Time
+0 	 5 	 101.703162
+
+NODE	NB	Current Time
+0 	 5 	 101.714270
+
+NODE	NB	Current Time
+0 	 5 	 102.537941
+
+NODE	NB	Current Time
+0 	 5 	 102.741309
+
+NODE	NB	Current Time
+0 	 5 	 103.141009
+
+NODE	NB	Current Time
+0 	 5 	 103.267065
+
+NODE	NB	Current Time
+0 	 5 	 103.560014
+
+NODE	NB	Current Time
+0 	 5 	 104.300347
+
+NODE	NB	Current Time
+0 	 5 	 104.610314
+
+NODE	NB	Current Time
+0 	 5 	 105.087859
+
+NODE	NB	Current Time
+0 	 5 	 105.246180
+
+NODE	NB	Current Time
+0 	 5 	 105.461649
+
+NODE	NB	Current Time
+0 	 5 	 106.473354
+
+NODE	NB	Current Time
+0 	 5 	 106.521485
+
+NODE	NB	Current Time
+0 	 5 	 106.664703
+
+NODE	NB	Current Time
+0 	 5 	 106.799493
+
+NODE	NB	Current Time
+0 	 5 	 107.260463
+
+NODE	NB	Current Time
+0 	 5 	 107.941829
+
+NODE	NB	Current Time
+0 	 5 	 108.261309
+
+NODE	NB	Current Time
+0 	 5 	 108.364970
+
+NODE	NB	Current Time
+0 	 5 	 108.587071
+
+NODE	NB	Current Time
+0 	 5 	 108.651642
+
+NODE	NB	Current Time
+0 	 5 	 109.913231
+
+NODE	NB	Current Time
+0 	 5 	 109.979689
+
+NODE	NB	Current Time
+0 	 5 	 110.192576
+
+NODE	NB	Current Time
+0 	 5 	 110.237675
+
+NODE	NB	Current Time
+0 	 5 	 110.790874
+
+NODE	NB	Current Time
+0 	 5 	 111.531422
+
+NODE	NB	Current Time
+0 	 5 	 111.715152
+
+NODE	NB	Current Time
+0 	 5 	 112.171583
+
+NODE	NB	Current Time
+0 	 5 	 112.459317
+
+NODE	NB	Current Time
+0 	 5 	 112.633083
+
+NODE	NB	Current Time
+0 	 5 	 113.302189
+
+NODE	NB	Current Time
+0 	 5 	 113.352726
+
+NODE	NB	Current Time
+0 	 5 	 113.755428
+
+NODE	NB	Current Time
+0 	 5 	 113.820570
+
+NODE	NB	Current Time
+0 	 5 	 114.421269
+
+NODE	NB	Current Time
+0 	 5 	 114.545718
+
+NODE	NB	Current Time
+0 	 5 	 115.195630
+
+NODE	NB	Current Time
+0 	 5 	 115.415258
+
+NODE	NB	Current Time
+0 	 5 	 115.792931
+
+NODE	NB	Current Time
+0 	 5 	 115.891826
+
+NODE	NB	Current Time
+0 	 5 	 116.678812
+
+NODE	NB	Current Time
+0 	 5 	 117.222962
+
+NODE	NB	Current Time
+0 	 5 	 117.224289
+
+NODE	NB	Current Time
+0 	 5 	 117.624727
+
+NODE	NB	Current Time
+0 	 5 	 117.910937
+
+NODE	NB	Current Time
+0 	 5 	 118.265235
+
+NODE	NB	Current Time
+0 	 5 	 118.602063
+
+NODE	NB	Current Time
+0 	 5 	 118.855416
+
+NODE	NB	Current Time
+0 	 5 	 119.500222
+
+NODE	NB	Current Time
+0 	 5 	 119.629165
+
+NODE	NB	Current Time
+0 	 5 	 119.963177
+
+NODE	NB	Current Time
+0 	 5 	 120.454025
+
+NODE	NB	Current Time
+0 	 5 	 120.825163
+
+NODE	NB	Current Time
+0 	 5 	 121.108537
+
+NODE	NB	Current Time
+0 	 5 	 121.489324
+
+NODE	NB	Current Time
+0 	 5 	 121.973108
+
+NODE	NB	Current Time
+0 	 5 	 122.310299
+
+NODE	NB	Current Time
+0 	 5 	 122.473384
+
+NODE	NB	Current Time
+0 	 5 	 122.892745
+
+NODE	NB	Current Time
+0 	 5 	 122.997187
+
+NODE	NB	Current Time
+0 	 5 	 123.611379
+
+NODE	NB	Current Time
+0 	 5 	 124.069321
+
+NODE	NB	Current Time
+0 	 5 	 124.122579
+
+NODE	NB	Current Time
+0 	 5 	 124.717805
+
+NODE	NB	Current Time
+0 	 5 	 125.233206
+
+NODE	NB	Current Time
+0 	 5 	 125.584590
+
+NODE	NB	Current Time
+0 	 5 	 125.861009
+
+NODE	NB	Current Time
+0 	 5 	 125.973804
+
+NODE	NB	Current Time
+0 	 5 	 126.554684
+
+NODE	NB	Current Time
+0 	 5 	 126.901729
+
+NODE	NB	Current Time
+0 	 5 	 127.141309
+
+NODE	NB	Current Time
+0 	 5 	 127.450923
+
+NODE	NB	Current Time
+0 	 5 	 127.611662
+
+NODE	NB	Current Time
+0 	 5 	 128.268434
+
+NODE	NB	Current Time
+0 	 5 	 129.084838
+
+NODE	NB	Current Time
+0 	 5 	 129.101726
+
+NODE	NB	Current Time
+0 	 5 	 129.104609
+
+NODE	NB	Current Time
+0 	 5 	 129.141729
+
+NODE	NB	Current Time
+0 	 5 	 129.874989
+
+NODE	NB	Current Time
+0 	 5 	 130.365123
+
+NODE	NB	Current Time
+0 	 5 	 130.602366
+
+NODE	NB	Current Time
+0 	 5 	 130.925001
+
+NODE	NB	Current Time
+0 	 5 	 131.279069
+
+NODE	NB	Current Time
+0 	 5 	 132.101209
+
+NODE	NB	Current Time
+0 	 5 	 132.411219
+
+NODE	NB	Current Time
+0 	 5 	 132.594116
+
+NODE	NB	Current Time
+0 	 5 	 133.024502
+
+NODE	NB	Current Time
+0 	 5 	 133.148097
+
+NODE	NB	Current Time
+0 	 5 	 133.701769
+
+NODE	NB	Current Time
+0 	 5 	 134.021949
+
+NODE	NB	Current Time
+0 	 5 	 134.058342
+
+NODE	NB	Current Time
+0 	 5 	 134.453472
+
+NODE	NB	Current Time
+0 	 5 	 134.912893
+
+NODE	NB	Current Time
+0 	 5 	 135.193259
+
+NODE	NB	Current Time
+0 	 5 	 135.590311
+
+NODE	NB	Current Time
+0 	 5 	 135.742257
+
+NODE	NB	Current Time
+0 	 5 	 136.317834
+
+NODE	NB	Current Time
+0 	 5 	 136.360865
+
+NODE	NB	Current Time
+0 	 5 	 137.141429
+
+NODE	NB	Current Time
+0 	 5 	 137.492966
+
+NODE	NB	Current Time
+0 	 5 	 137.715571
+
+NODE	NB	Current Time
+0 	 5 	 137.919223
+
+NODE	NB	Current Time
+0 	 5 	 138.136524
+
+NODE	NB	Current Time
+0 	 5 	 138.821509
+
+NODE	NB	Current Time
+0 	 5 	 139.600508
+
+NODE	NB	Current Time
+0 	 5 	 139.611693
+
+NODE	NB	Current Time
+0 	 5 	 139.639657
+
+NODE	NB	Current Time
+0 	 5 	 139.967448
+
+NODE	NB	Current Time
+0 	 5 	 140.359811
+
+NODE	NB	Current Time
+0 	 5 	 141.085175
+
+NODE	NB	Current Time
+0 	 5 	 141.227123
+
+NODE	NB	Current Time
+0 	 5 	 141.387100
+
+NODE	NB	Current Time
+0 	 5 	 141.567056
+
+NODE	NB	Current Time
+0 	 5 	 142.272645
+
+NODE	NB	Current Time
+0 	 5 	 142.581749
+
+NODE	NB	Current Time
+0 	 5 	 143.328902
+
+NODE	NB	Current Time
+0 	 5 	 143.466635
+
+NODE	NB	Current Time
+0 	 5 	 143.508017
+
+NODE	NB	Current Time
+0 	 5 	 143.985301
+
+NODE	NB	Current Time
+0 	 5 	 144.193626
+
+NODE	NB	Current Time
+0 	 5 	 144.901289
+
+NODE	NB	Current Time
+0 	 5 	 145.177126
+
+NODE	NB	Current Time
+0 	 5 	 145.576883
+
+NODE	NB	Current Time
+0 	 5 	 145.989760
+
+NODE	NB	Current Time
+0 	 5 	 146.207531
+
+NODE	NB	Current Time
+0 	 5 	 146.527396
+
+NODE	NB	Current Time
+0 	 5 	 146.768655
+
+NODE	NB	Current Time
+0 	 5 	 146.778994
+
+NODE	NB	Current Time
+0 	 5 	 147.995079
+
+NODE	NB	Current Time
+0 	 5 	 148.038966
+
+NODE	NB	Current Time
+0 	 5 	 148.454124
+
+NODE	NB	Current Time
+0 	 5 	 148.581589
+
+NODE	NB	Current Time
+0 	 5 	 149.051102
+
+NODE	NB	Current Time
+0 	 5 	 149.559715
+
+NODE	NB	Current Time
+0 	 5 	 149.723892

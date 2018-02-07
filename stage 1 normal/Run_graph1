@@ -1,0 +1,7 @@
+#!/bin/bash
+chmod 777 droprate.pl 
+./drop.pl tracefile1 > tr1
+./drop.pl tracefile2 > tr2
+xgraph tr1 tr2 
+
+

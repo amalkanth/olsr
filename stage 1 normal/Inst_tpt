@@ -1,0 +1,7 @@
+#!/bin/bash
+
+./inst.awk tracefile1 > tr1
+./inst.awk tracefile2 > tr2
+./inst.awk tracefile3 > tr3 
+
+exec xgraph tr1 tr2 tr2 -geometry 800 400 &
